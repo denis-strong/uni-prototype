@@ -25,7 +25,7 @@
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.title.small}",
           "fontSize": "{font-size.18}",
-          "letterSpacing": "{letter-spacing.title.small}",
+          "letterSpacing": "10%",
           "paragraphSpacing": "{paragraph-spacing.title.small}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
@@ -38,7 +38,7 @@
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.title.small}",
           "fontSize": "{font-size.16}",
-          "letterSpacing": "{letter-spacing.title.x-small}",
+          "letterSpacing": "10%",
           "paragraphSpacing": "{paragraph-spacing.title.x-small}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
@@ -51,7 +51,7 @@
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.title.small}",
           "fontSize": "{font-size.16}",
-          "letterSpacing": "{letter-spacing.title.x-small}",
+          "letterSpacing": "10%",
           "paragraphSpacing": "{paragraph-spacing.title.x-small}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
@@ -64,7 +64,7 @@
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.title.small}",
           "fontSize": "{font-size.14}",
-          "letterSpacing": "{letter-spacing.label.large}",
+          "letterSpacing": "10%",
           "paragraphSpacing": "{paragraph-spacing.label.large}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
