@@ -10,10 +10,29 @@
           "value": "{theme.primary.tone}",
           "type": "color"
         }
+      },
+      "active": {
+        "bg-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
       }
     },
     "label": {
       "x-large": {
+        "value": {
+          "fontFamily": "{font-family.united-sans}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.title.small}",
+          "fontSize": "{font-size.18}",
+          "letterSpacing": "{letter-spacing.title.small}",
+          "paragraphSpacing": "{paragraph-spacing.title.small}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.upper}"
+        },
+        "type": "typography"
+      },
+      "large": {
         "value": {
           "fontFamily": "{font-family.united-sans}",
           "fontWeight": "{font-weight.bold}",
@@ -26,27 +45,14 @@
         },
         "type": "typography"
       },
-      "large": {
-        "value": {
-          "fontFamily": "{font-family.united-sans}",
-          "fontWeight": "{font-weight.bold}",
-          "lineHeight": "{line-height.title.small}",
-          "fontSize": "{font-size.18}",
-          "letterSpacing": "{letter-spacing.title.small}",
-          "paragraphSpacing": "{paragraph-spacing.title.small}",
-          "textDecoration": "{text-decoration.none}",
-          "textCase": "{text-case.upper}"
-        },
-        "type": "typography"
-      },
       "medium": {
         "value": {
           "fontFamily": "{font-family.united-sans}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.title.small}",
-          "fontSize": "{font-size.18}",
-          "letterSpacing": "{letter-spacing.title.small}",
-          "paragraphSpacing": "{paragraph-spacing.title.small}",
+          "fontSize": "{font-size.16}",
+          "letterSpacing": "{letter-spacing.title.x-small}",
+          "paragraphSpacing": "{paragraph-spacing.title.x-small}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
         },
@@ -57,9 +63,9 @@
           "fontFamily": "{font-family.united-sans}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.title.small}",
-          "fontSize": "{font-size.18}",
-          "letterSpacing": "{letter-spacing.title.small}",
-          "paragraphSpacing": "{paragraph-spacing.title.small}",
+          "fontSize": "{font-size.14}",
+          "letterSpacing": "{letter-spacing.label.large}",
+          "paragraphSpacing": "{paragraph-spacing.label.large}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
         },
@@ -86,6 +92,66 @@
       "border-width": {
         "value": "{border-width.2}",
         "type": "borderWidth"
+      }
+    },
+    "x-large": {
+      "padding-top": {
+        "value": "3px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{space.400}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{space.400}",
+        "type": "spacing"
+      }
+    },
+    "medium": {
+      "padding-top": {
+        "value": "3px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{space.400}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{space.400}",
+        "type": "spacing"
+      }
+    },
+    "small": {
+      "padding-top": {
+        "value": "2px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{space.300}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{space.300}",
+        "type": "spacing"
+      }
+    },
+    "outlined": {
+      "default": {
+        "border-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "bg-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
       }
     }
   }

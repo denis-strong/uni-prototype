@@ -10,7 +10,6 @@
     "Semantic/Shadow-colors",
     "Semantic/Shadow",
     "Semantic/Tokens",
-    "Components/Button",
     "Themes/Ovago",
     "Themes/Wowfare",
     "Themes/AranGrant",
@@ -24,6 +23,7 @@
     "Themes/Volunteerhq",
     "Themes/MyQuility",
     "Themes/Purdue",
+    "Components/Button",
     "Comp-Theme/Purdue"
   ]
 }

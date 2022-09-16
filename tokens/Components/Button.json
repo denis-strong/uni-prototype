@@ -260,7 +260,7 @@
     "outlined": {
       "default": {
         "bg-color": {
-          "value": "{theme.bg.primary}",
+          "value": "{colors.basic.transparent}",
           "type": "color"
         },
         "border-color": {
