@@ -128,7 +128,16 @@
         "type": "typography"
       },
       "small": {
-        "value": "{Base.Label.Small.Uppercase.Medium}",
+        "value": {
+          "fontFamily": "{font-family.inter}",
+          "fontWeight": "{font-weight.medium}",
+          "lineHeight": "Auto",
+          "fontSize": "{font-size.12}",
+          "letterSpacing": "0",
+          "paragraphSpacing": "0",
+          "textCase": "{text-case.upper}",
+          "textDecoration": "{text-decoration.none}"
+        },
         "type": "typography"
       }
     },
