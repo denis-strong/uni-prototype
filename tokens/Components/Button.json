@@ -116,7 +116,7 @@
     },
     "label": {
       "x-large": {
-        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "value": "{Base.Heading.X-Small.Default.Semi-bold}",
         "type": "typography"
       },
       "large": {
