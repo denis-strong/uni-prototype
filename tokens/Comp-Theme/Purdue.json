@@ -95,6 +95,14 @@
       }
     },
     "x-large": {
+      "border-radius": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
       "padding-top": {
         "value": "3px",
         "type": "spacing"
@@ -109,6 +117,14 @@
       }
     },
     "medium": {
+      "border-radius": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
       "padding-top": {
         "value": "3px",
         "type": "spacing"
@@ -123,6 +139,14 @@
       }
     },
     "small": {
+      "border-radius": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      },
+      "border-width": {
+        "value": "{border-width.2}",
+        "type": "borderWidth"
+      },
       "padding-top": {
         "value": "2px",
         "type": "spacing"
