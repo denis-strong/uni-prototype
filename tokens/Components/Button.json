@@ -112,9 +112,23 @@
       "border-width": {
         "value": "{border-width.1}",
         "type": "borderWidth"
-      },
-      "label": {
+      }
+    },
+    "label": {
+      "x-large": {
         "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "large": {
+        "value": "{Base.Label.Large.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "medium": {
+        "value": "{Base.Label.Medium.Default.Medium}",
+        "type": "typography"
+      },
+      "small": {
+        "value": "{Base.Label.Small.Uppercase.Medium}",
         "type": "typography"
       }
     },
