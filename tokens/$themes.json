@@ -4964,7 +4964,7 @@
       "Base/Tokens": "enabled",
       "Base/Colors": "source",
       "Base/Fonts": "source",
-      "Base/Secondary-Fonts": "disabled",
+      "Base/Secondary-Fonts": "source",
       "Base/Archive": "disabled",
       "Semantic/Typography": "source",
       "Semantic/Colors": "source",
