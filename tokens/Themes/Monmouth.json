@@ -110,6 +110,10 @@
   "sys": {
     "font-family": {
       "title": {
+        "value": "{font-family.inter}",
+        "type": "fontFamilies"
+      },
+      "title-secondary": {
         "value": "{font-family.utopia}",
         "type": "fontFamilies"
       },
@@ -126,7 +130,7 @@
     }
   },
   "font-weight": {
-    "semi-bold": {
+    "semi-bold-secondary": {
       "value": "Semibold",
       "type": "fontWeights"
     }
