@@ -1,0 +1,70 @@
+{
+  "button": {
+    "label": {
+      "x-large": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.title.x-small}",
+          "fontSize": "{font-size.16}",
+          "letterSpacing": "{letter-spacing.title.x-small}",
+          "paragraphSpacing": "{paragraph-spacing.title.x-small}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.upper}"
+        },
+        "type": "typography"
+      },
+      "large": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.label.large}",
+          "fontSize": "{font-size.14}",
+          "letterSpacing": "{letter-spacing.label.large}",
+          "paragraphSpacing": "{paragraph-spacing.label.large}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.upper}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.label.medium}",
+          "fontSize": "{font-size.13}",
+          "letterSpacing": "{letter-spacing.label.medium}",
+          "paragraphSpacing": "{paragraph-spacing.label.medium}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.upper}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{font-family.primary}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.caption.medium}",
+          "fontSize": "{font-size.12}",
+          "letterSpacing": "{letter-spacing.caption.medium}",
+          "paragraphSpacing": "{paragraph-spacing.caption.medium}",
+          "textDecoration": "{text-decoration.none}",
+          "textCase": "{text-case.upper}"
+        },
+        "type": "typography"
+      }
+    },
+    "outlined": {
+      "default": {
+        "border-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

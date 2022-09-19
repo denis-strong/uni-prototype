@@ -28,6 +28,10 @@
       "default": {
         "value": "{base.other.mango-tango}",
         "type": "color"
+      },
+      "subtle": {
+        "value": "rgba({base.other.mango-tango}, 0.08)",
+        "type": "color"
       }
     },
     "info": {
@@ -48,6 +52,10 @@
     },
     "link": {
       "value": "{base.other.mahogany}",
+      "type": "color"
+    },
+    "controls": {
+      "value": "{base.other.dark-indigo}",
       "type": "color"
     },
     "subheader": {
