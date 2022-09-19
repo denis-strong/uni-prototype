@@ -118,13 +118,13 @@
         "type": "fontFamilies"
       },
       "title-secondary": {
-        "value": "{font-family.utopia}",
+        "value": "{font-family.secondary}",
         "type": "fontFamilies"
       }
     }
   },
   "font-family": {
-    "utopia": {
+    "secondary": {
       "value": "Utopia Std",
       "type": "fontFamilies"
     }
@@ -137,6 +137,98 @@
     "semi-bold-secondary": {
       "value": "Semibold",
       "type": "fontWeights"
+    }
+  },
+  "Typography": {
+    "Display": {
+      "XX-Large": {
+        "value": "{Base-Secondary.Display.XX-Large.Default.Regular}",
+        "type": "typography",
+        "description": "80 bold"
+      },
+      "X-Large": {
+        "value": "{Base-Secondary.Display.X-Large.Default.Regular}",
+        "type": "typography",
+        "description": "72 bold"
+      },
+      "Large": {
+        "value": "{Base-Secondary.Display.Large.Default.Regular}",
+        "type": "typography",
+        "description": "64 bold"
+      },
+      "Medium": {
+        "value": "{Base-Secondary.Display.Medium.Default.Regular}",
+        "type": "typography",
+        "description": "56 semibold"
+      },
+      "Small": {
+        "value": "{Base-Secondary.Display.Small.Default.Regular}",
+        "type": "typography",
+        "description": "48 semibold"
+      },
+      "X-Small": {
+        "value": "{Base-Secondary.Display.X-Small.Default.Regular}",
+        "type": "typography",
+        "description": "40 semibold"
+      }
+    },
+    "Heading": {
+      "XX-Large": {
+        "value": "{Base-Secondary.Heading.XX-Large.Default.Semi-bold}",
+        "type": "typography",
+        "description": "32 semibold"
+      },
+      "X-Large": {
+        "value": "{Base-Secondary.Heading.X-Large.Default.Semi-bold}",
+        "type": "typography",
+        "description": "28 semibold"
+      },
+      "Large": {
+        "value": "{Base-Secondary.Heading.Large.Default.Semi-bold}",
+        "type": "typography",
+        "description": "24 semibold"
+      },
+      "Medium": {
+        "value": "{Base-Secondary.Heading.Medium.Default.Semi-bold}",
+        "type": "typography",
+        "description": "20 semibold"
+      },
+      "Small": {
+        "value": "{Base-Secondary.Heading.Small.Default.Semi-bold}",
+        "type": "typography",
+        "description": "18 semibold"
+      },
+      "X-Small": {
+        "value": "{Base-Secondary.Heading.X-Small.Default.Semi-bold}",
+        "type": "typography",
+        "description": "16 semibold"
+      }
+    }
+  },
+  "presets": {
+    "header": {
+      "value": "{colors.basic.white}",
+      "type": "color"
+    },
+    "controls": {
+      "value": "{theme.primary.dark}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{theme.primary.dark}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{theme.primary.dark}",
+      "type": "color"
+    },
+    "form": {
+      "value": "rgba({theme.primary.dark}, 0.8)",
+      "type": "color"
+    },
+    "link": {
+      "value": "{theme.primary.default}",
+      "type": "color"
     }
   }
 }

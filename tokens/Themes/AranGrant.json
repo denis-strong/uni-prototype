@@ -235,7 +235,7 @@
         "type": "fontFamilies"
       },
       "title-secondary": {
-        "value": "{font-family.utopia}",
+        "value": "{font-family.secondary}",
         "type": "fontFamilies"
       },
       "body": {
