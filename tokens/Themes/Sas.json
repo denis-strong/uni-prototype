@@ -1,0 +1,60 @@
+{
+  "base": {
+    "other": {
+      "sunset": {
+        "value": "#f25c49",
+        "type": "color"
+      },
+      "salmon": {
+        "value": "#f47a6a",
+        "type": "color"
+      },
+      "moonstone": {
+        "value": "#6da1cf",
+        "type": "color"
+      },
+      "glacier": {
+        "value": "#87b2d8",
+        "type": "color"
+      },
+      "navy": {
+        "value": "#000080",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "primary": {
+      "tone": {
+        "value": "{base.other.sunset}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{base.other.sunset}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{base.other.salmon}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "rgba({base.other.salmon}, 0.8)",
+        "type": "color"
+      },
+      "muted": {
+        "value": "rgba({base.other.salmon}, 0.4)",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "rgba({base.other.salmon}, 0.16)",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "inverse-primary": {
+        "value": "{base.other.navy}",
+        "type": "color"
+      }
+    }
+  }
+}
