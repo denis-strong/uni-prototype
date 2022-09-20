@@ -77,10 +77,6 @@
         "value": "{border-radius.0}",
         "type": "borderRadius"
       },
-      "padding-top": {
-        "value": "3px",
-        "type": "spacing"
-      },
       "border-width": {
         "value": "{border-width.2}",
         "type": "borderWidth"
@@ -94,10 +90,6 @@
       "border-width": {
         "value": "{border-width.2}",
         "type": "borderWidth"
-      },
-      "padding-top": {
-        "value": "3px",
-        "type": "spacing"
       }
     },
     "medium": {
@@ -108,10 +100,6 @@
       "border-width": {
         "value": "{border-width.2}",
         "type": "borderWidth"
-      },
-      "padding-top": {
-        "value": "3px",
-        "type": "spacing"
       }
     },
     "small": {
@@ -122,10 +110,6 @@
       "border-width": {
         "value": "{border-width.2}",
         "type": "borderWidth"
-      },
-      "padding-top": {
-        "value": "2px",
-        "type": "spacing"
       }
     },
     "outlined": {
