@@ -82,5 +82,15 @@
       "value": "{base.other.navy}",
       "type": "color"
     }
+  },
+  "font-family": {
+    "helvetica": {
+      "value": "Helvetica Now Display",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "{font-family.helvetica}",
+      "type": "fontFamilies"
+    }
   }
 }

@@ -73,6 +73,32 @@
       }
     }
   },
+  "presets": {
+    "header": {
+      "value": "{colors.basic.white}",
+      "type": "color"
+    },
+    "controls": {
+      "value": "{theme.primary.dark}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{theme.primary.dark}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{theme.primary.dark}",
+      "type": "color"
+    },
+    "form": {
+      "value": "{theme.opacity.black.80}",
+      "type": "color"
+    },
+    "link": {
+      "value": "{theme.primary.default}",
+      "type": "color"
+    }
+  },
   "base": {
     "grey": {
       "100": {
@@ -203,32 +229,6 @@
         "type": "typography",
         "description": "16 semibold"
       }
-    }
-  },
-  "presets": {
-    "header": {
-      "value": "{colors.basic.white}",
-      "type": "color"
-    },
-    "controls": {
-      "value": "{theme.primary.dark}",
-      "type": "color"
-    },
-    "subheader": {
-      "value": "{theme.primary.dark}",
-      "type": "color"
-    },
-    "footer": {
-      "value": "{theme.primary.dark}",
-      "type": "color"
-    },
-    "form": {
-      "value": "{theme.opacity.black.80}",
-      "type": "color"
-    },
-    "link": {
-      "value": "{theme.primary.default}",
-      "type": "color"
     }
   }
 }
