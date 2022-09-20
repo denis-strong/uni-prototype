@@ -264,11 +264,11 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.primary.default}",
+          "value": "{theme.primary.tone}",
           "type": "color"
         },
         "text-color": {
-          "value": "{theme.primary.default}",
+          "value": "{button.outlined.default.border-color}",
           "type": "color"
         }
       },
@@ -296,7 +296,7 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{button.outlined.active.text-color}",
+          "value": "{button.outlined.hover.text-color}",
           "type": "color"
         }
       },
@@ -310,7 +310,7 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{button.outlined.active.text-color}",
+          "value": "{button.outlined.hover.text-color}",
           "type": "color"
         }
       },

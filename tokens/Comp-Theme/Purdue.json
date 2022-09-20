@@ -117,15 +117,11 @@
         "border-color": {
           "value": "{theme.primary.tone}",
           "type": "color"
-        },
-        "text-color": {
-          "value": "{theme.primary.tone}",
-          "type": "color"
         }
       },
       "active": {
         "bg-color": {
-          "value": "{theme.primary.tone}",
+          "value": "{theme.primary.default}",
           "type": "color"
         }
       }

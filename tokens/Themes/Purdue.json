@@ -44,7 +44,7 @@
     },
     "controls": {
       "type": "color",
-      "value": "{base.gold.800}"
+      "value": "{colors.basic.black}"
     },
     "link": {
       "type": "color",
@@ -123,6 +123,15 @@
     "semi-bold": {
       "value": "Semibold",
       "type": "fontWeights"
+    }
+  },
+  "composition": {
+    "card": {
+      "value": {
+        "borderRadius": "{border-radius.0}",
+        "boxShadow": "{shadow.light.100}"
+      },
+      "type": "composition"
     }
   }
 }
