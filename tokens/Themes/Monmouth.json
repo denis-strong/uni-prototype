@@ -223,7 +223,7 @@
       "type": "color"
     },
     "form": {
-      "value": "rgba({theme.primary.dark}, 0.8)",
+      "value": "{theme.opacity.black.80}",
       "type": "color"
     },
     "link": {
