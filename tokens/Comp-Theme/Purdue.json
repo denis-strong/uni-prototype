@@ -130,5 +130,14 @@
         }
       }
     }
+  },
+  "composition": {
+    "card": {
+      "value": {
+        "borderRadius": "{border-radius.0}",
+        "boxShadow": "{shadow.light.100}"
+      },
+      "type": "composition"
+    }
   }
 }
