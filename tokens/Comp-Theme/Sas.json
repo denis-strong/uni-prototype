@@ -56,10 +56,66 @@
     },
     "primary": {
       "default": {
-        "border-color": {
+        "bg-color": {
           "value": "linear-gradient(180deg, {theme.primary.default} 0%, {theme.primary.tone} 100%)",
           "type": "color"
         },
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      },
+      "loading": {
+        "bg-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "bg-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      }
+    },
+    "outlined": {
+      "default": {
+        "border-color": {
+          "value": "{theme.primary.dark}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.primary.dark}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      },
+      "loading": {
         "text-color": {
           "value": "{theme.content.primary}",
           "type": "color"
