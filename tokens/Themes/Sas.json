@@ -81,6 +81,10 @@
     "controls": {
       "value": "{base.other.navy}",
       "type": "color"
+    },
+    "form": {
+      "value": "rgba({base.other.navy}, 0.8)",
+      "type": "color"
     }
   },
   "font-family": {
