@@ -1,0 +1,112 @@
+{
+  "layout": {
+    "header": {
+      "brand": {
+        "bg-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "separator-color": {
+          "value": "{theme.border.inverse-light}",
+          "type": "color"
+        }
+      },
+      "white": {
+        "bg-color": {
+          "value": "{theme.bg.primary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "separator-color": {
+          "value": "{theme.border.light}",
+          "type": "color"
+        }
+      },
+      "transparent": {
+        "bg-color": {
+          "value": "linear-gradient(0deg, rgba({theme.bg.inverse-primary}, 0) 0%, rgba({theme.bg.inverse-primary}, 0.4) 70%), rgba({theme.bg.inverse-primary}, 0.5) 100%);",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "separator-color": {
+          "value": "{theme.border.inverse-light}",
+          "type": "color"
+        }
+      }
+    },
+    "footer": {
+      "color": {
+        "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{theme.content.inverse-secondary}",
+        "type": "color"
+      },
+      "title-color": {
+        "value": "{theme.content.inverse-primary}",
+        "type": "color"
+      },
+      "caption-color": {
+        "value": "{theme.content.inverse-tertiary}",
+        "type": "color"
+      },
+      "separator-color": {
+        "value": "{theme.border.inverse-light}",
+        "type": "color"
+      },
+      "partners-color": {
+        "value": "{theme.border.inverse-light}",
+        "type": "color"
+      },
+      "social-icons-color": {
+        "value": "{theme.content.inverse-secondary}",
+        "type": "color"
+      }
+    },
+    "search": {
+      "subheader": {
+        "bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "option-bg-color": {
+          "value": "{theme.opacity.white.8}",
+          "type": "color"
+        },
+        "option-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "option": {
+          "padding-left": {
+            "value": "{space.150}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{layout.search.subheader.option.padding-left}/2",
+            "type": "spacing"
+          },
+          "padding-vertical": {
+            "value": "{layout.search.subheader.option.padding-left}/2",
+            "type": "spacing"
+          },
+          "space-between": {
+            "value": "{space.50}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}
