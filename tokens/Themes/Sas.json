@@ -1,24 +1,28 @@
 {
   "base": {
     "other": {
-      "sunset": {
-        "value": "#f25c49",
+      "navy": {
+        "value": "#0C2340",
         "type": "color"
       },
-      "salmon": {
-        "value": "#f47a6a",
-        "type": "color"
-      },
-      "moonstone": {
-        "value": "#6da1cf",
+      "teal": {
+        "value": "#009499",
         "type": "color"
       },
       "glacier": {
         "value": "#87b2d8",
         "type": "color"
       },
-      "navy": {
-        "value": "#000080",
+      "moonstone": {
+        "value": "#6da1cf",
+        "type": "color"
+      },
+      "salmon": {
+        "value": "#f47a6a",
+        "type": "color"
+      },
+      "sunset": {
+        "value": "#f25c49",
         "type": "color"
       }
     }
