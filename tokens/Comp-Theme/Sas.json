@@ -6,7 +6,7 @@
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.title.x-small}",
-          "fontSize": "{font-size.16}",
+          "fontSize": "{font-size.18}",
           "letterSpacing": "1",
           "paragraphSpacing": "{paragraph-spacing.none}",
           "textDecoration": "{text-decoration.none}",
@@ -19,8 +19,8 @@
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.label.large}",
-          "fontSize": "{font-size.16}",
-          "letterSpacing": "{letter-spacing.none}",
+          "fontSize": "{font-size.18}",
+          "letterSpacing": "1",
           "paragraphSpacing": "{paragraph-spacing.none}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
@@ -29,11 +29,11 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{font-family.primary}",
+          "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.label.medium}",
           "fontSize": "{font-size.16}",
-          "letterSpacing": "1",
+          "letterSpacing": "0.5",
           "paragraphSpacing": "{paragraph-spacing.none}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
@@ -46,7 +46,7 @@
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "100%",
           "fontSize": "{font-size.16}",
-          "letterSpacing": "{letter-spacing.none}",
+          "letterSpacing": "0.5",
           "paragraphSpacing": "{paragraph-spacing.none}",
           "textDecoration": "{text-decoration.none}",
           "textCase": "{text-case.upper}"
