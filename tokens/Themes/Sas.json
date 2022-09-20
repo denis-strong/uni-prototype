@@ -60,5 +60,27 @@
         "type": "color"
       }
     }
+  },
+  "presets": {
+    "header": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "footer": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "subheader": {
+      "value": "{base.other.moonstone}",
+      "type": "color"
+    },
+    "link": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    },
+    "controls": {
+      "value": "{base.other.navy}",
+      "type": "color"
+    }
   }
 }
