@@ -66,6 +66,22 @@
             "type": "spacing"
           }
         }
+      },
+      "homepage": {
+        "option": {
+          "padding-horizontal": {
+            "value": "{space.0}",
+            "type": "spacing"
+          },
+          "height": {
+            "value": "{layout.search.subheader.option.padding-left}/2",
+            "type": "spacing"
+          },
+          "space-between": {
+            "value": "{space.25}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "homepage": {
@@ -80,6 +96,20 @@
         },
         "separator-color": {
           "value": "{theme.border.inverse-light}",
+          "type": "color"
+        }
+      },
+      "form": {
+        "title-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "option-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "option-bg-color": {
+          "value": "{colors.basic.transparent}",
           "type": "color"
         }
       }
