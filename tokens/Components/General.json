@@ -310,6 +310,12 @@
         }
       }
     },
+    "border-radius": {
+      "search-input": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      }
+    },
     "footer": {
       "bg-color": {
         "value": "{theme.bg.inverse-secondary}",

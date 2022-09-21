@@ -198,19 +198,19 @@
     },
     "heading": {
       "large": {
-        "value": "{Base-Secondary.Display.X-Small.Default.Semi-bold}",
+        "value": "{Base-Secondary.Display.X-Small.Default.Medium}",
         "type": "typography"
       },
       "medium": {
-        "value": "{Base-Secondary.Heading.Large.Default.Semi-bold}",
+        "value": "{Base-Secondary.Heading.Large.Default.Medium}",
         "type": "typography"
       },
-      "medium-copy": {
-        "value": "{Base-Secondary.Heading.Medium.Default.Semi-bold}",
+      "small": {
+        "value": "{Base-Secondary.Heading.Medium.Default.Medium}",
         "type": "typography"
       },
-      "medium-copy-copy": {
-        "value": "{Base-Secondary.Heading.X-Small.Default.Semi-bold}",
+      "x-small": {
+        "value": "{Base-Secondary.Heading.Small.Default.Medium}",
         "type": "typography"
       }
     },
@@ -218,6 +218,28 @@
       "bg-color": {
         "value": "{base.other.navy}",
         "type": "color"
+      }
+    },
+    "checkout": {
+      "travel-protection": {
+        "badge-bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "badge-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        }
+      },
+      "bundles": {
+        "badge-bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "badge-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        }
       }
     }
   }

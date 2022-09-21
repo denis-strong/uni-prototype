@@ -134,5 +134,73 @@
         "type": "borderRadius"
       }
     }
+  },
+  "layout": {
+    "footer": {
+      "bg-color": {
+        "value": "{colors.basic.black}",
+        "type": "color"
+      },
+      "title-color": {
+        "value": "{theme.primary.default}",
+        "type": "color"
+      }
+    },
+    "homepage": {
+      "border-radius": {
+        "form": {
+          "value": "{semantic.border-radius.global}",
+          "type": "borderRadius"
+        },
+        "offer-title": {
+          "value": "{semantic.border-radius.global}",
+          "type": "borderRadius"
+        }
+      },
+      "subscription": {
+        "bg-color": {
+          "value": "#2e2e2e",
+          "type": "color"
+        },
+        "cta": {
+          "bg-color": {
+            "value": "{button.outlined.default.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{button.outlined.default.border-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{theme.content.inverse-primary}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "heading": {
+      "large": {
+        "value": "{Base.Display.X-Small.Uppercase.Bold}",
+        "type": "typography"
+      },
+      "medium": {
+        "value": "{Base.Heading.Large.Uppercase.Bold}",
+        "type": "typography"
+      },
+      "small": {
+        "value": "{Base.Heading.Medium.Uppercase.Bold}",
+        "type": "typography"
+      },
+      "x-small": {
+        "value": "{Base.Heading.X-Small.Uppercase.Bold}",
+        "type": "typography"
+      }
+    },
+    "border-radius": {
+      "search-input": {
+        "value": "{semantic.border-radius.global}",
+        "type": "borderRadius"
+      }
+    }
   }
 }

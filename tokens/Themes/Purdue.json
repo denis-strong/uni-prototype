@@ -9,6 +9,10 @@
         "type": "color",
         "value": "{base.gold.500}"
       },
+      "muted": {
+        "type": "color",
+        "value": "rgba({base.gold.500}, {opacity.48})"
+      },
       "subtle": {
         "type": "color",
         "value": "{base.gold.100}"
