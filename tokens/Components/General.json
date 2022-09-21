@@ -179,6 +179,32 @@
           "type": "color"
         }
       },
+      "subscription": {
+        "bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "title-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.inverse-secondary}",
+          "type": "color"
+        },
+        "input-bg-color": {
+          "value": "{theme.bg.primary}",
+          "type": "color"
+        },
+        "input-border-color": {
+          "value": "{colors.basic.transparent}",
+          "type": "color"
+        },
+        "input-text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      },
       "dropdown": {
         "default": {
           "bg-color": {
@@ -249,6 +275,12 @@
         "option-text-color": {
           "value": "{theme.content.inverse-primary}",
           "type": "color"
+        }
+      },
+      "border-radius": {
+        "form": {
+          "value": "{border-radius.16}",
+          "type": "borderRadius"
         }
       }
     },

@@ -48,5 +48,15 @@
         "type": "borderRadius"
       }
     }
+  },
+  "layout": {
+    "homepage": {
+      "border-radius": {
+        "form": {
+          "value": "{semantic.border-radius.global}",
+          "type": "borderRadius"
+        }
+      }
+    }
   }
 }
