@@ -110,6 +110,60 @@
         }
       }
     },
+    "checkout": {
+      "bundles": {
+        "badge-bg-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "badge-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{theme.success.default}",
+          "type": "color"
+        }
+      },
+      "passengers": {
+        "icon-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        }
+      },
+      "travel-protection": {
+        "badge-bg-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "badge-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        }
+      },
+      "payment": {
+        "uplift-selected-border": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "selected-control": {
+          "value": "{layout.checkout.travel-protection.selected-border}",
+          "type": "color"
+        },
+        "uplift-selected-bg": {
+          "value": "{theme.primary.subtle}",
+          "type": "color"
+        }
+      }
+    },
     "homepage": {
       "header": {
         "bg-color": {
