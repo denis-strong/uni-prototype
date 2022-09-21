@@ -213,6 +213,12 @@
         "value": "{Base-Secondary.Heading.X-Small.Default.Semi-bold}",
         "type": "typography"
       }
+    },
+    "footer": {
+      "bg-color": {
+        "value": "{base.other.navy}",
+        "type": "color"
+      }
     }
   }
 }
