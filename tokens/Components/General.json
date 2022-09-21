@@ -121,17 +121,75 @@
           "type": "color"
         }
       },
+      "dropdown": {
+        "default": {
+          "bg-color": {
+            "value": "{theme.bg.primary}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{theme.content.primary}",
+            "type": "color"
+          },
+          "secondary-text-color": {
+            "value": "{theme.content.tertiary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{theme.content.secondary}",
+            "type": "color"
+          },
+          "label-bg-color": {
+            "value": "{theme.secondary.default}",
+            "type": "color"
+          },
+          "label-text-color": {
+            "value": "{theme.content.secondary}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "bg-color": {
+            "value": "{theme.bg.secondary}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{theme.content.primary}",
+            "type": "color"
+          },
+          "secondary-text-color": {
+            "value": "{theme.content.secondary}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{theme.primary.default}",
+            "type": "color"
+          },
+          "label-bg-color": {
+            "value": "{theme.primary.default}",
+            "type": "color"
+          },
+          "label-text-color": {
+            "value": "{theme.content.inverse-primary}",
+            "type": "color"
+          }
+        }
+      },
       "form": {
-        "title-color": {
-          "value": "{theme.content.inverse-primary}",
+        "bg-color": {
+          "value": "{theme.opacity.black.80}",
           "type": "color"
         },
-        "option-text-color": {
-          "value": "{theme.content.inverse-primary}",
+        "text-color": {
+          "value": "{colors.basic.transparent}",
           "type": "color"
         },
         "option-bg-color": {
           "value": "{colors.basic.transparent}",
+          "type": "color"
+        },
+        "option-text-color": {
+          "value": "{theme.content.inverse-primary}",
           "type": "color"
         }
       }
