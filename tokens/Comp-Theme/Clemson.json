@@ -54,6 +54,24 @@
         "type": "typography"
       }
     },
+    "heading": {
+      "large": {
+        "value": "{Base-Secondary.Display.X-Small.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "medium": {
+        "value": "{Base-Secondary.Heading.X-Large.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "small": {
+        "value": "{Base-Secondary.Heading.Medium.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "x-small": {
+        "value": "{Base-Secondary.Heading.X-Small.Default.Semi-bold}",
+        "type": "typography"
+      }
+    },
     "outlined": {
       "default": {
         "border-color": {
