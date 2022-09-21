@@ -552,7 +552,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{theme.border.light}",
+          "value": "{theme.border.medium}",
           "type": "color"
         },
         "text-color": {

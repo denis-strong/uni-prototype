@@ -41,13 +41,12 @@
       }
     }
   },
-  "composition": {
-    "card": {
-      "value": {
-        "borderRadius": "{border-radius.0}",
-        "boxShadow": "{shadow.light.100}"
-      },
-      "type": "composition"
+  "semantic": {
+    "border-radius": {
+      "global": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
+      }
     }
   }
 }

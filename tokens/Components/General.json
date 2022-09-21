@@ -20,10 +20,6 @@
           "value": "{theme.bg.inverse-primary}",
           "type": "color"
         },
-        "form-bg": {
-          "value": "{theme.bg.primary}",
-          "type": "color"
-        },
         "cta-bg-color": {
           "value": "{theme.primary.default}",
           "type": "color"
@@ -65,6 +61,32 @@
             "value": "{space.50}",
             "type": "spacing"
           }
+        }
+      },
+      "sesinba": {
+        "bg-color": {
+          "value": "{theme.bg.inverse-secondary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "button-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "emphasis-text": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "secondary-text-color": {
+          "value": "{theme.content.inverse-secondary}",
+          "type": "color"
+        },
+        "decoration-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
         }
       },
       "homepage": {
@@ -143,6 +165,26 @@
         "value": "{theme.content.inverse-secondary}",
         "type": "color"
       }
+    },
+    "link": {
+      "color": {
+        "value": "{theme.info.default}",
+        "type": "color"
+      },
+      "hover-color": {
+        "value": "{theme.info.default}",
+        "type": "color"
+      }
+    }
+  },
+  "composition": {
+    "card": {
+      "value": {
+        "borderRadius": "{semantic.border-radius.global}",
+        "boxShadow": "{shadow.light.100}",
+        "fill": "{theme.bg.primary}"
+      },
+      "type": "composition"
     }
   }
 }

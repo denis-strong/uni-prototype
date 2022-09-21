@@ -128,7 +128,7 @@
   "composition": {
     "card": {
       "value": {
-        "borderRadius": "{border-radius.0}",
+        "borderRadius": "{semantic.border-radius.global}",
         "boxShadow": "{shadow.light.100}"
       },
       "type": "composition"
