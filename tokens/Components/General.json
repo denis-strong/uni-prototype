@@ -280,6 +280,10 @@
       "social-icons-color": {
         "value": "{theme.content.inverse-secondary}",
         "type": "color"
+      },
+      "title-font": {
+        "value": "{Base.Label.Large.Uppercase.Semi-bold}",
+        "type": "typography"
       }
     },
     "link": {

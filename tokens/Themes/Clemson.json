@@ -205,8 +205,26 @@
   },
   "font-family": {
     "secondary": {
-      "value": "Trade Gothic Next LT Pro",
+      "value": "Tiempos Headline",
       "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "semi-bold-secondary": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    }
+  },
+  "layout": {
+    "footer": {
+      "title-font": {
+        "value": "{Base-Secondary.Heading.X-Small.Uppercase.Semi-bold}",
+        "type": "typography"
+      },
+      "title-color": {
+        "value": "{theme.primary.default}",
+        "type": "color"
+      }
     }
   }
 }
