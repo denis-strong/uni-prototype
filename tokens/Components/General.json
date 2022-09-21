@@ -116,12 +116,12 @@
           "value": "{theme.primary.default}",
           "type": "color"
         },
-        "selected-border": {
-          "value": "{theme.primary.default}",
-          "type": "color"
-        },
         "badge-text-color": {
           "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.default}",
           "type": "color"
         },
         "icon-color": {
