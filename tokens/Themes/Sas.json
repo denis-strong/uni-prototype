@@ -96,5 +96,11 @@
       "value": "{font-family.helvetica}",
       "type": "fontFamilies"
     }
+  },
+  "font-weight": {
+    "semi-bold-secondary": {
+      "value": "{font-weight.bold}",
+      "type": "fontWeights"
+    }
   }
 }

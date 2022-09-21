@@ -77,6 +77,20 @@
         "title-color": {
           "value": "{theme.content.primary}",
           "type": "color"
+        },
+        "cta": {
+          "bg-color": {
+            "value": "{button.outlined.default.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{button.outlined.default.border-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{button.outlined.default.text-color}",
+            "type": "color"
+          }
         }
       }
     },
@@ -84,6 +98,28 @@
       "bg-color": {
         "value": "{theme.bg.inverse-primary}",
         "type": "color"
+      },
+      "title-font": {
+        "value": "{Base-Secondary.Heading.X-Small.Uppercase.Semi-bold}",
+        "type": "typography"
+      }
+    },
+    "heading": {
+      "large": {
+        "value": "{Base-Secondary.Display.X-Small.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "medium": {
+        "value": "{Base-Secondary.Heading.X-Large.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "small": {
+        "value": "{Base-Secondary.Heading.Medium.Default.Semi-bold}",
+        "type": "typography"
+      },
+      "x-small": {
+        "value": "{Base-Secondary.Heading.Small.Default.Semi-bold}",
+        "type": "typography"
       }
     }
   }
