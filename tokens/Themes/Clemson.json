@@ -202,5 +202,11 @@
         }
       }
     }
+  },
+  "font-family": {
+    "secondary": {
+      "value": "Trade Gothic Next LT Pro",
+      "type": "fontFamilies"
+    }
   }
 }
