@@ -20,6 +20,10 @@
           "value": "{theme.bg.inverse-primary}",
           "type": "color"
         },
+        "form-bg": {
+          "value": "{theme.bg.primary}",
+          "type": "color"
+        },
         "cta-bg-color": {
           "value": "{theme.primary.default}",
           "type": "color"
