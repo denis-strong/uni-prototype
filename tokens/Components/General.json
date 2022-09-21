@@ -250,6 +250,20 @@
           "value": "{theme.content.inverse-primary}",
           "type": "color"
         }
+      },
+      "heading": {
+        "large": {
+          "value": "{Base.Display.X-Small.Default.Semi-bold}",
+          "type": "typography"
+        },
+        "medium": {
+          "value": "{Base.Heading.X-Large.Default.Semi-bold}",
+          "type": "typography"
+        },
+        "small": {
+          "value": "{Base.Heading.Medium.Default.Semi-bold}",
+          "type": "typography"
+        }
       }
     },
     "footer": {
