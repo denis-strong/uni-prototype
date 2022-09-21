@@ -54,24 +54,6 @@
         "type": "typography"
       }
     },
-    "heading": {
-      "large": {
-        "value": "{Base-Secondary.Display.X-Small.Default.Semi-bold}",
-        "type": "typography"
-      },
-      "medium": {
-        "value": "{Base-Secondary.Heading.X-Large.Default.Semi-bold}",
-        "type": "typography"
-      },
-      "small": {
-        "value": "{Base-Secondary.Heading.Medium.Default.Semi-bold}",
-        "type": "typography"
-      },
-      "x-small": {
-        "value": "{Base-Secondary.Heading.X-Small.Default.Semi-bold}",
-        "type": "typography"
-      }
-    },
     "outlined": {
       "default": {
         "border-color": {
@@ -92,6 +74,24 @@
     }
   },
   "layout": {
+    "heading": {
+      "large": {
+        "value": "{Base-Secondary.Display.X-Small.Uppercase.Semi-bold}",
+        "type": "typography"
+      },
+      "medium": {
+        "value": "{Base-Secondary.Heading.X-Large.Uppercase.Semi-bold}",
+        "type": "typography"
+      },
+      "small": {
+        "value": "{Base-Secondary.Heading.Medium.Uppercase.Semi-bold}",
+        "type": "typography"
+      },
+      "x-small": {
+        "value": "{Base-Secondary.Heading.X-Small.Uppercase.Semi-bold}",
+        "type": "typography"
+      }
+    },
     "checkout": {
       "bundles": {
         "badge-bg-color": {
@@ -100,6 +100,10 @@
         },
         "icon-color": {
           "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.tone}",
           "type": "color"
         }
       },
@@ -128,6 +132,26 @@
           "value": "{theme.primary.default}",
           "type": "color"
         }
+      }
+    },
+    "footer": {
+      "text-color": {
+        "value": "{theme.content.inverse-primary}",
+        "type": "color"
+      },
+      "partners-color": {
+        "value": "{theme.content.inverse-primary}",
+        "type": "color"
+      },
+      "social-icons-color": {
+        "value": "{theme.content.inverse-primary}",
+        "type": "color"
+      }
+    },
+    "controls": {
+      "color": {
+        "value": "{base.other.dark-indigo}",
+        "type": "color"
       }
     }
   }
