@@ -295,6 +295,16 @@
         "value": "{theme.info.default}",
         "type": "color"
       }
+    },
+    "controls": {
+      "color": {
+        "value": "{theme.primary.default}",
+        "type": "color"
+      },
+      "hover-color": {
+        "value": "{theme.primary.tone}",
+        "type": "color"
+      }
     }
   },
   "composition": {

@@ -73,33 +73,39 @@
       "type": "color"
     }
   },
-  "checkout": {
-    "bundles": {
-      "badge-bg-color": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      }
-    },
-    "travel-protection": {
-      "badge-bg-color": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      }
-    },
-    "payment": {
-      "uplift-selected-border": {
-        "value": "{theme.primary.tone}",
-        "type": "color"
-      },
-      "uplift-selected-bg": {
-        "value": "{theme.primary.subtle}",
-        "type": "color"
-      }
-    }
-  },
   "layout": {
     "checkout": {
       "bundles": {
+        "badge-bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        }
+      },
+      "travel-protection": {
+        "badge-bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      },
+      "payment": {
+        "uplift-selected-border": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        },
+        "uplift-selected-bg": {
+          "value": "{theme.primary.subtle}",
+          "type": "color"
+        }
+      },
+      "passengers": {
         "icon-color": {
           "value": "{theme.primary.default}",
           "type": "color"
