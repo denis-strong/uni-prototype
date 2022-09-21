@@ -55,7 +55,35 @@
         "form": {
           "value": "{semantic.border-radius.global}",
           "type": "borderRadius"
+        },
+        "offer-title": {
+          "value": "{semantic.border-radius.global}",
+          "type": "borderRadius"
         }
+      },
+      "subscription": {
+        "bg-color": {
+          "value": "{theme.bg.secondary}",
+          "type": "color"
+        },
+        "input-border-color": {
+          "value": "{theme.border.medium}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.secondary}",
+          "type": "color"
+        },
+        "title-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      }
+    },
+    "footer": {
+      "bg-color": {
+        "value": "{theme.bg.inverse-primary}",
+        "type": "color"
       }
     }
   }

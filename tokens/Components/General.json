@@ -281,6 +281,10 @@
         "form": {
           "value": "{border-radius.16}",
           "type": "borderRadius"
+        },
+        "offer-title": {
+          "value": "{border-radius.8}",
+          "type": "borderRadius"
         }
       }
     },
