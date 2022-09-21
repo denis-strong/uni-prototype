@@ -1,21 +1,7 @@
 {
   "layout": {
-    "header": {
-      "brand": {
-        "bg-color": {
-          "value": "{theme.primary.tone}",
-          "type": "color"
-        },
-        "text-color": {
-          "value": "{theme.content.inverse-primary}",
-          "type": "color"
-        },
-        "separator-color": {
-          "value": "{theme.border.inverse-light}",
-          "type": "color"
-        }
-      },
-      "white": {
+    "search": {
+      "header": {
         "bg-color": {
           "value": "{theme.bg.primary}",
           "type": "color"
@@ -29,55 +15,29 @@
           "type": "color"
         }
       },
-      "transparent": {
-        "bg-color": {
-          "value": "linear-gradient(0deg, rgba({theme.bg.inverse-primary}, 0) 0%, rgba({theme.bg.inverse-primary}, 0.4) 70%), rgba({theme.bg.inverse-primary}, 0.5) 100%);",
-          "type": "color"
-        },
-        "text-color": {
-          "value": "{theme.content.inverse-primary}",
-          "type": "color"
-        },
-        "separator-color": {
-          "value": "{theme.border.inverse-light}",
-          "type": "color"
-        }
-      }
-    },
-    "footer": {
-      "color": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      },
-      "text-color": {
-        "value": "{theme.content.inverse-secondary}",
-        "type": "color"
-      },
-      "title-color": {
-        "value": "{theme.content.inverse-primary}",
-        "type": "color"
-      },
-      "caption-color": {
-        "value": "{theme.content.inverse-tertiary}",
-        "type": "color"
-      },
-      "separator-color": {
-        "value": "{theme.border.inverse-light}",
-        "type": "color"
-      },
-      "partners-color": {
-        "value": "{theme.border.inverse-light}",
-        "type": "color"
-      },
-      "social-icons-color": {
-        "value": "{theme.content.inverse-secondary}",
-        "type": "color"
-      }
-    },
-    "search": {
       "subheader": {
         "bg-color": {
           "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "form-bg": {
+          "value": "{theme.bg.primary}",
+          "type": "color"
+        },
+        "cta-bg-color": {
+          "value": "{theme.primary.default}",
+          "type": "color"
+        },
+        "cta-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "primary-text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "secondary-text-color": {
+          "value": "{theme.content.secondary}",
           "type": "color"
         },
         "option-bg-color": {
@@ -106,6 +66,52 @@
             "type": "spacing"
           }
         }
+      }
+    },
+    "homepage": {
+      "header": {
+        "bg-color": {
+          "value": "linear-gradient(0deg, rgba({theme.bg.inverse-primary}, 0) 0%, rgba({theme.bg.inverse-primary}, 0.4) 70%), rgba({theme.bg.inverse-primary}, 0.5) 100%);",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        },
+        "separator-color": {
+          "value": "{theme.border.inverse-light}",
+          "type": "color"
+        }
+      }
+    },
+    "footer": {
+      "bg-color": {
+        "value": "{theme.bg.inverse-secondary}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{theme.content.inverse-secondary}",
+        "type": "color"
+      },
+      "title-color": {
+        "value": "{theme.content.inverse-primary}",
+        "type": "color"
+      },
+      "caption-color": {
+        "value": "{theme.content.inverse-tertiary}",
+        "type": "color"
+      },
+      "separator-color": {
+        "value": "{theme.border.inverse-light}",
+        "type": "color"
+      },
+      "partners-color": {
+        "value": "{theme.content.inverse-tertiary}",
+        "type": "color"
+      },
+      "social-icons-color": {
+        "value": "{theme.content.inverse-secondary}",
+        "type": "color"
       }
     }
   }
