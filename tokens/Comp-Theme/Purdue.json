@@ -186,6 +186,14 @@
           "label-text-color": {
             "value": "{theme.content.primary}",
             "type": "color"
+          },
+          "icon-color": {
+            "value": "{theme.primary.tone}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{theme.bg.tertiary}",
+            "type": "color"
           }
         }
       }
