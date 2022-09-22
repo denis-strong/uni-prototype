@@ -132,6 +132,10 @@
       "global": {
         "value": "{border-radius.0}",
         "type": "borderRadius"
+      },
+      "desktop-modal": {
+        "value": "{semantic.border-radius.global}",
+        "type": "borderRadius"
       }
     }
   },
@@ -200,6 +204,80 @@
       "search-input": {
         "value": "{semantic.border-radius.global}",
         "type": "borderRadius"
+      }
+    },
+    "search": {
+      "subheader": {
+        "cta-text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "cta-border-color": {
+          "value": "{button.primary.default.border-color}",
+          "type": "color"
+        }
+      }
+    },
+    "checkout": {
+      "order-summary": {
+        "badge-bg-color": {
+          "value": "{theme.primary.muted}",
+          "type": "color"
+        },
+        "badge-icon-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      },
+      "bundles": {
+        "badge-text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      },
+      "travel-protection": {
+        "badge-text-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "selected-border": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      },
+      "payment": {
+        "uplift-selected-border": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        }
+      },
+      "passengers": {
+        "icon-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        }
+      }
+    },
+    "controls": {
+      "color": {
+        "value": "{theme.content.primary}",
+        "type": "color"
+      }
+    },
+    "link": {
+      "color": {
+        "value": "{theme.content.primary}",
+        "type": "color"
+      }
+    },
+    "recommended": {
+      "button-width": {
+        "value": "{size.2000}",
+        "type": "sizing"
       }
     }
   }

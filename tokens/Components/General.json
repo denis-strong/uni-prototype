@@ -32,6 +32,10 @@
           "value": "{theme.primary.default}",
           "type": "color"
         },
+        "cta-border-color": {
+          "value": "{layout.search.subheader.cta-bg-color}",
+          "type": "color"
+        },
         "cta-text-color": {
           "value": "{theme.content.inverse-primary}",
           "type": "color"
@@ -168,6 +172,16 @@
         },
         "uplift-selected-bg": {
           "value": "{theme.primary.subtle}",
+          "type": "color"
+        }
+      },
+      "order-summary": {
+        "badge-bg-color": {
+          "value": "{theme.primary.subtle}",
+          "type": "color"
+        },
+        "badge-icon-color": {
+          "value": "{theme.primary.default}",
           "type": "color"
         }
       }
@@ -386,6 +400,24 @@
       "x-small": {
         "value": "{Base.Heading.X-Small.Default.Semi-bold}",
         "type": "typography"
+      }
+    },
+    "recommended": {
+      "button-width": {
+        "value": "{size.1500}",
+        "type": "sizing"
+      }
+    },
+    "receipt": {
+      "help-block": {
+        "badge-icon-color": {
+          "value": "{theme.primary.tone}",
+          "type": "color"
+        },
+        "badge-bg-color": {
+          "value": "{theme.primary.subtle}",
+          "type": "color"
+        }
       }
     }
   },
