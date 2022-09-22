@@ -46,6 +46,10 @@
       "global": {
         "value": "{border-radius.0}",
         "type": "borderRadius"
+      },
+      "desktop-modal": {
+        "value": "{semantic.border-radius.global}",
+        "type": "borderRadius"
       }
     }
   },
@@ -120,6 +124,32 @@
       "x-small": {
         "value": "{Base-Secondary.Heading.Small.Default.Semi-bold}",
         "type": "typography"
+      }
+    },
+    "border-radius": {
+      "search-input": {
+        "value": "{semantic.border-radius.global}",
+        "type": "borderRadius"
+      }
+    },
+    "search": {
+      "sesinba": {
+        "emphasis-text": {
+          "value": "{theme.primary.muted}",
+          "type": "color"
+        },
+        "decoration-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{theme.bg.inverse-primary}",
+          "type": "color"
+        },
+        "secondary-text-color": {
+          "value": "{theme.content.inverse-primary}",
+          "type": "color"
+        }
       }
     }
   }

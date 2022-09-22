@@ -202,7 +202,7 @@
         "type": "typography"
       },
       "medium": {
-        "value": "{Base-Secondary.Heading.Large.Default.Medium}",
+        "value": "{Base-Secondary.Heading.X-Large.Default.Medium}",
         "type": "typography"
       },
       "small": {
@@ -239,6 +239,48 @@
         "badge-text-color": {
           "value": "{theme.content.inverse-primary}",
           "type": "color"
+        }
+      }
+    },
+    "homepage": {
+      "subscription": {
+        "bg-color": {
+          "value": "{theme.bg.secondary}",
+          "type": "color"
+        },
+        "title-color": {
+          "value": "{theme.content.primary}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{theme.content.secondary}",
+          "type": "color"
+        },
+        "cta": {
+          "bg-color": {
+            "value": "{button.primary.default.bg-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{button.primary.default.bg-color}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{button.primary.default.text-color}",
+            "type": "color"
+          }
+        },
+        "input-border-color": {
+          "value": "{theme.border.medium}",
+          "type": "color"
+        }
+      },
+      "dropdown": {
+        "hover": {
+          "label-text-color": {
+            "value": "{theme.content.primary}",
+            "type": "color"
+          }
         }
       }
     }

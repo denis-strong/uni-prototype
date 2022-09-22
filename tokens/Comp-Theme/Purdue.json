@@ -180,6 +180,14 @@
             "type": "color"
           }
         }
+      },
+      "dropdown": {
+        "hover": {
+          "label-text-color": {
+            "value": "{theme.content.primary}",
+            "type": "color"
+          }
+        }
       }
     },
     "heading": {

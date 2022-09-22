@@ -153,6 +153,24 @@
         "value": "{base.other.dark-indigo}",
         "type": "color"
       }
+    },
+    "homepage": {
+      "dropdown": {
+        "hover": {
+          "bg-color": {
+            "value": "{theme.bg.inverse-primary}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{theme.content.inverse-primary}",
+            "type": "color"
+          },
+          "secondary-text-color": {
+            "value": "{theme.content.inverse-primary}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }
