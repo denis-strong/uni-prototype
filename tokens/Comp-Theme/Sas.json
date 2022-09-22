@@ -32,7 +32,7 @@
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.label.medium}",
-          "fontSize": "{font-size.16}",
+          "fontSize": "{font-size.14}",
           "letterSpacing": "0.5",
           "paragraphSpacing": "{paragraph-spacing.none}",
           "textDecoration": "{text-decoration.none}",
@@ -45,7 +45,7 @@
           "fontFamily": "{font-family.secondary}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "100%",
-          "fontSize": "{font-size.16}",
+          "fontSize": "{font-size.14}",
           "letterSpacing": "0.5",
           "paragraphSpacing": "{paragraph-spacing.none}",
           "textDecoration": "{text-decoration.none}",
@@ -282,6 +282,12 @@
             "type": "color"
           }
         }
+      }
+    },
+    "recommended": {
+      "button-width": {
+        "value": "{size.2000}",
+        "type": "sizing"
       }
     }
   }
