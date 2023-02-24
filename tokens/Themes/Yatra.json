@@ -1,43 +1,45 @@
 {
   "theme": {
-    "bg": {
-      "inverse-primary": {
-        "value": "{base.other.regalia}",
-        "type": "color"
-      },
-      "inverse-secondary": {
-        "value": "{base.other.dark-indigo}",
-        "type": "color"
-      }
-    },
-    "content": {
-      "primary": {
-        "value": "{base.grey.300}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{base.grey.200}",
-        "type": "color"
-      }
-    },
     "primary": {
       "tone": {
-        "value": "{base.other.mahogany}",
+        "value": "{base.red.700}",
         "type": "color"
       },
       "default": {
-        "value": "{base.other.mango-tango}",
+        "value": "{base.red.500}",
         "type": "color"
       },
       "subtle": {
-        "value": "rgba({base.other.mango-tango}, 0.08)",
+        "value": "{base.red.100}",
         "type": "color"
       }
     },
     "info": {
       "dark": {
-        "value": "{base.other.marine}",
-        "type": "color"
+        "value": "{base.blue.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "tone": {
+        "value": "{base.blue.600}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.1",
+              "space": "hsl"
+            }
+          }
+        }
       },
       "default": {
         "value": "{base.blue.600}",
@@ -51,7 +53,7 @@
       "type": "color"
     },
     "link": {
-      "value": "{base.other.mahogany}",
+      "value": "{theme.info.tone}",
       "type": "color"
     },
     "controls": {
@@ -68,59 +70,9 @@
     }
   },
   "base": {
-    "grey": {
-      "100": {
-        "value": "#c8c9c7",
-        "type": "color"
-      },
-      "200": {
-        "value": "#888b8d",
-        "type": "color"
-      },
-      "300": {
-        "value": "#333333",
-        "type": "color"
-      }
-    },
-    "other": {
-      "stonewall": {
-        "value": "#8c8279",
-        "type": "color"
-      },
-      "camo-green": {
-        "value": "#546223",
-        "type": "color"
-      },
-      "ash": {
-        "value": "#cbc4bc",
-        "type": "color"
-      },
-      "marine": {
-        "value": "#00205b",
-        "type": "color"
-      },
-      "teal-blue": {
-        "value": "#005eb8",
-        "type": "color"
-      },
-      "parchment": {
-        "value": "#efdbb2",
-        "type": "color"
-      },
-      "regalia": {
-        "value": "#522d80",
-        "type": "color"
-      },
-      "mango-tango": {
-        "value": "#f56600",
-        "type": "color"
-      },
-      "mahogany": {
-        "value": "#b94700",
-        "type": "color"
-      },
-      "dark-indigo": {
-        "value": "#2e1a47",
+    "blue": {
+      "600": {
+        "value": "#228ee9",
         "type": "color"
       }
     },
@@ -201,11 +153,40 @@
           "type": "color"
         }
       }
+    },
+    "red": {
+      "100": {
+        "value": "#FCE4E3",
+        "type": "color"
+      },
+      "500": {
+        "value": "#F34F4F",
+        "type": "color"
+      },
+      "600": {
+        "value": "#D64443",
+        "type": "color"
+      },
+      "700": {
+        "value": "#ce2d2d",
+        "type": "color"
+      },
+      "800": {
+        "value": "#bd2a29",
+        "type": "color"
+      }
+    },
+    "other": {
+      "gradient": {
+        "value": "linear-gradient(90deg, #B7243A 0%, #43264E 100%);",
+        "type": "color",
+        "description": "Subheader gradient"
+      }
     }
   },
   "font-family": {
     "secondary": {
-      "value": "Tiempos Headline",
+      "value": "Rubik",
       "type": "fontFamilies"
     }
   },
