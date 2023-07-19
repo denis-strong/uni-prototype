@@ -249,7 +249,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -755,7 +756,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -1063,7 +1065,8 @@
       "component/alert": "source",
       "brand/aran-grant": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -1583,7 +1586,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled"
+      "brand/gurufare": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -1857,7 +1861,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source"
+      "semantic/brand-colors": "source",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -2124,7 +2129,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled"
+      "brand/underpricer": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -2407,7 +2413,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled"
+      "brand/myquility": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -2670,7 +2677,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled"
+      "brand/allsavings": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -2943,7 +2951,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled"
+      "brand/volunteerhq": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -3231,7 +3240,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled"
+      "brand/abenity": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -3511,7 +3521,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled"
+      "brand/easemytrip": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -3758,7 +3769,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled"
+      "brand/scholartrip": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -4288,7 +4300,8 @@
       "component/alert": "source",
       "semantic/brand-colors": "enabled",
       "semantic/generic-colors": "enabled",
-      "brand/ovago": "enabled"
+      "brand/ovago": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -4551,7 +4564,8 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core/colors": "enabled"
+      "core/colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -5079,7 +5093,8 @@
       "component/alert": "source",
       "brand/hop2": "enabled",
       "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -5626,7 +5641,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -6156,7 +6172,8 @@
       "component/alert": "source",
       "brand/wowfare": "enabled",
       "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "semantic/brand-colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -6591,7 +6608,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/delaware": "enabled"
+      "brand/delaware": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -7063,7 +7081,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled"
+      "semantic/generic-colors": "enabled",
+      "brand/wowfare_wp": "disabled"
     }
   },
   {
@@ -7538,7 +7557,313 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/priceline": "enabled"
+      "brand/priceline": "enabled",
+      "brand/wowfare_wp": "disabled"
+    }
+  },
+  {
+    "id": "72eeeac545b0814d9a8f4cd8232078a8981d4f32",
+    "name": "Wowfare-WP",
+    "$figmaStyleReferences": {
+      "base.info.dark": "S:284a3e32661dac75e34148b502449fe4d5464c49,",
+      "base.info.tone": "S:ca301e0fa75c0b6db9e12032fe4fc83d05f3629e,",
+      "base.info.default": "S:e04fd1f1861f272c2cf82e90d3b65d22c96037c2,",
+      "base.info.tint": "S:51a66d00551d6515d677830979c36e1bf8fc06ef,",
+      "base.info.muted": "S:f640ec8ca63c1d373c02c8447e42c499e09e4fd0,",
+      "base.info.subtle": "S:a5478b13124d8920aee6c3c232776218f53bad2c,",
+      "base.success.dark": "S:315eeafdca4f7f3ed17be6341383e3b5a42d0a6d,",
+      "base.success.tone": "S:b893a3a914c3962fdffaa0f44b731ea9af33d6e4,",
+      "base.success.default": "S:041bd7da5a3db165d808c8d6533a04a952360bda,",
+      "base.success.tint": "S:96d2db536645b336ca46b3feb0824cf4a4d7704b,",
+      "base.success.muted": "S:99c9bca452e97485d038f0d881987f4e2d9ed4e2,",
+      "base.success.subtle": "S:a375c4806421f5282df570edd57d3a047562a8f4,",
+      "base.warning.dark": "S:de0632f5d560634e498fe92b88d7418dcd54b7ab,",
+      "base.warning.tone": "S:8a030f55bd08b320d329698d079425c28de8eb00,",
+      "base.warning.default": "S:cf767cf905f6a86f0c7b3687937e64193c4a4161,",
+      "base.warning.tint": "S:f1a88b489f606f36c35c0f656684f1aa2cc994fa,",
+      "base.warning.muted": "S:f1bec394e048492478746d673808eeebf8791265,",
+      "base.warning.subtle": "S:beb847c991da4f2ca223587d9acdcb3de352d66c,",
+      "base.danger.dark": "S:347c82dd55755d7389abe567a44550ac10667bcb,",
+      "base.danger.tone": "S:35edfc340340fec70537cf805637483d22e7c679,",
+      "base.danger.default": "S:27ec557e3d8447918b7703d8d16d239d3782ec72,",
+      "base.danger.tint": "S:f3e19f95b3614efbca58b287ee006c8038406e5a,",
+      "base.danger.muted": "S:2fe58515da8c17780acee975e41d2701156b1af2,",
+      "base.danger.subtle": "S:4c03b42fba54af8ffa43b748266a83ac10dd0f85,",
+      "base.primary.dark": "S:fd82742d9b2eea36536bbede0d3ec19b86745e79,",
+      "base.primary.tone": "S:d016505183257abfb9dd7c895a79fc92eb5915b2,",
+      "base.primary.default": "S:64a60fee9bbfd1e18de1c48dad3d0722200bb063,",
+      "base.primary.tint": "S:0fb51ad3da71505d1bba7d9a57b4256e791a2240,",
+      "base.primary.muted": "S:5f6bb718be43018e6bfd741ec9be68e981083321,",
+      "base.primary.subtle": "S:9b61606740d963af25f85b9abb7dae384034cf53,",
+      "base.accent.dark": "S:85ce3f911009564a85e787e646b7f3ef7fe0783f,",
+      "base.accent.tone": "S:e10e6495990ac3c98e82a15215afdce1d3bf7b01,",
+      "base.accent.default": "S:7db19ce1a878b66270ac5dd6189ef6d443689ac8,",
+      "base.accent.tint": "S:9c368b043866ddc539ef68599e66d977ea5f6d2e,",
+      "base.accent.muted": "S:7b11bb7c128edc67c1f83c21b60af929c065e48f,",
+      "base.accent.subtle": "S:065596703bb85d11ac6602e99bf890a226c7da2e,",
+      "base.success.50": "S:28e6250de42591ce8f73f307fb41c681f369221d,",
+      "base.success.100": "S:b2bd0d478b1eb9ad801e10fdf437c13d0c2f24f0,",
+      "base.success.200": "S:802aa80a44f9a8617e5c5bd5f2c943306b6b6834,",
+      "base.success.300": "S:1c5474f0322c7f602d06a3e711aa760ff2ce2232,",
+      "base.success.400": "S:ecf889b021aa467dcd6461a16a497c4e2a988d13,",
+      "base.success.500": "S:08633c891bdbb8698b55bd43d54b51ba4fa7668d,",
+      "base.success.600": "S:45a9a8ae84afbf6f131576c4522dd4e238294309,",
+      "base.success.700": "S:bb883b4bee41e1af5dc3e6eee63b89ce624ffd34,",
+      "base.success.800": "S:b85daa70fe778a52abf0cc64c87dc41fc9d16a0a,",
+      "base.success.900": "S:732edb2041fe709dfc09feacea548191977d6518,",
+      "base.success.1000": "S:740cf6184258f1ae4feb4df9ac2dbfdb47ae87a8,",
+      "base.success.1100": "S:f903b6c013911c3b86a1bab50c0a1d8758407485,",
+      "base.brand.50": "S:15b52ff5da9b9844c25d30aa6532d259007a1931,",
+      "base.brand.100": "S:8aa8944205f6a1db723f6016e36f69802e920d3d,",
+      "base.brand.200": "S:6871e66a7510b7a5e2a64d35da2269c254495646,",
+      "base.brand.300": "S:4b66faf937346872706ce8881764efea342a80fb,",
+      "base.brand.400": "S:bb693ff498533e9474f5ae88db5ed6f95e75ec3b,",
+      "base.brand.500": "S:d1ab44980475b0635d8bbfaa4e9e88f028a7a5fd,",
+      "base.brand.600": "S:c321c58e72a3e848140e05aff56290fb7b67d8d2,",
+      "base.brand.700": "S:a6a8171d8fe43461e4668997cc29d466d65123be,",
+      "base.brand.800": "S:adf12898de7dd65ad5a7e4e0f5b2142bb16c40de,",
+      "base.brand.900": "S:a9561508b6d9ab923b33d6d5a23181ecb589e43a,",
+      "base.brand.1000": "S:2763bf2618db52ca48f09908153ad33fbdbded17,",
+      "base.brand.1100": "S:19f84c4938874400041a28c0858755b934e5e5cd,",
+      "base.wowfare.rhino-800": "S:1174bd05304ada1c1df39a47e25cf365d9837996,",
+      "base.wowfare.rhino-900": "S:2229e3b7b7d7e54159782fce325d81c5fe7922cf,",
+      "base.wowfare.rhino-1100": "S:70a9181a23a2aeb3bc7486dba85cfe229da5aa0a,",
+      "base.wowfare.mirage": "S:3eb89a79df30bb1b84f514a406d0fbd0d927e69a,",
+      "base.wowfare.sunflower": "S:798b8629df3ecdaa4ea6f444b9a1c7ec41dc4b4c,",
+      "base.wowfare.supernova": "S:96be9e6724c7314f9324f17801e88ff0d67ba1eb,",
+      "base.wowfare.rouge": "S:573101bc5e17273c270f4c2af9f7614a045c0d62,",
+      "base.wowfare.mint-gradient": "S:4b46e76402bd54eeefcce0abee575b9742aaec6a,",
+      "base.wowfare.mint-gradient-2": "S:29a99b8f3dc6a974e7fa09c3b5fbf3629d118b9d,",
+      "base.wowfare.mint-gradient-3": "S:ef2a4fb33de8f5b68623f077576cea1561eebcba,",
+      "base.wowfare.mint-gradient-horizontal": "S:1bdd1eb9e6c603bdf6b56dea0acb737444766a42,",
+      "base.wowfare.white-to-primary": "S:713c8cdb41c6c20acb3a715add55ad410ebefe3b,",
+      "base.wowfare.marketing.1": "S:4ac90f939d6e983de6f601155eb942f145ed117e,",
+      "base.wowfare.marketing.2": "S:c0288a0a4597d75014ca1f6798cd8e31d4423b00,",
+      "base.wowfare.marketing.3": "S:1926bba08f994613f240030272891c21bf7aa844,",
+      "theme.presets.header": "S:3897992b6e080307e78d67524963f5fa76f30ba8,",
+      "theme.presets.footer": "S:026fb941d9cefeb6cba09f1b350f98e82042a995,",
+      "theme.presets.multistep-subheader": "S:ca2fcb357539d75711d363b977a5bb4bb2e6fc55,",
+      "theme.interactive.default.normal": "S:875bdb35a997aeb0c085620a8bdfdc141ac76f07,",
+      "theme.interactive.default.hover": "S:eeae185f02be00d395085dbc98fbdfafa3e2fca8,",
+      "theme.interactive.default.active": "S:5a78f89698f617d6b70b8fded8f2325389fca27e,",
+      "theme.interactive.default.subtle-normal": "S:585da6fd94a5c4583d1cd199959592d94a7c50ca,",
+      "theme.interactive.default.subtle-hover": "S:4b990dd014a37ebe734e3df324146966de15f56f,",
+      "theme.interactive.default.subtle-active": "S:457ea811292f9f554a5adade2b14385fd1b2044f,",
+      "theme.action.primary.normal": "S:61ab71f143d7f670b1304dea260eb0ebfba243aa,",
+      "theme.action.primary.hover": "S:73ac4b374f7a825e96f0278f02b3be8f6345e2d8,",
+      "theme.action.primary.active": "S:9e1ae34df1d2c13f880d01046d7d78e73f5c03a9,",
+      "theme.action.success.normal": "S:cff956308c3360e65d09c66b0abe8fec432229bd,",
+      "theme.action.success.hover": "S:13130a0f7b0c01b2f82068b845c774993563dfeb,",
+      "theme.action.success.active": "S:9bacd643958ea5f7c638bb0c14d6a8ebc7520dba,",
+      "theme.content.brand": "S:6d63f971046eb31b83f6cebc0a104bfd384ef6c1,",
+      "theme.bg.brand": "S:a609a2ccbb0f15063df29161bab42c2562f99f4c,",
+      "theme.bg.success": "S:38def14acb4c162fe9b046175272605d4d37d655,",
+      "theme.border.brand": "S:35d66ba6f0e5271aceb09974b7ee363fba87fe7d,",
+      "theme.border.success": "S:2360f4093269dcf5fa5849c1c3924fc8a01babfa,",
+      "_system.color.focus": "S:e4c0c6ee2b3550ee9420e36b90eb838fb89103de,",
+      "_system.color.shadow.primary": "S:c6429b6e2dd06b75e05f67300a42a3f3ca1e1210,",
+      "_system.color.shadow.accent": "S:2600f0ec85515de9043bbdc5698a84950bd868c3,",
+      "_system.color.shadow.success": "S:930fb704589e19b0a18348c7e583dbf4c86c0883,",
+      "_system.color.shadow.warning": "S:e266be79d658f7e154de5af6e99057ab17376da1,",
+      "_system.color.shadow.danger": "S:c1dd200643eead1a0e06e2a47c0f4d6707f28992,",
+      "_system.color.shadow.info": "S:b40065fa5814d9df46fd709aa02e12d6ca5f7499,",
+      "_system.color.base.primary": "S:52df76bf38f7a3f3baa0a87c0fb9aef9e5a7a719,",
+      "_system.color.base.accent": "S:16412d6325f9f33ad211b12738d9bdde654b7a14,",
+      "_system.color.base.success": "S:d3305a715273ae928bc705cc2efd88f476fab201,",
+      "_system.color.base.warning": "S:00c406473ef6f516573783c4a8c316d2adaacbc7,",
+      "_system.color.base.danger": "S:fa4e57d30ebd0e9c2ea3de7265ae50fac866b1e4,",
+      "_system.color.base.info": "S:bcc89248a8163b4ae00e289bb264ecab66212288,",
+      "_system.color.base.focus": "S:0cc516b9ca97d2ffbde665a76b73d9e4b3fc6918,",
+      "theme.bg.primary": "S:34b27064bcfe866dee83a9541a74f5c33dd4318d,",
+      "theme.bg.secondary": "S:ff986b264c6c309425b288cb6d6d748ccff7a057,",
+      "theme.bg.tertiary": "S:6dd07c0b93933576026f84fbe59b6ddf111031a2,",
+      "theme.bg.disabled": "S:af576e05e8f7c513579f5060378cb4ff9ec4cd3a,",
+      "theme.bg.strong": "S:5c8baf4f36a6ad08487bd773bb17fb26d6c16365,",
+      "theme.bg.inverse-primary": "S:ad8e13edc6886744b10af39f6ee17a4d49b9560d,",
+      "theme.bg.inverse-secondary": "S:ca1589b0a5d011a857135d64b8dcbd69a5e47cd6,",
+      "theme.bg.inverse-tertiary": "S:efedd4f8d2ddd4f1058e4bfba73373bf1511f9a7,",
+      "theme.bg.scrim": "S:e687de0b1ac0d2e8ab9a22d1a9462e12adcdd644,",
+      "theme.bg.canvas": "S:bf8015d02cb4d1ec29fa0b2ec08da2a98bd1b370,",
+      "theme.bg.success-highlight": "S:59a2237d32ae533e65614c3ea09913d163e4da7a,",
+      "theme.bg.success-subtle": "S:59736acfa6a6671c16ac3bf74fe7350352599b57,",
+      "theme.bg.warning": "S:886ecc970d33e39369a22bdd158a3842a60a610c,",
+      "theme.bg.warning-highlight": "S:9ce90ffba6cc87f33acee5ef62ec0f948dc24891,",
+      "theme.bg.warning-subtle": "S:7e177fa1826ff5ae8d7193813a2330fc16ea0a0b,",
+      "theme.bg.danger": "S:ebb4727de78d5278098140fb0dce0afcd229a35d,",
+      "theme.bg.danger-highlight": "S:af99d7e0cc0da48889972085dc13eb049c03f43a,",
+      "theme.bg.danger-subtle": "S:2291bb7760a276ba42399fd883df63a34f86f604,",
+      "theme.bg.info": "S:3420ec2e08d217d2dc62410530cb068c921c13f7,",
+      "theme.bg.info-highlight": "S:25a9f125bb155dc2b4dc0d201560b60352351188,",
+      "theme.bg.info-subtle": "S:4e5a32693aad7f1443453d7be662a0451099fde4,",
+      "theme.bg.brand-subtle": "S:7c0e0938198be97dd018e07c36da5a5b5495aa18,",
+      "theme.bg.accent": "S:ecc6f1cd54f955ea6952ac4da08bbe465ad745b3,",
+      "theme.bg.accent-subtle": "S:1152f2a62ec434d30f1e147db62eaa04c59a0193,",
+      "theme.content.primary": "S:377ef133259ee7c9d724469affc52b9f2d663893,",
+      "theme.content.secondary": "S:afc5b7e9f0b3418fdaea89e3850e20facb3399c8,",
+      "theme.content.tertiary": "S:7d644cae43d71923ddbf484bc5e2d7cf99f84fac,",
+      "theme.content.disabled": "S:ed24d82776293e45948f00cde51caf8a99c65ac2,",
+      "theme.content.inverse-primary": "S:18f86247332293a4a3c89a7d9d2d07c5bceb8ffa,",
+      "theme.content.inverse-secondary": "S:bbfef9c6bdc6e63947f42d689e01590fbe65a87e,",
+      "theme.content.inverse-tertiary": "S:9451824eb599b993206c53c9fa53f044a9b52f42,",
+      "theme.content.inverse-disabled": "S:ffa4a31972af1c0a86568b1c7a6173314308d16a,",
+      "theme.content.success": "S:6221e9c7dddfdfb8cde76ba214d560136268785b,",
+      "theme.content.warning": "S:375d2bd901b2a55d69c542ddc9edddaf095d76e3,",
+      "theme.content.danger": "S:275b580d25a465f51163b765ee1b50a2979cd4f8,",
+      "theme.content.info": "S:a1fb5beb7c5a1b702cf6577bc613c2b9c59e7e68,",
+      "theme.content.accent": "S:878de33fae4439ca9af37efe49bb92bab6ff769c,",
+      "theme.border.light": "S:4195c8944fd34c3f1f67f838ea54d1d10413872d,",
+      "theme.border.medium": "S:635bcc7c0dea557606450cd76465db26b7b69459,",
+      "theme.border.strong": "S:cca2e5f654722cd20369b22d14af323622a6b646,",
+      "theme.border.light-alpha": "S:03b02e15cce57d4a113fe990d9824a618cf10c5c,",
+      "theme.border.inverse-light": "S:4287bc46b4c0af3d9fba41ebdda4fa97bfda6716,",
+      "theme.border.inverse-medium": "S:c79dbcb2de8fca7c77afc005015a9e038092cc53,",
+      "theme.border.inverse-strong": "S:7e7e32c208d2a39cf1b9b3c2a75c0987f5e3160d,",
+      "theme.border.success-subtle": "S:9ce3ff075091356e7268652c0a4733fda2b81ae1,",
+      "theme.border.warning": "S:ee424f69697decef2d8c62776f26149938beccb5,",
+      "theme.border.warning-subtle": "S:bbef05635c0ec6f7dc53dc55c2442cbe60b690c3,",
+      "theme.border.danger": "S:74898541b54a2d6efdf136bbf6048faa0a2558db,",
+      "theme.border.danger-subtle": "S:412281fb9d13ff777a6d779cdeb95081710f37a2,",
+      "theme.border.info": "S:b286d257053ff4c66410672426ee24f8918b9f61,",
+      "theme.border.info-subtle": "S:1cc845c5e073d37175f4b28b14600edac4e350a8,",
+      "theme.border.brand-subtle": "S:abb1090056ff8c4777396f2496b1a5429bf029d9,",
+      "theme.border.accent": "S:715ccb1282d5470aee06b9bc580ad5c0a266e1de,",
+      "theme.border.accent-subtle": "S:7b3ec6a7e0652a3263aa30f34e3824b1d98c30de,",
+      "theme.action.primary.on-primary": "S:7b6dc779a6af106a455bdd81ed85f0f7015969b1,",
+      "theme.action.accent.normal": "S:145c85ea4033d8eb2b5ce8c8f79814a5423a9f3f,",
+      "theme.action.accent.hover": "S:a34a0bbbb023a57db6c93badd81723a5c3132fe2,",
+      "theme.action.accent.active": "S:4d29085909ff594ff9b9512ed5833ce0f8395706,",
+      "theme.action.accent.on-accent": "S:4425e112f824f55df06ca79527df6b615a8f390e,",
+      "theme.action.success.on-success": "S:406f47f6752cc01dbf36be39f1cce37b4fab6686,",
+      "theme.action.neutral.normal": "S:af61b5e06f37b6ab9ce858a091193441ec668cb7,",
+      "theme.action.neutral.hover": "S:14c1458117372682717e5668f882f35ca4ec2cd2,",
+      "theme.action.neutral.active": "S:c680c0fcbabd60fd614a368a6ae75e0713d92d53,",
+      "theme.action.neutral.on-neutral": "S:f128a65051dab90a4676ca636b00680edaa9e8ee,",
+      "theme.action.neutral.subtle-normal": "S:a088eeae742c278d6be92b78d050104cecd78465,",
+      "theme.action.neutral.subtle-hover": "S:dd291565735e5b69f441bc8f7bea4b46ef89368a,",
+      "theme.action.neutral.subtle-active": "S:6ca91075470969c38d9d782faf635323662a8b3b,",
+      "theme.action.neutral.on-neutral-subtle": "S:f80913cc5543de7bf094db62f531f11a2796025b,",
+      "theme.action.clear.normal": "S:c60375f7e96f469571db9e7ae09eac98db430481,",
+      "theme.action.clear.hover": "S:d981c96a716f860d10685bdc5413655a671fd250,",
+      "theme.action.clear.active": "S:64cc08e24204cb7fdaf9af412cb07c9b1ff5c23e,",
+      "theme.action.link.normal": "S:06d1a37a0cddfa21133811d5a09e9d28cce18c2a,",
+      "theme.action.link.hover": "S:7850f331f64e2152dc1303827c827d377a44d416,",
+      "theme.action.link.active": "S:5dab5acc450a9a13c8ba5385aca9a43afebea770,",
+      "theme.interactive.default.selected": "S:4824ed9a5dd54f4fccf9d4a3eed5840dd3e9d0e0,",
+      "theme.interactive.default.subtle-selected": "S:0a2b660949ab1791786b197bb1b06994af4f8766,",
+      "theme.interactive.form.bg.default": "S:99a6e51b77b4685829d67294d325c8342953d4d8,",
+      "theme.interactive.form.bg.subtle": "S:1da289f1bd02b0e6330ac1e8cfcda0ea93bbd2b6,",
+      "theme.interactive.form.bg.strong": "S:f1387d94105bbfcbd6a5b90155499e73191de09f,",
+      "theme.interactive.form.bg.disabled": "S:d42594944452e052ebdef3b5af1969f0e81e0047,",
+      "theme.interactive.form.border.default": "S:56953fbe96fe922f57a62f69f6ad8cdfca74206e,",
+      "theme.interactive.form.border.hover": "S:4153ace35f169faf072de305b9a61a562641ea82,",
+      "theme.interactive.form.border.active": "S:d50c00d6466e37c54d63ba60f89d7d14c2488e38,",
+      "theme.interactive.form.border.danger": "S:d5aae00eac3a19ffaa51376251a149b9d70298f6,",
+      "theme.interactive.form.content.default": "S:4c55cbe20a4da790c0667a4b93c2e5ad23fed423,",
+      "theme.interactive.form.content.placeholder": "S:421f778607633d62ec62ae40f5e6b0b82838ecb1,",
+      "theme.interactive.form.content.entry": "S:6d4ed49ce965e94ca40733caedb87654177f7543,",
+      "theme.presets.subheader": "S:70ef22b0229743041ed9b147ea94dd9e14fa1064,",
+      "base.generic.white": "S:9d13462d9e80e537559778143f5adbfa19215858,",
+      "base.generic.black": "S:4accc79c4d20f774ca428a2e68d8dc43a8c21918,",
+      "base.generic.transparent": "S:97f15858aba70de0f0c4ee3951d8e5ed4ca4fdd7,",
+      "base.white-alpha.100": "S:b67a5acfcc4c6df48e2f86d0d7ef9390b86432c5,",
+      "base.white-alpha.150": "S:1dad0e0dbc94c0c094c59217a931d1c61705b6e7,",
+      "base.white-alpha.200": "S:dc623377f0c70458ecbcb2d125667a591cf2984e,",
+      "base.white-alpha.300": "S:9d90c15edeeee7001a5137ee49bf6967db79e552,",
+      "base.white-alpha.400": "S:5ada2367a00f0ce8c90b8f3932411af4ed509de0,",
+      "base.white-alpha.500": "S:b85cb1cc2e3d4728dd9383fad62f45f7bafaa06b,",
+      "base.white-alpha.600": "S:ed28061bad49c5f17c49eaa43cd881a6751fc850,",
+      "base.white-alpha.700": "S:1e4056a989e12b10fff977c32d52100e75bc3f36,",
+      "base.white-alpha.800": "S:a5350a1f032f3b61f2545db9844c82809f2abd33,",
+      "base.white-alpha.900": "S:7e0799e1fa14cc3c16299d77a36574830d6cc1b3,",
+      "base.white-alpha.1000": "S:4045ade84c670b1da367fdef5d59a6bcff1de148,",
+      "base.black-alpha.100": "S:fe4e02f1d81719eb956dfcb0ab2e7481fbb0ee48,",
+      "base.black-alpha.150": "S:ca6fbd4c69f990f3235e4d4e204a2d12e0025965,",
+      "base.black-alpha.200": "S:5f850910f671a04eb38bdbb6358f8b5b27585ff0,",
+      "base.black-alpha.300": "S:7a58175717d11642c0faf74a0331f380c58f47b3,",
+      "base.black-alpha.400": "S:3ef9ce467791ad227e7a2a1a1ea0a13d42731f22,",
+      "base.black-alpha.500": "S:1e658860e468ed4e1324708c14aeff97b1d3575e,",
+      "base.black-alpha.600": "S:09814423145171ed3f41879b542ade7093f3999d,",
+      "base.black-alpha.700": "S:efdf4243553742d099b67171727f1c2aa24ec83b,",
+      "base.black-alpha.800": "S:56ea65ddb0d0a2edc9d0e55fb35b3c851edc9219,",
+      "base.black-alpha.900": "S:82c2dd7e706395ef50f4dd9820406a8ead6075c5,",
+      "base.black-alpha.1000": "S:b91e06336d89eeb858fdec0add47b685eae6094c,",
+      "base.neutral.50": "S:61cf01f8f589151440db480ce39be40ed4e939b7,",
+      "base.neutral.100": "S:fd9b1e5fc1f1d23f2430d81d724b4109fcc364c8,",
+      "base.neutral.200": "S:46cf74c8a09e07f77bb93240c6dc0dce04dbab03,",
+      "base.neutral.300": "S:1f7b4fe67638d341ecaf4904ca80426452c50bf3,",
+      "base.neutral.400": "S:7d2d191d0674a64a99c5a4b9caddf0c307e1a705,",
+      "base.neutral.500": "S:605dbd9f2cbdb4e97456081420ce628cfa947281,",
+      "base.neutral.600": "S:0da750a111a5c041e9ba1aebc5f583c29400a0fc,",
+      "base.neutral.700": "S:77cbd77675bb427f5dc5de63e7211482338835c2,",
+      "base.neutral.800": "S:9b10ceca49f23b7c51f3cbc359f135545680bacd,",
+      "base.neutral.900": "S:5ecdf90a1b9e0c825d748bafab525df439ad5ba3,",
+      "base.neutral.1000": "S:3df37bbf5484b0689ab032ef8d0cd4d60792bddf,",
+      "base.neutral.1100": "S:4d02d3a81b594ff2435c7a0c66d562bbfbb34da0,",
+      "base.neutral-alpha.100": "S:76f8ea29d1ba24a25581f9f8a56fed47b316a3bf,",
+      "base.neutral-alpha.200": "S:2728fcd2b52b845dc31a02a096611681e1470d65,",
+      "base.neutral-alpha.300": "S:1b7bb673379f0d308257a290ef7ed29881cb0c9a,",
+      "base.neutral-alpha.400": "S:e1cd0fb001fefadfe55e039baa33cde54892c3b3,",
+      "base.neutral-alpha.500": "S:d8c017de7a36d690756026286365b0ac2e4b1785,",
+      "theme.info.dark": "S:a3ff975ef71d27c0c9b4bb8f8ee2291d617f7a08,",
+      "theme.info.tone": "S:58ffe02361d5df8e1e34bba0573df9e7d39cd080,",
+      "theme.info.default": "S:28227c4642b3c5c7a05ba8dfbe000876754102aa,",
+      "theme.info.tint": "S:10616684d954e6782816430934a380f44848ee8a,",
+      "theme.info.muted": "S:e49be0e61bee2ac4f741ddffc97b9b30f7976cf4,",
+      "theme.info.subtle": "S:2bb3bd7bc48c5ae47ea3c12255510ce0896d09bf,",
+      "theme.success.dark": "S:35493ac148675b7d2ebea2f563d688e99ebb9f4f,",
+      "theme.success.tone": "S:6d4c3cf623596080b94345329f4034d13235af63,",
+      "theme.success.default": "S:4181ac305cb7de19d1db6e42eda0e3828ad12382,",
+      "theme.success.tint": "S:c3799e1f4f9d2c5245691fc52a08c910d3194e06,",
+      "theme.success.muted": "S:f9df5bb01db5811a4c9d48311a1b768f3eaf03db,",
+      "theme.success.subtle": "S:0605ace387cc16234526e55b467eaeb1087a44a0,",
+      "theme.warning.dark": "S:b3b5910ef4ae2354d4847c4b993d20c28c87f713,",
+      "theme.warning.tone": "S:bf33207e9a73dc55fe3b84c5610e65d3732f800a,",
+      "theme.warning.default": "S:8c74212416562d73ae6ccd2570e1fd844803fd2d,",
+      "theme.warning.tint": "S:31682b85cdbf30854ad351ac52d1888d5dcb9bf0,",
+      "theme.warning.muted": "S:03c1f2f1088640cc4f0ccafdd22a78fd6ab7d11e,",
+      "theme.warning.subtle": "S:3f566cb279191fb5d20768082b51ae4cf6b01322,",
+      "theme.danger.dark": "S:44dbff6f17b13f107b4a3ea61a9d26c729999c34,",
+      "theme.danger.tone": "S:f8bbfbc3f014de783a014c5eab1372fdbfb3429a,",
+      "theme.danger.default": "S:94036bad4ef5f5de7583a80b1b9a0365d4c8f04d,",
+      "theme.danger.tint": "S:d9a2227c14ffe43538380b1989d000f9428bee2e,",
+      "theme.danger.muted": "S:dd5b03c281d9991cb77577de9d4b6c8ffe7358e2,",
+      "theme.danger.subtle": "S:ba0d955459f4ed20de5e47e28dd34548fb05e516,",
+      "theme.primary.dark": "S:5aba29657b5745e462c317c74cc654f0e48084d6,",
+      "theme.primary.tone": "S:aff649bbb07d1c9fb3cf7ce8416d7e42c6ca256c,",
+      "theme.primary.default": "S:5f12a542cce467ff72358d86319b7e16a707229c,",
+      "theme.primary.tint": "S:b5e862a8a4f018ba19dc0e4dbd80ce7b1df00490,",
+      "theme.primary.muted": "S:814f2df3360f80ca74beb537310ead11e3ecf8cd,",
+      "theme.primary.subtle": "S:e7e72b2e5304b8927d0974b785eff6a96098958d,",
+      "theme.accent.dark": "S:f1b162b89ce70514446157691f9494ecd7de23ae,",
+      "theme.accent.tone": "S:cfe3cb5aa156f39e7e6c6a27a5306829bc9012b0,",
+      "theme.accent.default": "S:cc674c363d8580bd53e943a8ce65ba3934a727ed,",
+      "theme.accent.tint": "S:72015773f75614761bdba7210140efa8c4e699b4,",
+      "theme.accent.muted": "S:2c6cadc7cd85ea8c0bb219e2bd2516869e9a0124,",
+      "theme.accent.subtle": "S:36cd59548c072cab7fbe263a4662115d9a79a99a,"
+    },
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/tokens": "source",
+      "semantic/base-colors": "source",
+      "semantic/brand-colors": "source",
+      "semantic/neutral-colors": "enabled",
+      "semantic/generic-colors": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/tokens": "enabled",
+      "theme/colors": "enabled",
+      "theme/effects": "enabled",
+      "theme/fonts": "source",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/wowfare": "source",
+      "brand/wowfare_wp": "enabled"
     }
   }
 ]
