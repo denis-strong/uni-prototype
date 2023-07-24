@@ -228,15 +228,15 @@
           "type": "color"
         },
         "active": {
-          "value": "{theme.interactive.default.normal}",
+          "value": "{theme.interaction.default.normal}",
           "type": "color"
         },
         "selected": {
-          "value": "{theme.interactive.default.normal}",
+          "value": "{theme.interaction.default.normal}",
           "type": "color"
         },
         "subtle-normal": {
-          "value": "{theme.interactive.default.normal}",
+          "value": "{theme.interaction.default.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -249,7 +249,7 @@
           }
         },
         "subtle-hover": {
-          "value": "{theme.interactive.default.normal}",
+          "value": "{theme.interaction.default.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -262,7 +262,7 @@
           }
         },
         "subtle-active": {
-          "value": "{theme.interactive.default.normal}",
+          "value": "{theme.interaction.default.normal}",
           "type": "color",
           "$extensions": {
             "studio.tokens": {
@@ -275,7 +275,7 @@
           }
         },
         "subtle-selected": {
-          "value": "{theme.interactive.default.subtle-hover}",
+          "value": "{theme.interaction.default.subtle.hover}",
           "type": "color"
         }
       },
