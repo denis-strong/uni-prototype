@@ -311,11 +311,11 @@
       },
       "clear": {
         "hover": {
-          "value": "{theme.action.neutral.subtle-normal}",
+          "value": "{theme.action.neutral.subtle.normal}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.neutral.subtle-hover}",
+          "value": "{theme.action.neutral.subtle.hover}",
           "type": "color"
         }
       }

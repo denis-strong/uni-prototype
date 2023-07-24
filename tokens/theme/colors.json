@@ -327,12 +327,22 @@
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.800}",
+          "value": "{base.brand.900}",
           "type": "color"
         },
-        "on-primary": {
-          "value": "{theme.content.inverse-primary}",
-          "type": "color"
+        "subtle": {
+          "normal": {
+            "value": "{base.brand.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.brand.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.brand.400}",
+            "type": "color"
+          }
         }
       },
       "accent": {
@@ -345,12 +355,22 @@
           "type": "color"
         },
         "active": {
-          "value": "{base.accent.800}",
+          "value": "{base.accent.900}",
           "type": "color"
         },
-        "on-accent": {
-          "value": "{theme.content.inverse-primary}",
-          "type": "color"
+        "subtle": {
+          "normal": {
+            "value": "{base.accent.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.accent.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.accent.400}",
+            "type": "color"
+          }
         }
       },
       "success": {
@@ -363,17 +383,55 @@
           "type": "color"
         },
         "active": {
-          "value": "{base.success.800}",
+          "value": "{base.success.900}",
           "type": "color"
         },
-        "on-success": {
-          "value": "{theme.content.inverse-primary}",
+        "subtle": {
+          "normal": {
+            "value": "{base.success.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.success.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.success.400}",
+            "type": "color"
+          }
+        }
+      },
+      "danger": {
+        "normal": {
+          "value": "{base.danger.600}",
           "type": "color"
+        },
+        "hover": {
+          "value": "{base.danger.700}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.danger.900}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.danger.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.danger.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.danger.400}",
+            "type": "color"
+          }
         }
       },
       "neutral": {
         "normal": {
-          "value": "{base.neutral.1000}",
+          "value": "{base.neutral.800}",
           "type": "color"
         },
         "hover": {
@@ -381,31 +439,25 @@
           "type": "color"
         },
         "active": {
-          "value": "{base.neutral.800}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
-        "on-neutral": {
-          "value": "{theme.content.inverse-primary}",
-          "type": "color"
-        },
-        "subtle-normal": {
-          "value": "{base.neutral-alpha.100}",
-          "type": "color"
-        },
-        "subtle-hover": {
-          "value": "{base.neutral-alpha.200}",
-          "type": "color"
-        },
-        "subtle-active": {
-          "value": "{base.neutral-alpha.300}",
-          "type": "color"
-        },
-        "on-neutral-subtle": {
-          "type": "color",
-          "value": "{theme.content.primary}"
+        "subtle": {
+          "normal": {
+            "value": "{base.neutral-alpha.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.neutral-alpha.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.neutral-alpha.400}",
+            "type": "color"
+          }
         }
       },
-      "clear": {
+      "ghost": {
         "normal": {
           "value": "{theme.bg.primary}",
           "type": "color",
