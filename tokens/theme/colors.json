@@ -507,8 +507,7 @@
       "outline": {
         "normal": {
           "value": "{base.neutral.300}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "hover": {
           "value": "{base.neutral.400}",
