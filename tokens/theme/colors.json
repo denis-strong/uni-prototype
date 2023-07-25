@@ -647,7 +647,7 @@
           }
         }
       },
-      "form-bg": {
+      "bg": {
         "form-field": {
           "type": "color",
           "value": "{theme.bg.primary}"
@@ -665,7 +665,7 @@
           "value": "{theme.bg.disabled}"
         }
       },
-      "form-border": {
+      "border": {
         "error": {
           "value": "{theme.border.danger}",
           "type": "color"
@@ -701,7 +701,7 @@
           }
         }
       },
-      "form-content": {
+      "content": {
         "default": {
           "value": "{theme.content.secondary}",
           "type": "color"
