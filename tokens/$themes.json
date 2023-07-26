@@ -223,15 +223,6 @@
       "theme.shadow.component.large.danger": "S:1651268c7af1e2c2f3d3f39b8790dbc4e4281fee,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "source",
-      "semantic/neutral-colors": "source",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -242,7 +233,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/kayak": "enabled",
-      "semantic/generic-colors": "enabled"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "source",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "source"
     }
   },
   {
@@ -721,16 +718,6 @@
       "theme.shadow.component.large.danger": "S:7a21be1fd7a7fe6f796ee4f57d047551f6f08411,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -741,7 +728,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/chatdeal": "enabled",
-      "semantic/brand-colors": "source"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1022,15 +1015,6 @@
       "theme.shadow.component.large.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -1041,8 +1025,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/aran-grant": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "enabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1536,16 +1525,6 @@
       "theme.shadow.component.large.danger": "S:ddc8d3c2cc1b377cdc79622cc78a5c2bab1b5deb,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -1555,7 +1534,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/gurufare": "enabled"
+      "brand/gurufare": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1802,16 +1788,6 @@
       "theme.shadow.component.large.danger": "S:8ecfe3852886c86c647fb7789ec27d78db2d3c6c,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -1822,7 +1798,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/luxmiles": "enabled",
-      "semantic/brand-colors": "source"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2063,16 +2045,6 @@
       "theme.shadow.component.large.danger": "S:ab2fada5dc96cf4cab324630a69a779c612ed8be,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -2082,7 +2054,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/underpricer": "enabled"
+      "brand/underpricer": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2338,17 +2317,6 @@
       "theme.shadow.component.large.danger": "S:db3c43e690f97e36d8730ab67fcea89f65676686,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -2358,7 +2326,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/myquility": "enabled"
+      "brand/myquility": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "enabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2594,17 +2569,6 @@
       "theme.shadow.component.large.danger": "S:b8c13d88c449c2dd0cfd42b65cd68e51594cab20,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/brand-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -2614,7 +2578,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/allsavings": "enabled"
+      "brand/allsavings": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2860,17 +2831,6 @@
       "theme.shadow.component.large.danger": "S:2fc6c50a3b2064e69dd38b12a6af3b7288cd3a28,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/brand-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -2880,7 +2840,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/volunteerhq": "enabled"
+      "brand/volunteerhq": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3141,17 +3108,6 @@
       "theme.shadow.component.large.danger": "S:c88ed69b7e23c70163c3d009fa2a24a486a60df5,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/brand-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -3161,7 +3117,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/abenity": "enabled"
+      "brand/abenity": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "enabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3414,17 +3377,6 @@
       "theme.shadow.component.large.danger": "S:fed345c5d77ed622f794d7089ef5a891d3471fc6,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/brand-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -3434,7 +3386,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/easemytrip": "enabled"
+      "brand/easemytrip": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3654,17 +3613,6 @@
       "theme.shadow.component.large.danger": "S:e4246e8c817bfd97f8c42a974990580ca7143d34,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "source",
-      "semantic/brand-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "source",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -3674,7 +3622,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/scholartrip": "enabled"
+      "brand/scholartrip": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "source",
+      "base/system-colors": "source"
     }
   },
   {
@@ -4178,15 +4133,6 @@
       "theme.shadow.component.large.danger": "S:6f1ac1e205ef1e8265d21775b4bc573881f9dc97,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -4196,9 +4142,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "semantic/brand-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "brand/ovago": "enabled"
+      "brand/ovago": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "enabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -4461,7 +4412,13 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core/colors": "enabled"
+      "core": "enabled",
+      "theme": "disabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "disabled",
+      "base/generic-colors": "disabled",
+      "base/typography": "disabled",
+      "base/system-colors": "disabled"
     }
   },
   {
@@ -4964,14 +4921,6 @@
       "theme.shadow.component.large.danger": "S:93500d5aed22a55d35a83f201021fc20a7cab311,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/typography": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -4982,8 +4931,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/hop2": "enabled",
-      "semantic/tokens": "enabled",
-      "semantic/generic-colors": "enabled"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -5563,15 +5517,6 @@
       "theme.shadow.component.large.danger": "S:e563080b318ba8ff7a1e35ce4625b14cb7c106a8,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -5581,8 +5526,13 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "enabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6088,15 +6038,6 @@
       "theme.action.neutral.subtle.active": "S:bb761d46552c4db73aed1fd9551096d371c701c5,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -6107,8 +6048,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/wowfare": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/brand-colors": "enabled"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "enabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6517,16 +6463,6 @@
       "theme.shadow.component.large.danger": "S:742a4231bbc1293c5a3d3cd766583fd8e0ed4d64,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -6536,7 +6472,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/delaware": "enabled"
+      "brand/delaware": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "source"
     }
   },
   {
@@ -6985,15 +6928,6 @@
       "theme.action.neutral.subtle.active": "S:7337d5dd939dc120e118543ae261ecc344390c58,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -7004,7 +6938,13 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/fairfield": "enabled",
-      "semantic/generic-colors": "enabled"
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "source"
     }
   },
   {
@@ -7454,16 +7394,6 @@
       "theme.shadow.component.large.danger": "S:c01244b6383dd8cbd01a93e229e352a491ed5b22,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "enabled",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -7473,7 +7403,14 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/priceline": "enabled"
+      "brand/priceline": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "disabled",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -7748,17 +7685,6 @@
       "theme.action.neutral.subtle.active": "S:6ca91075470969c38d9d782faf635323662a8b3b,"
     },
     "selectedTokenSets": {
-      "core/colors": "source",
-      "core/tokens": "source",
-      "semantic/base-colors": "source",
-      "semantic/brand-colors": "source",
-      "semantic/neutral-colors": "enabled",
-      "semantic/generic-colors": "enabled",
-      "semantic/typography": "enabled",
-      "semantic/tokens": "enabled",
-      "theme/colors": "enabled",
-      "theme/effects": "enabled",
-      "theme/fonts": "source",
       "component/button": "enabled",
       "component/badge": "enabled",
       "component/text-input": "enabled",
@@ -7769,7 +7695,14 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/wowfare": "source",
-      "brand/wowfare_wp": "enabled"
+      "brand/wowfare_wp": "enabled",
+      "core": "source",
+      "theme": "enabled",
+      "base/brand-colors": "source",
+      "base/neutral-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/system-colors": "source"
     }
   }
 ]
