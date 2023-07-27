@@ -235,7 +235,6 @@
       "brand/kayak": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
@@ -1537,7 +1536,6 @@
       "brand/gurufare": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
@@ -2057,7 +2055,6 @@
       "brand/underpricer": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
@@ -4412,13 +4409,7 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled",
-      "theme": "disabled",
-      "base/brand-colors": "disabled",
-      "base/neutral-colors": "disabled",
-      "base/generic-colors": "disabled",
-      "base/typography": "disabled",
-      "base/system-colors": "disabled"
+      "core": "enabled"
     }
   },
   {
@@ -4933,7 +4924,6 @@
       "brand/hop2": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
@@ -6475,7 +6465,6 @@
       "brand/delaware": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
@@ -6940,7 +6929,6 @@
       "brand/fairfield": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
@@ -7406,7 +7394,6 @@
       "brand/priceline": "enabled",
       "core": "source",
       "theme": "enabled",
-      "base/brand-colors": "disabled",
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",

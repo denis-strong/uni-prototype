@@ -330,17 +330,25 @@
           "value": "{base.brand.800}",
           "type": "color"
         },
+        "selected": {
+          "value": "{base.brand.700}",
+          "type": "color"
+        },
         "subtle": {
           "normal": {
-            "value": "{base.brand.100}",
+            "value": "{base.brand.200}",
             "type": "color"
           },
           "hover": {
-            "value": "{base.brand.200}",
+            "value": "{base.brand.300}",
             "type": "color"
           },
           "active": {
             "value": "{base.brand.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.brand.300}",
             "type": "color"
           }
         }
@@ -358,6 +366,10 @@
           "value": "{base.accent.800}",
           "type": "color"
         },
+        "selected": {
+          "value": "{base.accent.700}",
+          "type": "color"
+        },
         "subtle": {
           "normal": {
             "value": "{base.accent.200}",
@@ -369,6 +381,10 @@
           },
           "active": {
             "value": "{base.accent.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.accent.300}",
             "type": "color"
           }
         }
@@ -386,6 +402,10 @@
           "value": "{base.success.800}",
           "type": "color"
         },
+        "selected": {
+          "value": "{base.success.700}",
+          "type": "color"
+        },
         "subtle": {
           "normal": {
             "value": "{base.success.200}",
@@ -397,6 +417,10 @@
           },
           "active": {
             "value": "{base.success.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.success.300}",
             "type": "color"
           }
         }
@@ -414,6 +438,10 @@
           "value": "{base.danger.800}",
           "type": "color"
         },
+        "selected": {
+          "value": "{base.danger.700}",
+          "type": "color"
+        },
         "subtle": {
           "normal": {
             "value": "{base.danger.200}",
@@ -425,6 +453,10 @@
           },
           "active": {
             "value": "{base.danger.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.danger.300}",
             "type": "color"
           }
         }
@@ -442,6 +474,10 @@
           "value": "{base.neutral.1100}",
           "type": "color"
         },
+        "selected": {
+          "value": "{base.neutral.1000}",
+          "type": "color"
+        },
         "subtle": {
           "normal": {
             "value": "{base.neutral-alpha.100}",
@@ -453,6 +489,10 @@
           },
           "active": {
             "value": "{base.neutral-alpha.300}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.neutral-alpha.200}",
             "type": "color"
           }
         }
@@ -479,6 +519,10 @@
           "value": "{base.neutral-alpha.200}",
           "type": "color"
         },
+        "selected": {
+          "value": "{base.neutral-alpha.100}",
+          "type": "color"
+        },
         "inverted": {
           "hover": {
             "value": "{base.white-alpha.200}",
@@ -486,6 +530,10 @@
           },
           "active": {
             "value": "{base.white-alpha.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.white-alpha.200}",
             "type": "color"
           }
         }
@@ -648,11 +696,11 @@
         }
       },
       "bg": {
-        "form-field": {
+        "default": {
           "type": "color",
           "value": "{theme.bg.primary}"
         },
-        "form-field-subtle": {
+        "subtle": {
           "type": "color",
           "value": "{theme.bg.secondary}"
         },
@@ -666,10 +714,6 @@
         }
       },
       "border": {
-        "error": {
-          "value": "{theme.border.danger}",
-          "type": "color"
-        },
         "normal": {
           "value": "{base.brand.500}",
           "type": "color"
@@ -684,6 +728,10 @@
         },
         "selected": {
           "value": "{base.brand.600}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{theme.border.danger}",
           "type": "color"
         },
         "neutral": {
