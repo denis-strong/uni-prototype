@@ -724,13 +724,31 @@
         }
       },
       "bg": {
-        "default": {
+        "modal": {
           "type": "color",
           "value": "{theme.bg.primary}"
         },
-        "subtle": {
+        "side-panel": {
           "type": "color",
-          "value": "{theme.bg.secondary}"
+          "value": "{theme.bg.primary}"
+        },
+        "modeless": {
+          "type": "color",
+          "value": "{theme.bg.primary}"
+        },
+        "modeless-inverted": {
+          "type": "color",
+          "value": "{theme.bg.inverse-primary}"
+        },
+        "form-field": {
+          "default": {
+            "type": "color",
+            "value": "{theme.bg.primary}"
+          },
+          "subtle": {
+            "type": "color",
+            "value": "{theme.bg.secondary}"
+          }
         }
       },
       "border": {
