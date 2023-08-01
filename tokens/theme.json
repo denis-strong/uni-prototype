@@ -21,15 +21,15 @@
         "value": "{base.neutral.400}",
         "type": "color"
       },
-      "inverse-primary": {
+      "primary-inverse": {
         "type": "color",
         "value": "{base.neutral.1100}"
       },
-      "inverse-secondary": {
+      "secondary-inverse": {
         "type": "color",
         "value": "{base.neutral.1000}"
       },
-      "inverse-tertiary": {
+      "tertiary-inverse": {
         "type": "color",
         "value": "{base.neutral.900}"
       },
@@ -134,11 +134,11 @@
         "type": "color",
         "description": "place holder/ disabled text"
       },
-      "inverse-primary": {
+      "primary-inverse": {
         "value": "{base.generic.white}",
         "type": "color"
       },
-      "inverse-secondary": {
+      "secondary-inverse": {
         "value": "{base.generic.white}",
         "type": "color",
         "$extensions": {
@@ -151,7 +151,7 @@
           }
         }
       },
-      "inverse-tertiary": {
+      "tertiary-inverse": {
         "value": "{base.generic.white}",
         "type": "color",
         "$extensions": {
@@ -164,7 +164,7 @@
           }
         }
       },
-      "inverse-disabled": {
+      "disabled-inverse": {
         "value": "{base.generic.white}",
         "type": "color",
         "$extensions": {
@@ -228,7 +228,7 @@
           }
         }
       },
-      "inverse-light": {
+      "light-inverse": {
         "value": "{base.generic.white}",
         "type": "color",
         "$extensions": {
@@ -241,7 +241,7 @@
           }
         }
       },
-      "inverse-medium": {
+      "medium-inverse": {
         "value": "{base.generic.white}",
         "type": "color",
         "$extensions": {
@@ -254,7 +254,7 @@
           }
         }
       },
-      "inverse-strong": {
+      "strong-inverse": {
         "value": "{base.generic.white}",
         "type": "color",
         "$extensions": {
@@ -736,9 +736,9 @@
           "type": "color",
           "value": "{theme.bg.primary}"
         },
-        "modeless-inverted": {
+        "modeless-inverse": {
           "type": "color",
-          "value": "{theme.bg.inverse-primary}"
+          "value": "{theme.bg.primary-inverse}"
         },
         "form-field": {
           "default": {
@@ -802,7 +802,7 @@
         }
       },
       "focus": {
-        "value": "{base.info.600}",
+        "value": "{base.brand.600}",
         "type": "color"
       }
     },
@@ -824,12 +824,12 @@
           }
         }
       },
-      "footer": {
-        "value": "{theme.bg.inverse-primary}",
-        "type": "color"
-      },
       "multistep-subheader": {
         "value": "{theme.bg.brand}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{theme.bg.primary-inverse}",
         "type": "color"
       }
     },
