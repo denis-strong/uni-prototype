@@ -65,9 +65,7 @@
           "type": "color"
         }
       }
-    }
-  },
-  "theme": {
+    },
     "info": {
       "dark": {
         "value": "{base.info.800}",
@@ -172,7 +170,7 @@
         "type": "color"
       }
     },
-    "primary": {
+    "brand": {
       "dark": {
         "value": "{base.brand.800}",
         "type": "color"
@@ -223,11 +221,13 @@
         "value": "{base.accent.100}",
         "type": "color"
       }
-    },
+    }
+  },
+  "theme": {
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.brand.default}"
       },
       "footer": {
         "type": "color",
@@ -238,87 +238,528 @@
         "type": "color"
       }
     },
-    "interactive": {
+    "interaction": {
       "default": {
         "normal": {
-          "value": "{base.brand.500}",
+          "value": "{base.brand.tint}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.600}",
+          "value": "{base.brand.default}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.700}",
+          "value": "{base.brand.tone}",
           "type": "color"
         },
-        "subtle-normal": {
-          "value": "{base.brand.100}",
+        "selected": {
+          "value": "{base.brand.default}",
           "type": "color"
         },
-        "subtle-hover": {
-          "value": "{base.brand.200}",
+        "subtle": {
+          "normal": {
+            "value": "{base.brand.subtle}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "active": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.08",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "border": {
+        "normal": {
+          "value": "{base.brand.tint}",
           "type": "color"
         },
-        "subtle-active": {
-          "value": "{base.brand.300}",
+        "hover": {
+          "value": "{base.brand.default}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.brand.tone}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.brand.default}",
           "type": "color"
         }
+      },
+      "focus": {
+        "value": "{base.brand.default}",
+        "type": "color"
       }
     },
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.brand.500}",
+          "value": "{base.brand.tint}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.600}",
+          "value": "{base.brand.default}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.700}",
+          "value": "{base.brand.tone}",
           "type": "color"
+        },
+        "selected": {
+          "value": "{base.brand.default}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.brand.subtle}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "active": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.08",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
         }
       },
       "success": {
         "normal": {
-          "value": "{base.brand.500}",
+          "value": "{base.brand.tint}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.600}",
+          "value": "{base.brand.default}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.brand.tone}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.700}",
+          "value": "{base.brand.default}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.brand.subtle}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "active": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.08",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{base.brand.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{base.accent.tint}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.accent.default}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.accent.tone}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.accent.default}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.accent.subtle}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.accent.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "active": {
+            "value": "{base.accent.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.08",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{base.accent.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "danger": {
+        "normal": {
+          "value": "{base.danger.default}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.danger.tone}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.danger.dark}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.danger.tone}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.danger.subtle}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.danger.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "active": {
+            "value": "{base.danger.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.08",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{base.danger.subtle}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "0.04",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "link": {
+        "normal": {
+          "value": "{base.info.tone}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.info.dark}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.info.dark}",
           "type": "color"
         }
       }
     },
     "content": {
+      "success": {
+        "value": "{base.success.default}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.warning.default}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{base.danger.default}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.info.default}",
+        "type": "color"
+      },
       "brand": {
-        "value": "{base.brand.600}",
+        "value": "{base.brand.default}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.accent.default}",
         "type": "color"
       }
     },
     "bg": {
-      "brand": {
-        "value": "{base.brand.500}",
+      "warning": {
+        "value": "{base.warning.default}",
+        "type": "color"
+      },
+      "warning-highlight": {
+        "value": "{base.warning.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.04",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "warning-subtle": {
+        "value": "{base.warning.subtle}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{base.danger.default}",
+        "type": "color"
+      },
+      "danger-highlight": {
+        "value": "{base.danger.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.04",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "danger-subtle": {
+        "value": "{base.danger.subtle}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.info.default}",
+        "type": "color"
+      },
+      "info-highlight": {
+        "value": "{base.info.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.04",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "info-subtle": {
+        "value": "{base.info.subtle}",
         "type": "color"
       },
       "success": {
-        "value": "{base.brand.500}",
+        "value": "{base.brand.tint}",
+        "type": "color"
+      },
+      "success-highlight": {
+        "value": "{base.success.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.04",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "success-subtle": {
+        "value": "{base.brand.subtle}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{base.brand.tint}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.brand.subtle}",
         "type": "color"
       }
     },
     "border": {
-      "brand": {
-        "value": "{base.brand.500}",
+      "success": {
+        "value": "{base.brand.tint}",
         "type": "color"
       },
-      "success": {
-        "value": "{base.brand.500}",
+      "success-subtle": {
+        "value": "{base.brand.muted}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.warning.default}",
+        "type": "color"
+      },
+      "warning-subtle": {
+        "value": "{base.warning.muted}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{base.danger.default}",
+        "type": "color"
+      },
+      "danger-subtle": {
+        "value": "{base.danger.muted}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.info.default}",
+        "type": "color"
+      },
+      "info-subtle": {
+        "value": "{base.info.muted}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{base.brand.tint}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.brand.muted}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.accent.default}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{base.accent.muted}",
         "type": "color"
       }
     }

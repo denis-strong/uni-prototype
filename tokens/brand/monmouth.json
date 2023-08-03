@@ -75,7 +75,7 @@
     "interactiva": {
       "default": {
         "normal": {
-          "value": "{theme.primary.dark}",
+          "value": "{base.brand.dark}",
           "type": "color"
         }
       }
@@ -83,7 +83,7 @@
     "action": {
       "link": {
         "normal": {
-          "value": "{theme.primary.default}",
+          "value": "{base.brand.default}",
           "type": "color"
         }
       }
@@ -95,11 +95,11 @@
       "type": "color"
     },
     "subheader": {
-      "value": "{theme.primary.dark}",
+      "value": "{base.brand.dark}",
       "type": "color"
     },
     "footer": {
-      "value": "{theme.primary.dark}",
+      "value": "{base.brand.dark}",
       "type": "color"
     }
   },

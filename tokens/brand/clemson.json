@@ -148,7 +148,7 @@
   "layout": {
     "footer": {
       "title-color": {
-        "value": "{theme.primary.default}",
+        "value": "{base.brand.default}",
         "type": "color"
       }
     }
