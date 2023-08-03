@@ -11,7 +11,6 @@
       "theme.bg.info-subtle": "S:21c37ac99131ca2d2623aed582f10cb334f9b346,",
       "theme.bg.success": "S:1346ea7e81ddf9e0524ea89042f7167dfb685510,",
       "theme.bg.success-highlight": "S:dcf8d0602a70e080048d9f30c4e95f5ce6dee454,",
-      "theme.bg.success-subtle": "S:78887ffb5a7fcf658631ec314606a13d6364be6d,",
       "theme.bg.danger": "S:b7c00bff725393cf774e8142d287b7f30bda6d11,",
       "theme.bg.danger-highlight": "S:2f42ca5ee20b0b8d8012d317d88026f5959d1215,",
       "theme.bg.danger-subtle": "S:906630ae16d1d75886b0cbfdc1786c9693d73457,",
@@ -220,7 +219,8 @@
       "theme.content.disabled-inverse": "S:891c5cd0872267393d680f6f9bd395d4340a920a,",
       "theme.border.light-inverse": "S:a1e89d7bdf27a5fa5beb50c1e1585bc52975af42,",
       "theme.border.medium-inverse": "S:f12e4a120f40baec75d1d6d3ab8a4d1a83b6ee41,",
-      "theme.border.strong-inverse": "S:06e21f0b7157a84462d12a699ad8d24f6b7b0239,"
+      "theme.border.strong-inverse": "S:06e21f0b7157a84462d12a699ad8d24f6b7b0239,",
+      "theme.bg.success-subtles": "S:78887ffb5a7fcf658631ec314606a13d6364be6d,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -238,7 +238,8 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -321,7 +322,6 @@
       "theme.bg.canvas": "S:bdbea53b5cf621d7fff51c7f60f11dc807e8b357,",
       "theme.bg.success": "S:c209f1add233a61d634d8546135180f1e8f138f1,",
       "theme.bg.success-highlight": "S:b29496a10295c35ecd2e24fdac0709316d446fb3,",
-      "theme.bg.success-subtle": "S:e5e565493c0d85cadc0b17b934d10356cd59da9f,",
       "theme.bg.warning": "S:f4267136a7b0690e9daefb8505549457eda52bc1,",
       "theme.bg.warning-highlight": "S:8422fe5d5a69a7876edcff8631ddc576899b758b,",
       "theme.bg.warning-subtle": "S:d923d9643ce43505fc41eea7fe253d6be2f1e6e5,",
@@ -714,7 +714,8 @@
       "theme.content.disabled-inverse": "S:38b49bf33fb268a8a4bbbd88ecc06bd36788e3b4,",
       "theme.border.light-inverse": "S:ba0ee959d0906f0807aaafd38247c9aa3f29b5a6,",
       "theme.border.medium-inverse": "S:7384cf2901a5e8c394c6e6aa61f2e20b455c2db3,",
-      "theme.border.strong-inverse": "S:f252aac31be4b27529f8377a81616cd6400e9578,"
+      "theme.border.strong-inverse": "S:f252aac31be4b27529f8377a81616cd6400e9578,",
+      "theme.bg.success-subtles": "S:e5e565493c0d85cadc0b17b934d10356cd59da9f,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -733,7 +734,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -855,7 +857,6 @@
       "theme.bg.canvas": "S:dc376925fd6878e1112241ebaf74385e8b0b074b,",
       "theme.bg.success": "S:c3a141f9d5cb39104c7272a56c8ea7eca04b5c6d,",
       "theme.bg.success-highlight": "S:975888879fcd006603fd1d4a9975e8e0f586a4eb,",
-      "theme.bg.success-subtle": "S:d9ce033bde89b87bf7bf36fdbde9c68d477b24ac,",
       "theme.bg.warning": "S:535663c15d7bf6cda1de634bf0df81e8c7f3f7aa,",
       "theme.bg.warning-highlight": "S:c4d08e106dda8e39effee2dcfd7cf009c1093ce7,",
       "theme.bg.warning-subtle": "S:b2eb45846b70b054678e474b188f5b485ff6f61f,",
@@ -1011,7 +1012,8 @@
       "theme.content.disabled-inverse": "S:db594fa57492df45f934e247a3dbceaece5dfb33,",
       "theme.border.light-inverse": "S:9b046eef213c7747134b9cd77c3591622e6b69c2,",
       "theme.border.medium-inverse": "S:1f30dbba68b8148694f8e3b03f55e3244ed03914,",
-      "theme.border.strong-inverse": "S:b270fb318dbc656e42fe0c39b181f0c676b78ef6,"
+      "theme.border.strong-inverse": "S:b270fb318dbc656e42fe0c39b181f0c676b78ef6,",
+      "theme.bg.success-subtles": "S:d9ce033bde89b87bf7bf36fdbde9c68d477b24ac,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -1030,7 +1032,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -1136,7 +1139,6 @@
       "theme.bg.canvas": "S:07ed605dacfd23a965de5b26465f43215ed65a3e,",
       "theme.bg.success": "S:e43f35854da74fdae7e2bb0a2e42f2cf47dbce1e,",
       "theme.bg.success-highlight": "S:3cd40605847ae19e39660e58da192fbe39cc6b7d,",
-      "theme.bg.success-subtle": "S:57702db61e56496e253a75c740e2bab43a71bc71,",
       "theme.bg.warning": "S:30199cd998f651907b150933a32594bc04467d95,",
       "theme.bg.warning-highlight": "S:d7ec69cd0494a9d15fa007353535f61215703bad,",
       "theme.bg.warning-subtle": "S:e9a94bcd52d71aab670520b06dde540c580cd929,",
@@ -1521,7 +1523,8 @@
       "theme.content.disabled-inverse": "S:6b6b6974bd1a3e9f9ade541f716815c888760107,",
       "theme.border.light-inverse": "S:236cfb64fbf6d0b1bbb18fc7a844d7cff8d586d6,",
       "theme.border.medium-inverse": "S:4f433d438716613aff962d0494eb39cabcca2df6,",
-      "theme.border.strong-inverse": "S:c4f8b076686dd3a045eed47e950509dfa1a335f6,"
+      "theme.border.strong-inverse": "S:c4f8b076686dd3a045eed47e950509dfa1a335f6,",
+      "theme.bg.success-subtles": "S:57702db61e56496e253a75c740e2bab43a71bc71,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -1539,7 +1542,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -1638,7 +1642,6 @@
       "theme.bg.canvas": "S:b6735849dde4f4469fe288a98d115a3610de9340,",
       "theme.bg.success": "S:2e505dc45d633348efde1cedb6dbdd8583e7bc49,",
       "theme.bg.success-highlight": "S:c212bf779e4d474ecd4337af33c46775cbfe7bf5,",
-      "theme.bg.success-subtle": "S:7229a2a26ffabd07091415243639d728491f29bf,",
       "theme.bg.warning": "S:416b356973716f982d1fef4a722b419f3f5eabd0,",
       "theme.bg.warning-highlight": "S:10fb4092d5250a1bb537702a7829565045cb9f17,",
       "theme.bg.warning-subtle": "S:04f705ece9a2413c4c097b5b159b73a1d4ce5db5,",
@@ -1783,7 +1786,8 @@
       "theme.content.disabled-inverse": "S:fc5f88a49ef8181e6872d02210aece357649bfc7,",
       "theme.border.light-inverse": "S:a864935731466aac5c11eaed164b1a22eb1d6056,",
       "theme.border.medium-inverse": "S:38a577fa44517742c9fbfb5a964e8408da480e33,",
-      "theme.border.strong-inverse": "S:8c85f8bf157791053912f2d1697c7be77f544eca,"
+      "theme.border.strong-inverse": "S:8c85f8bf157791053912f2d1697c7be77f544eca,",
+      "theme.bg.success-subtles": "S:7229a2a26ffabd07091415243639d728491f29bf,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -1802,7 +1806,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -1854,7 +1859,6 @@
       "theme.bg.canvas": "S:5d3915ceac8bea11354e684d4bf2e9056c86fea6,",
       "theme.bg.success": "S:c18ddfd4322a8b1bb92563165f6447336942b06a,",
       "theme.bg.success-highlight": "S:b9c2697fe3c3d941e7c59b35b4123a0b484b1bd0,",
-      "theme.bg.success-subtle": "S:6ad08f54e5d7afd0b1c0bc656b5bd2303ed5dac3,",
       "theme.bg.warning": "S:18200cc2bf062873cb81018209535cb46ab5bafa,",
       "theme.bg.warning-highlight": "S:4e40d4dfb2763455d0972932cb1ec3813c1f2172,",
       "theme.bg.warning-subtle": "S:04635df493b0615ef189dbafd3781597afaf2ddf,",
@@ -2040,7 +2044,8 @@
       "theme.content.disabled-inverse": "S:fb589c9052a755ac8322ae907e9d24debd044bca,",
       "theme.border.light-inverse": "S:f319d51f67112414f0aefe0cd4f6dbf70f22a33d,",
       "theme.border.medium-inverse": "S:c5fe56f3e3ad4c594d81d01961b6c4831e68f867,",
-      "theme.border.strong-inverse": "S:fc9b16985437e7cfaadebda3afab967fdd29456e,"
+      "theme.border.strong-inverse": "S:fc9b16985437e7cfaadebda3afab967fdd29456e,",
+      "theme.bg.success-subtles": "S:6ad08f54e5d7afd0b1c0bc656b5bd2303ed5dac3,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -2058,7 +2063,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -2142,7 +2148,6 @@
       "theme.bg.canvas": "S:cd1780211ffdfd324aa1d4f54670891fcb9b972b,",
       "theme.bg.success": "S:f71f1ce9eeb135fa898ad3a68ba500209dc7eb77,",
       "theme.bg.success-highlight": "S:d7ae14a6db98df4eeb1b332a90d7fd64b4cc724c,",
-      "theme.bg.success-subtle": "S:9e62942ed5575a5ad53981e9e8c614ed95b00489,",
       "theme.bg.warning": "S:54c334cb0ee35e009da6e8d9c3bef62c3abfe2bd,",
       "theme.bg.warning-highlight": "S:d51b8535fa75dcdcd2eb09c4cfb72f5c2366227b,",
       "theme.bg.warning-subtle": "S:106667e833fa239f47b3d5bfaf570b4288e6d742,",
@@ -2311,7 +2316,8 @@
       "theme.content.disabled-inverse": "S:9c22edc1c408eb3f1b21937dbfe0021dcc634ac2,",
       "theme.border.light-inverse": "S:22f3e6ce48b29f6b416882c603b0d24a83f61998,",
       "theme.border.medium-inverse": "S:93a754cabd6589595b6bb8bc647930b519cada1f,",
-      "theme.border.strong-inverse": "S:124aa44890ff14ce76ff24ce1a8eeb9571303072,"
+      "theme.border.strong-inverse": "S:124aa44890ff14ce76ff24ce1a8eeb9571303072,",
+      "theme.bg.success-subtles": "S:9e62942ed5575a5ad53981e9e8c614ed95b00489,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -2330,7 +2336,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -2418,7 +2425,6 @@
       "theme.bg.canvas": "S:f4ed72e3a47099beced32158166a9311bc5aed19,",
       "theme.bg.success": "S:f9736eb59e36ba42a64cebaddd9832ca38a50a27,",
       "theme.bg.success-highlight": "S:0ec61740d8b27c43183213a274da8029f4c3531a,",
-      "theme.bg.success-subtle": "S:ad7f16137df79b660a4d003ee6ef67bf18a46585,",
       "theme.bg.warning": "S:8517c8ef99cb508018d158c0e3c06c686209e74b,",
       "theme.bg.warning-highlight": "S:afe7d276258022350cc791fa9f8cd7b73b616a95,",
       "theme.bg.warning-subtle": "S:97fb72d4b035f079d6277625a150409f202c3c34,",
@@ -2563,7 +2569,8 @@
       "theme.content.disabled-inverse": "S:02a568b9d98243eceb81c7a7feea4b66c82ca8e8,",
       "theme.border.light-inverse": "S:cdd215ac6a1d15c4af1c7d7be2bdf0852c756da7,",
       "theme.border.medium-inverse": "S:b0ed2b34a424f5d55ac761e8cdf15b418f4d3112,",
-      "theme.border.strong-inverse": "S:e5e0fc4624df9cfd807ab61e01b2e6b3d2355543,"
+      "theme.border.strong-inverse": "S:e5e0fc4624df9cfd807ab61e01b2e6b3d2355543,",
+      "theme.bg.success-subtles": "S:ad7f16137df79b660a4d003ee6ef67bf18a46585,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -2582,7 +2589,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -2677,7 +2685,6 @@
       "theme.bg.scrim": "S:0cffb4f7265dc30628de79b152fdd56f1bcc6afc,",
       "theme.bg.canvas": "S:f961bfbeb12ae3a4fc164a3c883cc332dabed431,",
       "theme.bg.success-highlight": "S:5afd577b65dc54f608b3bac90386abe2be61700d,",
-      "theme.bg.success-subtle": "S:de1012edc9da9dac1abce399fb4c3f28e42733dd,",
       "theme.bg.warning": "S:140556f508ba026e6a64e2b7bd4c829088fbbeb0,",
       "theme.bg.warning-highlight": "S:80779c6989d3226ce0ce99e50ab0e269f8dfcab2,",
       "theme.bg.warning-subtle": "S:30d491428118fcc53466d05290a2b53ed4d1fb36,",
@@ -2825,7 +2832,8 @@
       "theme.content.disabled-inverse": "S:1f5f7b91f9b0974938d6ba92f1a6d2e182951d84,",
       "theme.border.light-inverse": "S:a43e804b821891ee3ada9650a8c7b7795be0286a,",
       "theme.border.medium-inverse": "S:164902ef0668ef85bb9b094eb58135ce5500b915,",
-      "theme.border.strong-inverse": "S:537453d90de032e901cf3cc39fc3042862ead3f4,"
+      "theme.border.strong-inverse": "S:537453d90de032e901cf3cc39fc3042862ead3f4,",
+      "theme.bg.success-subtles": "S:de1012edc9da9dac1abce399fb4c3f28e42733dd,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -2844,7 +2852,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -2974,7 +2983,6 @@
       "theme.bg.canvas": "S:a87c9e1738e9db6176d7dffe923340b20b5970e8,",
       "theme.bg.success": "S:ae00da162956e02413fabfe068d3a040dc3ee1fb,",
       "theme.bg.success-highlight": "S:673fbb4b57ecc9bafca6a6bb18e53123fe365702,",
-      "theme.bg.success-subtle": "S:1acad836ba46975f4bdc472423d7bb1bfbb63757,",
       "theme.bg.warning": "S:0651f79742d716d6a1f13e67f39f73f8b01709be,",
       "theme.bg.warning-highlight": "S:03e25fc229ef719f8070fd176ecb6b3cd1e68802,",
       "theme.bg.warning-subtle": "S:79eb8c81289a0de4381e4b53b7190deaaa05933b,",
@@ -3102,7 +3110,8 @@
       "theme.content.disabled-inverse": "S:43cbaf297661aeb3e3f89a02d2c568c531ac15b5,",
       "theme.border.light-inverse": "S:37cef8c3fb676b3536390d701a44a933053c2190,",
       "theme.border.medium-inverse": "S:9ac2414db6861309349b83d89af236cefc70eb3c,",
-      "theme.border.strong-inverse": "S:3acc8e9abb2be91cbb2be3f8f9745998569c1642,"
+      "theme.border.strong-inverse": "S:3acc8e9abb2be91cbb2be3f8f9745998569c1642,",
+      "theme.bg.success-subtles": "S:1acad836ba46975f4bdc472423d7bb1bfbb63757,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -3121,7 +3130,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -3211,7 +3221,6 @@
       "theme.bg.canvas": "S:bd2a147a6b67da7eaedfba509066fc02a19c735c,",
       "theme.bg.success": "S:44da7c67e9cbf2231266e2858d7adb5aec452e40,",
       "theme.bg.success-highlight": "S:c3b7e375c02573158a1716feb1218db10e8fcbda,",
-      "theme.bg.success-subtle": "S:41393aee4f08511742423480d03d88c21669844c,",
       "theme.bg.warning": "S:e295f37d4b27b0528602e4d726b2e702d1a7faf3,",
       "theme.bg.warning-highlight": "S:b6db45666c5c06f0d94d0e2990e201f398d3b653,",
       "theme.bg.warning-subtle": "S:734d9413cd060862536fb5049215c4b5a558319c,",
@@ -3371,7 +3380,8 @@
       "theme.content.disabled-inverse": "S:040ee80967f4492bfab490f1dd52ac5acdd878b4,",
       "theme.border.light-inverse": "S:1f6b2f2b0ac291b9e132b1ad8946f2390264e1a1,",
       "theme.border.medium-inverse": "S:b8616972a3568b208166448ffac648c4d3a863bc,",
-      "theme.border.strong-inverse": "S:8ce25290c742e638aa5c4caaa02e3ae5fd370f85,"
+      "theme.border.strong-inverse": "S:8ce25290c742e638aa5c4caaa02e3ae5fd370f85,",
+      "theme.bg.success-subtles": "S:41393aee4f08511742423480d03d88c21669844c,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -3390,7 +3400,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -3448,7 +3459,6 @@
       "theme.bg.canvas": "S:8fe408b6042165f2b839b5cb164ff08ed03dd8a1,",
       "theme.bg.success": "S:7535b36ccb0d7ed39c9736fcc1d975042aafaddd,",
       "theme.bg.success-highlight": "S:d8e835da4d51d303d59c645e030ee5ffe0fc65a4,",
-      "theme.bg.success-subtle": "S:85b2f94ede14431f9e20005cc808ad4764d50d62,",
       "theme.bg.warning": "S:92d1de222b09d40593675a7d8c4f5fd246778c6d,",
       "theme.bg.warning-highlight": "S:8d4107d628fbd7e1dbe4575471091fdb4da49f8a,",
       "theme.bg.warning-subtle": "S:cefb1fc1664581bd9b55643c9d623c920abed738,",
@@ -3607,7 +3617,8 @@
       "theme.content.disabled-inverse": "S:eb8ea8941959096c5b0e985b3e3762688af28d4c,",
       "theme.border.light-inverse": "S:bddc9902fd79fc012d09e23d9899b20c332b2745,",
       "theme.border.medium-inverse": "S:ffa153d75e7a657bacb4d5f21797b62552095600,",
-      "theme.border.strong-inverse": "S:8238dfeb5d7a8f27ad93120946d4294a9c42ae3f,"
+      "theme.border.strong-inverse": "S:8238dfeb5d7a8f27ad93120946d4294a9c42ae3f,",
+      "theme.bg.success-subtles": "S:85b2f94ede14431f9e20005cc808ad4764d50d62,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -3626,7 +3637,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -3750,7 +3762,6 @@
       "theme.bg.canvas": "S:81df36396f9b2cbc174385a14441081e76b4459c,",
       "theme.bg.success": "S:c9aa0e48f9535c820711fda1d7af953d8b938974,",
       "theme.bg.success-highlight": "S:19a3a463b0b2955120e5de01c824ad7c13f0ed92,",
-      "theme.bg.success-subtle": "S:be338bf9c910a755c5e2281594b27de3643ac41a,",
       "theme.bg.warning": "S:1ffb8c1a1ede10cf4185ce83be9fd9e5f4ab060c,",
       "theme.bg.warning-highlight": "S:860d284952b0e27d7b72ca52949cd882477a5645,",
       "theme.bg.warning-subtle": "S:a970aa8f66097f589554c4bd0c4d0e2495fd7874,",
@@ -4127,7 +4138,8 @@
       "theme.content.disabled-inverse": "S:ad7910e856045d99126a821a67695956f4d2fc53,",
       "theme.border.light-inverse": "S:f66c780e54857ba57d668190968d1ad5e100b476,",
       "theme.border.medium-inverse": "S:194e56a553c772b8025596424b492e6f31b75a9f,",
-      "theme.border.strong-inverse": "S:803f353af47957ff42aa00e2a815c87e023cccb9,"
+      "theme.border.strong-inverse": "S:803f353af47957ff42aa00e2a815c87e023cccb9,",
+      "theme.bg.success-subtles": "S:be338bf9c910a755c5e2281594b27de3643ac41a,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -4146,7 +4158,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -4409,7 +4422,8 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -4761,7 +4775,6 @@
       "theme.bg.canvas": "S:d0e7ffb192ee9b9e378b0e40376948d91fd6ce20,",
       "theme.bg.success": "S:b4b8fb8b1803fa2f201f1854f80ab1782da7dd07,",
       "theme.bg.success-highlight": "S:234fff587a78d7a0e40566ac9adb9512c90608d6,",
-      "theme.bg.success-subtle": "S:17da06f25865bb4642ca62741a4313a36b5162eb,",
       "theme.bg.warning": "S:bf2686f5639e3af32a9be05187e5f0fe138fcbd2,",
       "theme.bg.warning-highlight": "S:041e21780c78a82e5214848f44ed7ed2ff19774a,",
       "theme.bg.warning-subtle": "S:6625567b924af242a8bac681139d9a37d7818ad3,",
@@ -4909,7 +4922,8 @@
       "theme.content.disabled-inverse": "S:09a0f235fd2819819ffbb715bce6fa10de817ccd,",
       "theme.border.light-inverse": "S:30255e7de058586596b1a888c7145295b2f52b2e,",
       "theme.border.medium-inverse": "S:f15fb724415e333265ee2e345855182a8f6ec30e,",
-      "theme.border.strong-inverse": "S:3ad5195cb645510fd0d405c6de9539911ccd661d,"
+      "theme.border.strong-inverse": "S:3ad5195cb645510fd0d405c6de9539911ccd661d,",
+      "theme.bg.success-subtles": "S:17da06f25865bb4642ca62741a4313a36b5162eb,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -4927,7 +4941,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -5069,7 +5084,6 @@
       "theme.bg.scrim": "S:d6a6c2905d81233db83d57864f8c10fd516eb50a,",
       "theme.bg.canvas": "S:71814549285591a34b235e648b2c57b66dc4b674,",
       "theme.bg.success": "S:5e7b4c886b628e65fd3acdbfd31866e6a17c4cd6,",
-      "theme.bg.success-subtle": "S:84da313713dcce1da10ab94ddb5679c562b2a770,",
       "theme.bg.success-highlight": "S:a39559860ac7a8104494414d9f77388c2ae189ec,",
       "theme.bg.warning": "S:9f218963576b9838453dba3ee994c29afead42dd,",
       "theme.bg.warning-highlight": "S:3167de89f330992a34bd81c2743ffcacacdd4173,",
@@ -5540,7 +5554,8 @@
       "theme.interaction.content.placeholder": "S:a9cb9df51d4202083a9f42a56291b7f722d1df5e,",
       "theme.interaction.content.entry": "S:49b2327b306437561f3a994e6ad1a1b3dd189610,",
       "theme.interaction.focus": "S:6e58425bb7696a07c35acbf977f3e6db01c90543,",
-      "theme.interaction.bg.form-field.muted": "S:cb200fdf77e4c0be47710fb019f7f737fee1006c,"
+      "theme.interaction.bg.form-field.muted": "S:cb200fdf77e4c0be47710fb019f7f737fee1006c,",
+      "theme.bg.success-subtles": "S:84da313713dcce1da10ab94ddb5679c562b2a770,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -5558,7 +5573,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -5998,7 +6014,6 @@
       "base.Body.XXS.Strong.Paragraph": "S:17d8def203f5d38338482736ab29a6353a06c049,",
       "base.Body.XXS.Strong.Paragraph-link": "S:3f1af5fbe3a5bfd60a34fe3784a2487f5b048ca1,",
       "theme.bg.success": "S:c5021b3d00a251f384e6767a194101d5d67a2e4a,",
-      "theme.bg.success-subtle": "S:65a112dd00d0a552857071eb7a33a0f64699929a,",
       "theme.bg.info": "S:53ab7556c5780714140a1bb4ecf217f67970f792,",
       "theme.bg.brand": "S:000b0d5548c384893a5c517018df9046e0aba0e2,",
       "theme.bg.brand-subtle": "S:e3dce728037f4e6af733f312183aec95d52a7d5b,",
@@ -6061,7 +6076,8 @@
       "theme.content.disabled-inverse": "S:6637078736e46bfcc4fba83ea8a315cf49e2f371,",
       "theme.border.light-inverse": "S:67e55d8756181ac8d0f471ebce5eeef69a07d738,",
       "theme.border.medium-inverse": "S:e56dae891193fc52cc73e969910dbf385bf46bec,",
-      "theme.border.strong-inverse": "S:e30f6e670110a1b1809d4002f9ac134f9622ab65,"
+      "theme.border.strong-inverse": "S:e30f6e670110a1b1809d4002f9ac134f9622ab65,",
+      "theme.bg.success-subtles": "S:65a112dd00d0a552857071eb7a33a0f64699929a,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -6080,7 +6096,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -6144,7 +6161,6 @@
       "theme.bg.scrim": "S:f094bfa100c9e831863c7609e19b16467d7be70c,",
       "theme.bg.success": "S:274583cdcada219a9d0831d79a3f2fb5112e7df5,",
       "theme.bg.success-highlight": "S:6eabe4fd8af8484d77ab83443f1a4faba2688ccf,",
-      "theme.bg.success-subtle": "S:4864a6ec70fe5e389f0d4dfcbaee3877e8d7f256,",
       "theme.bg.warning": "S:9a9cf37495498228f76d9bc07a5f4d15e2a491a6,",
       "theme.bg.warning-highlight": "S:c328102f5885959c0c005a668c2b903a5d5803f7,",
       "theme.bg.warning-subtle": "S:c534f04d96100fce6f34f76fddd0170126560b02,",
@@ -6486,7 +6502,8 @@
       "theme.content.disabled-inverse": "S:cedb97b6c0f6fb3bd0c8a9398ba9f2eac7d9d16e,",
       "theme.border.light-inverse": "S:8890ad98e48f615361275eda86d5310bbc711545,",
       "theme.border.medium-inverse": "S:69745b62ed40cec77938d6f537418b1339287296,",
-      "theme.border.strong-inverse": "S:605d2c571d6c6e33cc0c4a413b4744a892423492,"
+      "theme.border.strong-inverse": "S:605d2c571d6c6e33cc0c4a413b4744a892423492,",
+      "theme.bg.success-subtles": "S:4864a6ec70fe5e389f0d4dfcbaee3877e8d7f256,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -6504,7 +6521,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -6698,7 +6716,6 @@
       "base.kayak.green.100": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,",
       "base.kayak.green.500": "S:33c38470d0c56c60769044555db7e1560dc294e1,",
       "theme.bg.success": "S:33c38470d0c56c60769044555db7e1560dc294e1,",
-      "theme.bg.success-subtle": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,",
       "theme.bg.info": "S:66078b3340bead3a37a4251b77e3e884fe14501c,",
       "theme.bg.brand": "S:78a5a4b8f181215e9346bbde22de7dea8393c79e,",
       "theme.bg.brand-subtle": "S:38a76d34b7006b3bd23f9921f09790c6465f3bf4,",
@@ -6950,7 +6967,8 @@
       "theme.content.disabled-inverse": "S:977d09436a8cf1561e5a6eb19dc636f819a76588,",
       "theme.border.light-inverse": "S:c2df67c25b88fe897604eacd5b1aae8cf11dedc8,",
       "theme.border.medium-inverse": "S:a9f96947d2a4a460a717d77a0cf489cd881d1c27,",
-      "theme.border.strong-inverse": "S:81bf728d70dbe8824dbbe64c9569abe6fbf9c5a4,"
+      "theme.border.strong-inverse": "S:81bf728d70dbe8824dbbe64c9569abe6fbf9c5a4,",
+      "theme.bg.success-subtles": "S:59d012e40401b08a5ae9fc7b8fa89ee7e394bc11,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -6968,7 +6986,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -7256,7 +7275,6 @@
       "theme.bg.canvas": "S:55b82fbf5bd4ba61d3cae625479ec2d19849d438,",
       "theme.bg.success": "S:6ffc8fb452ea8e52fb89442e6e1500a1e47da55a,",
       "theme.bg.success-highlight": "S:a1d3373083e93fa5b8fd5fdfa0e784304a4094fc,",
-      "theme.bg.success-subtle": "S:04038d656b053d59fe909e3348e57782ee55a83c,",
       "theme.bg.warning": "S:cbc8fccb8c26ecb52fc7e37fdd016adc080ede31,",
       "theme.bg.warning-highlight": "S:ce1364217507ee9a9723630f34d90f959d8c28b9,",
       "theme.bg.warning-subtle": "S:0146d3f9574e9d6738333237d6d1d6972870bf04,",
@@ -7415,7 +7433,8 @@
       "theme.content.disabled-inverse": "S:2a4193c1ba75197230ae63ad82b3153bf9726138,",
       "theme.border.light-inverse": "S:963c071ba292f548083d67edb4ed6a3de207e09d,",
       "theme.border.medium-inverse": "S:ff407e8374d117868a1eccc1c32576ba65bb36f1,",
-      "theme.border.strong-inverse": "S:c4d86a534fc7fa7e1b938d5e9e70e95b5cf0dc92,"
+      "theme.border.strong-inverse": "S:c4d86a534fc7fa7e1b938d5e9e70e95b5cf0dc92,",
+      "theme.bg.success-subtles": "S:04038d656b053d59fe909e3348e57782ee55a83c,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -7433,7 +7452,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/ovago_wp": "disabled"
     }
   },
   {
@@ -7553,7 +7573,6 @@
       "theme.bg.scrim": "S:e687de0b1ac0d2e8ab9a22d1a9462e12adcdd644,",
       "theme.bg.canvas": "S:bf8015d02cb4d1ec29fa0b2ec08da2a98bd1b370,",
       "theme.bg.success-highlight": "S:59a2237d32ae533e65614c3ea09913d163e4da7a,",
-      "theme.bg.success-subtle": "S:59736acfa6a6671c16ac3bf74fe7350352599b57,",
       "theme.bg.warning": "S:886ecc970d33e39369a22bdd158a3842a60a610c,",
       "theme.bg.warning-highlight": "S:9ce90ffba6cc87f33acee5ef62ec0f948dc24891,",
       "theme.bg.warning-subtle": "S:7e177fa1826ff5ae8d7193813a2330fc16ea0a0b,",
@@ -7705,7 +7724,8 @@
       "theme.content.disabled-inverse": "S:ffa4a31972af1c0a86568b1c7a6173314308d16a,",
       "theme.border.light-inverse": "S:4287bc46b4c0af3d9fba41ebdda4fa97bfda6716,",
       "theme.border.medium-inverse": "S:c79dbcb2de8fca7c77afc005015a9e038092cc53,",
-      "theme.border.strong-inverse": "S:7e7e32c208d2a39cf1b9b3c2a75c0987f5e3160d,"
+      "theme.border.strong-inverse": "S:7e7e32c208d2a39cf1b9b3c2a75c0987f5e3160d,",
+      "theme.bg.success-subtles": "S:59736acfa6a6671c16ac3bf74fe7350352599b57,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -7725,7 +7745,33 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source"
+      "brand/wowfare": "source",
+      "brand/ovago_wp": "disabled"
+    }
+  },
+  {
+    "id": "9b8edca81b70a5b8c652ccea5b2c9419b78172a1",
+    "name": "Ovago-WP",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "base/neutral-colors": "enabled",
+      "base/brand-colors": "enabled",
+      "base/system-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "theme": "enabled",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/ovago": "source",
+      "brand/ovago_wp": "enabled"
     }
   }
 ]

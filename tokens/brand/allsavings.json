@@ -289,7 +289,7 @@
         "type": "color"
       },
       "accent-subtle": {
-        "value": "{theme.bg.success-subtle}",
+        "value": "{theme.bg.success-subtles}",
         "type": "color"
       }
     },
