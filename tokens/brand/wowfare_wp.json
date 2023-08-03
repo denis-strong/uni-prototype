@@ -620,6 +620,27 @@
       }
     },
     "bg": {
+      "success": {
+        "value": "{base.brand.tint}",
+        "type": "color"
+      },
+      "success-highlight": {
+        "value": "{base.success.subtle}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "0.04",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "success-subtle": {
+        "value": "{base.brand.subtle}",
+        "type": "color"
+      },
       "warning": {
         "value": "{base.warning.default}",
         "type": "color"
@@ -683,33 +704,20 @@
         "value": "{base.info.subtle}",
         "type": "color"
       },
-      "success": {
-        "value": "{base.brand.tint}",
-        "type": "color"
-      },
-      "success-highlight": {
-        "value": "{base.success.subtle}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.04",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "success-subtle": {
-        "value": "{base.brand.subtle}",
-        "type": "color"
-      },
       "brand": {
         "value": "{base.brand.tint}",
         "type": "color"
       },
       "brand-subtle": {
         "value": "{base.brand.subtle}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{base.accent.default}",
+        "type": "color"
+      },
+      "accent-subtle": {
+        "value": "{base.accent.subtle}",
         "type": "color"
       }
     },

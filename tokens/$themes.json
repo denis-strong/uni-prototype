@@ -238,8 +238,7 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -734,8 +733,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1032,8 +1030,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1542,8 +1539,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1806,8 +1802,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2063,8 +2058,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2336,8 +2330,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2589,8 +2582,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2852,8 +2844,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3130,8 +3121,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3400,8 +3390,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3637,8 +3626,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -4158,8 +4146,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -4422,8 +4409,7 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled",
-      "brand/ovago_wp": "disabled"
+      "core": "enabled"
     }
   },
   {
@@ -4941,8 +4927,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -5573,8 +5558,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6096,8 +6080,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6521,8 +6504,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -6986,8 +6968,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -7452,8 +7433,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/ovago_wp": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -7745,8 +7725,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source",
-      "brand/ovago_wp": "disabled"
+      "brand/wowfare": "source"
     }
   },
   {
