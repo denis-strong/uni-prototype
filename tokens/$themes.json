@@ -5530,7 +5530,6 @@
       "theme.interaction.bg.modeless": "S:45c435aa4d04d2c264d065ad2e4895cd719604e3,",
       "theme.interaction.bg.modeless-inverse": "S:55562a3d1f278c90e7a8ba5a8a1e3a2f881b89dc,",
       "theme.interaction.bg.form-field.default": "S:fe59ca32a7b7daeeca90264c6902f0a8f7666e45,",
-      "theme.interaction.bg.form-field.subtle": "S:cb200fdf77e4c0be47710fb019f7f737fee1006c,",
       "theme.interaction.border.normal": "S:ce63797fccfac872e9533e1d7f42f36c2103cb90,",
       "theme.interaction.border.hover": "S:28e98232eefb3fe36df11c261bfd6613937e68cf,",
       "theme.interaction.border.active": "S:a0e98717936db2c20714ac18d459709e682c3600,",
@@ -5542,7 +5541,8 @@
       "theme.interaction.content.default": "S:20afe40c375e75387583ac78cae523b993e9bd2b,",
       "theme.interaction.content.placeholder": "S:a9cb9df51d4202083a9f42a56291b7f722d1df5e,",
       "theme.interaction.content.entry": "S:49b2327b306437561f3a994e6ad1a1b3dd189610,",
-      "theme.interaction.focus": "S:6e58425bb7696a07c35acbf977f3e6db01c90543,"
+      "theme.interaction.focus": "S:6e58425bb7696a07c35acbf977f3e6db01c90543,",
+      "theme.interaction.bg.form-field.muted": "S:cb200fdf77e4c0be47710fb019f7f737fee1006c,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
