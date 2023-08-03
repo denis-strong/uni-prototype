@@ -7717,7 +7717,6 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/wowfare": "source",
       "brand/wowfare_wp": "enabled",
       "core": "source",
       "theme": "enabled",
@@ -7725,7 +7724,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/wowfare": "source"
     }
   }
 ]
