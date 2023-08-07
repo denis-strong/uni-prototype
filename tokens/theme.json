@@ -768,6 +768,10 @@
           "value": "{theme.border.danger}",
           "type": "color"
         },
+        "focus": {
+          "value": "{base.info.600}",
+          "type": "color"
+        },
         "neutral": {
           "normal": {
             "value": "{base.neutral.300}",
@@ -796,10 +800,6 @@
           "value": "{theme.content.primary}",
           "type": "color"
         }
-      },
-      "focus": {
-        "value": "{base.brand.600}",
-        "type": "color"
       }
     },
     "presets": {
@@ -1130,7 +1130,7 @@
           "y": "0",
           "blur": "0",
           "spread": "4",
-          "color": "rgba({theme.interaction.focus}, {core.opacity.300})",
+          "color": "rgba({theme.interaction.border.focus}, {core.opacity.300})",
           "type": "dropShadow"
         }
       ],
