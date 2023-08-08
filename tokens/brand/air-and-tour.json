@@ -3,7 +3,7 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.acapulco.topaz}",
+          "value": "{base.air-and-tour.ultramarine}",
           "type": "color"
         },
         "hover": {
@@ -86,7 +86,7 @@
       },
       "accent": {
         "normal": {
-          "value": "{base.acapulco.mandy}",
+          "value": "{base.air-and-tour.faded-red}",
           "type": "color"
         },
         "hover": {
@@ -170,7 +170,7 @@
     },
     "bg": {
       "brand": {
-        "value": "{base.acapulco.topaz}",
+        "value": "{base.air-and-tour.ultramarine}",
         "type": "color"
       },
       "brand-subtle": {
@@ -187,7 +187,7 @@
         }
       },
       "accent": {
-        "value": "{base.acapulco.mandy}",
+        "value": "{base.air-and-tour.faded-red}",
         "type": "color"
       },
       "accent-subtle": {
@@ -206,7 +206,7 @@
     },
     "presets": {
       "header": {
-        "value": "{base.acapulco.rhino}",
+        "value": "{base.air-and-tour.dark}",
         "type": "color"
       },
       "subheader": {
@@ -215,7 +215,7 @@
         "$extensions": {
           "studio.tokens": {
             "modify": {
-              "type": "darken",
+              "type": "lighten",
               "value": "0.1",
               "space": "lch"
             }
@@ -223,43 +223,43 @@
         }
       },
       "footer": {
-        "value": "{base.acapulco.dark}",
+        "value": "{base.air-and-tour.dark}",
         "type": "color"
       }
     },
     "interaction": {
       "default": {
         "normal": {
-          "value": "{theme.action.success.normal}",
+          "value": "{theme.action.primary.normal}",
           "type": "color"
         },
         "hover": {
-          "value": "{theme.action.success.hover}",
+          "value": "{theme.action.primary.hover}",
           "type": "color"
         },
         "active": {
-          "value": "{theme.action.success.active}",
+          "value": "{theme.action.primary.active}",
           "type": "color"
         },
         "selected": {
-          "value": "{theme.action.success.selected}",
+          "value": "{theme.action.primary.selected}",
           "type": "color"
         },
         "subtle": {
           "normal": {
-            "value": "{theme.action.success.subtle.normal}",
+            "value": "{theme.action.primary.subtle.normal}",
             "type": "color"
           },
           "hover": {
-            "value": "{theme.action.success.subtle.hover}",
+            "value": "{theme.action.primary.subtle.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{theme.action.success.subtle.active}",
+            "value": "{theme.action.primary.subtle.active}",
             "type": "color"
           },
           "selected": {
-            "value": "{theme.action.success.subtle.selected}",
+            "value": "{theme.action.primary.subtle.selected}",
             "type": "color"
           }
         }
@@ -285,7 +285,7 @@
     },
     "content": {
       "brand": {
-        "value": "{base.acapulco.topaz}",
+        "value": "{base.air-and-tour.ultramarine}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -298,7 +298,7 @@
         }
       },
       "accent": {
-        "value": "{base.acapulco.mandy}",
+        "value": "{base.air-and-tour.faded-red}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -313,7 +313,7 @@
     },
     "border": {
       "brand": {
-        "value": "{base.acapulco.topaz}",
+        "value": "{base.air-and-tour.ultramarine}",
         "type": "color"
       },
       "brand-subtle": {
@@ -330,7 +330,7 @@
         }
       },
       "accent": {
-        "value": "{base.acapulco.mandy}",
+        "value": "{base.air-and-tour.faded-red}",
         "type": "color"
       },
       "accent-subtle": {
@@ -349,87 +349,67 @@
     }
   },
   "base": {
-    "acapulco": {
-      "green-sea": {
-        "value": "#40AEA5",
-        "type": "color"
-      },
-      "topaz": {
-        "value": "#07BEB8",
-        "type": "color"
-      },
-      "deep-cove": {
-        "value": "#051046",
-        "type": "color"
-      },
-      "haiti": {
-        "value": "#131938",
-        "type": "color"
-      },
-      "rhino": {
-        "value": "#2B3864",
+    "air-and-tour": {
+      "ultramarine": {
+        "value": "#4775EB",
         "type": "color"
       },
       "dark": {
-        "value": "#1A232B",
+        "value": "#122236",
         "type": "color"
       },
-      "sunset": {
-        "value": "linear-gradient(180deg, #f3841d 0%, #f9a65a 100%)",
-        "type": "color"
-      },
-      "mandy": {
-        "value": "#E05263",
+      "faded-red": {
+        "value": "#DB4453",
         "type": "color"
       }
     },
     "success": {
       "50": {
-        "value": "{core.color.turquoise.50}",
+        "value": "{core.color.grass-green.50}",
         "type": "color"
       },
       "100": {
-        "value": "{core.color.turquoise.100}",
+        "value": "{core.color.grass-green.100}",
         "type": "color"
       },
       "200": {
-        "value": "{core.color.turquoise.200}",
+        "value": "{core.color.grass-green.200}",
         "type": "color"
       },
       "300": {
-        "value": "{core.color.turquoise.300}",
+        "value": "{core.color.grass-green.300}",
         "type": "color"
       },
       "400": {
-        "value": "{core.color.turquoise.400}",
+        "value": "{core.color.grass-green.400}",
         "type": "color"
       },
       "500": {
-        "value": "{core.color.turquoise.500}",
+        "value": "{core.color.grass-green.500}",
         "type": "color"
       },
       "600": {
-        "value": "{core.color.turquoise.600}",
+        "value": "{core.color.grass-green.600}",
         "type": "color"
       },
       "700": {
-        "value": "{core.color.turquoise.700}",
+        "value": "{core.color.grass-green.700}",
         "type": "color"
       },
       "800": {
-        "value": "{core.color.turquoise.800}",
+        "value": "{core.color.grass-green.800}",
         "type": "color"
       },
       "900": {
-        "value": "{core.color.turquoise.900}",
+        "value": "{core.color.grass-green.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{core.color.turquoise.1000}",
+        "value": "{core.color.grass-green.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{core.color.turquoise.1100}",
+        "value": "{core.color.grass-green.1100}",
         "type": "color"
       }
     }
