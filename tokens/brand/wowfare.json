@@ -182,7 +182,7 @@
         "type": "color"
       }
     },
-    "interactive": {
+    "interaction": {
       "default": {
         "normal": {
           "value": "{base.brand.500}",
@@ -196,16 +196,8 @@
           "value": "{base.brand.700}",
           "type": "color"
         },
-        "subtle-normal": {
-          "value": "{base.brand.100}",
-          "type": "color"
-        },
-        "subtle-hover": {
-          "value": "{base.brand.200}",
-          "type": "color"
-        },
-        "subtle-active": {
-          "value": "{base.brand.300}",
+        "selected": {
+          "value": "{base.brand.600}",
           "type": "color"
         }
       }
@@ -223,6 +215,10 @@
         "active": {
           "value": "{base.brand.700}",
           "type": "color"
+        },
+        "selected": {
+          "value": "{base.brand.600}",
+          "type": "color"
         }
       },
       "success": {
@@ -236,6 +232,10 @@
         },
         "active": {
           "value": "{base.brand.700}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.brand.600}",
           "type": "color"
         }
       }

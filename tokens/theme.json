@@ -593,11 +593,11 @@
         "subtle": {
           "normal": {
             "type": "color",
-            "value": "{base.brand.100}"
+            "value": "{base.brand.200}"
           },
           "hover": {
             "type": "color",
-            "value": "{base.brand.200}"
+            "value": "{base.brand.300}"
           },
           "active": {
             "type": "color",
@@ -605,7 +605,7 @@
           },
           "selected": {
             "type": "color",
-            "value": "{base.brand.200}"
+            "value": "{base.brand.300}"
           }
         }
       },
