@@ -179,6 +179,28 @@
         "active": {
           "value": "{base.success.800}",
           "type": "color"
+        },
+        "selected": {
+          "value": "{base.success.700}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.success.200}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.success.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.success.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.success.200}",
+            "type": "color"
+          }
         }
       }
     },
