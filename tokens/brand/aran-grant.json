@@ -224,7 +224,7 @@
         "type": "color"
       }
     },
-    "interactive": {
+    "interaction": {
       "default": {
         "normal": {
           "type": "color",
@@ -242,29 +242,41 @@
           "type": "color",
           "value": "{base.neutral.1000}"
         },
-        "subtle-normal": {
-          "value": "{base.neutral.100}",
-          "type": "color"
-        },
-        "subtle-hover": {
-          "value": "{base.neutral.200}",
-          "type": "color"
-        },
-        "subtle-active": {
-          "value": "{base.neutral.300}",
-          "type": "color"
-        },
-        "subtle-selected": {
-          "value": "{base.neutral.100}",
-          "type": "color"
-        }
-      },
-      "form": {
-        "border": {
+        "subtle": {
+          "normal": {
+            "value": "{base.neutral.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.neutral.200}",
+            "type": "color"
+          },
           "active": {
-            "value": "{base.neutral.1000}",
+            "value": "{base.neutral.300}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.neutral.100}",
             "type": "color"
           }
+        }
+      },
+      "border": {
+        "normal": {
+          "value": "{base.neutral.800}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.neutral.900}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{base.neutral.1000}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{base.neutral.900}",
+          "type": "color"
         }
       }
     },
@@ -281,6 +293,28 @@
         "active": {
           "value": "{base.success.800}",
           "type": "color"
+        },
+        "selected": {
+          "value": "{base.success.700}",
+          "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.success.200}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.success.300}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.success.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.success.300}",
+            "type": "color"
+          }
         }
       }
     }
@@ -349,16 +383,6 @@
         "heavy": {
           "value": "{base.font-weight.semi-bold}",
           "type": "fontWeights"
-        }
-      }
-    }
-  },
-  "_system": {
-    "color": {
-      "base": {
-        "primary": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color"
         }
       }
     }
