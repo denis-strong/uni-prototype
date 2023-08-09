@@ -238,8 +238,7 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -734,8 +733,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1109,8 +1107,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1619,8 +1616,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1883,8 +1879,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2140,8 +2135,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2413,8 +2407,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2666,8 +2659,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2929,8 +2921,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3207,8 +3198,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3477,8 +3467,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3714,8 +3703,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -4327,8 +4315,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -4591,8 +4578,7 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled",
-      "brand/flygtravel": "disabled"
+      "core": "enabled"
     }
   },
   {
@@ -5110,8 +5096,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -5734,8 +5719,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6335,8 +6319,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6760,8 +6743,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -7225,8 +7207,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -7691,8 +7672,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/flygtravel": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -7984,8 +7964,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source",
-      "brand/flygtravel": "disabled"
+      "brand/wowfare": "source"
     }
   },
   {
@@ -8010,8 +7989,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "source",
-      "brand/ovago_wp": "enabled",
-      "brand/flygtravel": "disabled"
+      "brand/ovago_wp": "enabled"
     }
   },
   {
@@ -8036,8 +8014,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/aran-grant": "source",
-      "brand/arangrant_wp": "enabled",
-      "brand/flygtravel": "disabled"
+      "brand/arangrant_wp": "enabled"
     }
   },
   {
@@ -8574,8 +8551,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/acapulco": "enabled",
-      "brand/flygtravel": "disabled"
+      "brand/acapulco": "enabled"
     }
   },
   {
@@ -9110,8 +9086,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/air-and-tour": "enabled",
-      "brand/flygtravel": "disabled"
+      "brand/air-and-tour": "enabled"
     }
   },
   {
@@ -9647,8 +9622,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/airclass": "enabled",
-      "brand/flygtravel": "disabled"
+      "brand/airclass": "enabled"
     }
   },
   {

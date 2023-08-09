@@ -1,209 +1,5 @@
 {
   "theme": {
-    "action": {
-      "primary": {
-        "normal": {
-          "value": "{base.flygtravel.azure}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.075",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.15",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "selected": {
-          "value": "{theme.action.primary.hover}",
-          "type": "color",
-          "$extensions": {}
-        },
-        "subtle": {
-          "normal": {
-            "value": "{theme.action.primary.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.75",
-                  "space": "srgb"
-                }
-              }
-            }
-          },
-          "hover": {
-            "value": "{theme.action.primary.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.625",
-                  "space": "srgb"
-                }
-              }
-            }
-          },
-          "active": {
-            "value": "{theme.action.primary.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.5",
-                  "space": "srgb"
-                }
-              }
-            }
-          },
-          "selected": {
-            "value": "{theme.action.primary.subtle.hover}",
-            "type": "color",
-            "$extensions": {}
-          }
-        }
-      },
-      "accent": {
-        "normal": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.075",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.15",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "selected": {
-          "value": "{theme.action.accent.hover}",
-          "type": "color",
-          "$extensions": {}
-        },
-        "subtle": {
-          "normal": {
-            "value": "{theme.action.accent.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.8",
-                  "space": "lch"
-                }
-              }
-            }
-          },
-          "hover": {
-            "value": "{theme.action.accent.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.675",
-                  "space": "lch"
-                }
-              }
-            }
-          },
-          "active": {
-            "value": "{theme.action.accent.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.575",
-                  "space": "lch"
-                }
-              }
-            }
-          },
-          "selected": {
-            "value": "{theme.action.accent.subtle.hover}",
-            "type": "color",
-            "$extensions": {}
-          }
-        }
-      }
-    },
-    "bg": {
-      "brand": {
-        "value": "{base.flygtravel.azure}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.bg.brand}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{theme.bg.brand}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.bg.accent}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.85",
-              "space": "lch"
-            }
-          }
-        }
-      }
-    },
     "presets": {
       "header": {
         "value": "{base.flygtravel.bluewood}",
@@ -227,118 +23,6 @@
         "value": "{theme.presets.header}",
         "type": "color"
       }
-    },
-    "interaction": {
-      "default": {
-        "normal": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.primary.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{theme.action.primary.active}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{theme.action.primary.selected}",
-          "type": "color"
-        },
-        "subtle": {
-          "normal": {
-            "value": "{theme.action.primary.subtle.normal}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{theme.action.primary.subtle.hover}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{theme.action.primary.subtle.active}",
-            "type": "color"
-          },
-          "selected": {
-            "value": "{theme.action.primary.subtle.selected}",
-            "type": "color"
-          }
-        }
-      },
-      "border": {
-        "normal": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.primary.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{theme.action.primary.active}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{theme.action.primary.selected}",
-          "type": "color"
-        }
-      }
-    },
-    "content": {
-      "brand": {
-        "value": "{base.flygtravel.azure}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{theme.content.brand}",
-        "type": "color",
-        "$extensions": {}
-      }
-    },
-    "border": {
-      "brand": {
-        "value": "{base.flygtravel.azure}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.border.brand}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{theme.border.brand}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.border.accent}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.7",
-              "space": "lch"
-            }
-          }
-        }
-      }
     }
   },
   "base": {
@@ -349,6 +33,156 @@
       },
       "bluewood": {
         "value": "#374058",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "50": {
+        "value": "#F0F8FF",
+        "type": "color"
+      },
+      "100": {
+        "value": "#EBF6FF",
+        "type": "color"
+      },
+      "200": {
+        "value": "#E0F2FF",
+        "type": "color"
+      },
+      "300": {
+        "value": "#C2E5FF",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8FD0FF",
+        "type": "color"
+      },
+      "500": {
+        "value": "#33ACFF",
+        "type": "color"
+      },
+      "600": {
+        "value": "#0D94F2",
+        "type": "color"
+      },
+      "700": {
+        "value": "#0983D7",
+        "type": "color"
+      },
+      "800": {
+        "value": "#0E6AAA",
+        "type": "color"
+      },
+      "900": {
+        "value": "#185F91",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#0D4973",
+        "type": "color"
+      },
+      "1100": {
+        "value": "#053657",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "50": {
+        "value": "{base.brand.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{base.brand.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.brand.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.brand.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.brand.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.brand.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.brand.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.brand.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.brand.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{base.brand.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.brand.1100}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "50": {
+        "value": "{base.brand.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{base.brand.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.brand.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.brand.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.brand.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.brand.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.brand.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.brand.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.brand.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{base.brand.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.brand.1100}",
         "type": "color"
       }
     }
