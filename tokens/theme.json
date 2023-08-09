@@ -1144,7 +1144,7 @@
             "y": "0",
             "blur": "0",
             "spread": "1",
-            "color": "{theme.bg.brand}",
+            "color": "{theme.bg.primary}",
             "type": "dropShadow"
           },
           {
