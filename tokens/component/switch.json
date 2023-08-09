@@ -2,7 +2,7 @@
   "switch": {
     "default": {
       "focus": {
-        "value": "{theme.focus}",
+        "value": "{theme.focus.default}",
         "type": "boxShadow"
       }
     },

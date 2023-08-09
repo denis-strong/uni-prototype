@@ -1124,17 +1124,40 @@
       }
     },
     "focus": {
-      "value": [
-        {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "4",
-          "color": "rgba({theme.interaction.border.focus}, {core.opacity.300})",
-          "type": "dropShadow"
-        }
-      ],
-      "type": "boxShadow"
+      "default": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2",
+            "color": "{theme.interaction.border.focus}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "offset": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1",
+            "color": "{theme.bg.primary}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "3",
+            "color": "{theme.interaction.border.focus}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      }
     }
   },
   "semantic": {
