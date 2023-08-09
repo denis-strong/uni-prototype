@@ -722,15 +722,15 @@
       "bg": {
         "modal": {
           "type": "color",
-          "value": "{theme.bg.primary}"
+          "value": "{theme.bg.brand}"
         },
         "side-panel": {
           "type": "color",
-          "value": "{theme.bg.primary}"
+          "value": "{theme.bg.brand}"
         },
         "modeless": {
           "type": "color",
-          "value": "{theme.bg.primary}"
+          "value": "{theme.bg.brand}"
         },
         "modeless-inverse": {
           "type": "color",
@@ -739,7 +739,7 @@
         "form-field": {
           "default": {
             "type": "color",
-            "value": "{theme.bg.primary}"
+            "value": "{theme.bg.brand}"
           },
           "muted": {
             "type": "color",
@@ -1144,7 +1144,7 @@
             "y": "0",
             "blur": "0",
             "spread": "1",
-            "color": "{theme.bg.primary}",
+            "color": "{theme.bg.brand}",
             "type": "dropShadow"
           },
           {

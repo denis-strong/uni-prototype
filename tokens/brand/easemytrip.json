@@ -136,7 +136,7 @@
   "theme": {
     "presets": {
       "header": {
-        "value": "{theme.bg.primary}",
+        "value": "{theme.bg.brand}",
         "type": "color"
       },
       "subheader": {
