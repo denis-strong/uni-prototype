@@ -651,6 +651,56 @@
           "type": "color"
         }
       },
+      "azure": {
+        "50": {
+          "value": "#f5f9ff",
+          "type": "color"
+        },
+        "100": {
+          "value": "#e9f1fa",
+          "type": "color"
+        },
+        "200": {
+          "value": "#e0f0ff",
+          "type": "color"
+        },
+        "300": {
+          "value": "#c7e5ff",
+          "type": "color"
+        },
+        "400": {
+          "value": "#a3d9ff",
+          "type": "color"
+        },
+        "500": {
+          "value": "#4bb2fb",
+          "type": "color"
+        },
+        "600": {
+          "value": "#0c9afd",
+          "type": "color"
+        },
+        "700": {
+          "value": "#0b81d5",
+          "type": "color"
+        },
+        "800": {
+          "value": "#0b6cb1",
+          "type": "color"
+        },
+        "900": {
+          "value": "#0a5e99",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#084c7d",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#042e52",
+          "type": "color"
+        }
+      },
       "blue": {
         "50": {
           "value": "#F5F9FF",

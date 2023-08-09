@@ -1,0 +1,192 @@
+{
+  "base": {
+    "brand": {
+      "50": {
+        "value": "{core.color.azure.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.azure.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.azure.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.azure.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.azure.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.azure.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.azure.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.azure.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.azure.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.azure.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.azure.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.azure.1100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "50": {
+        "value": "{base.brand.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{base.brand.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.brand.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.brand.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.brand.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.brand.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.brand.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.brand.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.brand.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{base.brand.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.brand.1100}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "50": {
+        "value": "{core.color.grass-green.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.grass-green.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.grass-green.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.grass-green.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.grass-green.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.grass-green.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.grass-green.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.grass-green.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.grass-green.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.grass-green.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.grass-green.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.grass-green.1100}",
+        "type": "color"
+      }
+    },
+    "studentmiles": {
+      "brand-1": {
+        "value": "#21A3FD",
+        "type": "color"
+      },
+      "brand-2": {
+        "value": "#1E3F66",
+        "type": "color"
+      },
+      "brand-3": {
+        "value": "#31394F",
+        "type": "color"
+      },
+      "brand-4": {
+        "value": "#374058",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "presets": {
+      "header": {
+        "value": "{base.studentmiles.brand-3}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{base.studentmiles.brand-4}",
+        "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "{base.studentmiles.brand-4}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{base.studentmiles.brand-3}",
+        "type": "color"
+      }
+    }
+  }
+}
