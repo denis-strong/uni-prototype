@@ -358,12 +358,8 @@
         "value": "#07BEB8",
         "type": "color"
       },
-      "deep-cove": {
-        "value": "#051046",
-        "type": "color"
-      },
-      "haiti": {
-        "value": "#131938",
+      "mandy": {
+        "value": "#E05263",
         "type": "color"
       },
       "rhino": {
@@ -372,14 +368,6 @@
       },
       "dark": {
         "value": "#1A232B",
-        "type": "color"
-      },
-      "sunset": {
-        "value": "linear-gradient(180deg, #f3841d 0%, #f9a65a 100%)",
-        "type": "color"
-      },
-      "mandy": {
-        "value": "#E05263",
         "type": "color"
       }
     },

@@ -238,8 +238,7 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -734,8 +733,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1109,8 +1107,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1619,8 +1616,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1883,8 +1879,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2140,8 +2135,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2413,8 +2407,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2666,8 +2659,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2929,8 +2921,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3207,8 +3198,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3477,8 +3467,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3714,8 +3703,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -4327,8 +4315,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -4591,8 +4578,7 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled",
-      "brand/air-and-tour": "disabled"
+      "core": "enabled"
     }
   },
   {
@@ -5110,8 +5096,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -5734,8 +5719,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6335,8 +6319,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6760,8 +6743,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -7225,8 +7207,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -7691,8 +7672,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/air-and-tour": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -7984,8 +7964,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source",
-      "brand/air-and-tour": "disabled"
+      "brand/wowfare": "source"
     }
   },
   {
@@ -8010,8 +7989,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "source",
-      "brand/ovago_wp": "enabled",
-      "brand/air-and-tour": "disabled"
+      "brand/ovago_wp": "enabled"
     }
   },
   {
@@ -8036,8 +8014,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/aran-grant": "source",
-      "brand/arangrant_wp": "enabled",
-      "brand/air-and-tour": "disabled"
+      "brand/arangrant_wp": "enabled"
     }
   },
   {
@@ -8065,11 +8042,8 @@
       "theme.bg.accent": "S:cae4665580a41fc843f47ad8a1135cb39c09a3ce,",
       "theme.bg.accent-subtle": "S:16d3bd4118689e2880e0a98b5517cc7b31eef46f,",
       "base.acapulco.topaz": "S:da0efb8090c466d0f48220c862de103c19884b8c,",
-      "base.acapulco.deep-cove": "S:e971e08112a4b147a5392d78fe338930b441ace0,",
-      "base.acapulco.haiti": "S:bf7f194d59a9303dce42c5d1646183f5fd9217f3,",
       "base.acapulco.rhino": "S:40f1df2b5bbe9892bcebfffa4a553cd576d61636,",
       "base.acapulco.dark": "S:9478037dbb59cd168b1ed65471e0d64e2b3dca50,",
-      "base.acapulco.sunset": "S:e6e9e68b5b83a92e03bf78e2b6834a6c7bf16556,",
       "base.success.50": "S:0816515160e936f7390c5195557a3d825d5c6e89,",
       "base.success.100": "S:33208bc56fd9d512a1fb641c111dbc07bb49c186,",
       "base.success.200": "S:40d92219fbf5d84012afdbc603557c72ad27e5f6,",
@@ -8577,8 +8551,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/acapulco": "enabled",
-      "brand/air-and-tour": "disabled"
+      "brand/acapulco": "enabled"
     }
   },
   {
