@@ -101,6 +101,56 @@
           "type": "color"
         }
       },
+      "mandy": {
+        "50": {
+          "value": "#FEF5F6",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FDEDEF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FDE3E6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FBD5D9",
+          "type": "color"
+        },
+        "400": {
+          "value": "#F5B8BE",
+          "type": "color"
+        },
+        "500": {
+          "value": "#E5626F",
+          "type": "color"
+        },
+        "600": {
+          "value": "#DF4454",
+          "type": "color"
+        },
+        "700": {
+          "value": "#C0303E",
+          "type": "color"
+        },
+        "800": {
+          "value": "#9D343F",
+          "type": "color"
+        },
+        "900": {
+          "value": "#912B35",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#671E25",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#450C12",
+          "type": "color"
+        }
+      },
       "cranberry": {
         "50": {
           "value": "#FEF5F8",

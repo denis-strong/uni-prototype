@@ -1,212 +1,8 @@
 {
   "theme": {
-    "action": {
-      "primary": {
-        "normal": {
-          "value": "{base.acapulco.topaz}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.075",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.15",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "selected": {
-          "value": "{theme.action.primary.hover}",
-          "type": "color",
-          "$extensions": {}
-        },
-        "subtle": {
-          "normal": {
-            "value": "{theme.action.primary.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.75",
-                  "space": "srgb"
-                }
-              }
-            }
-          },
-          "hover": {
-            "value": "{theme.action.primary.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.625",
-                  "space": "srgb"
-                }
-              }
-            }
-          },
-          "active": {
-            "value": "{theme.action.primary.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.5",
-                  "space": "srgb"
-                }
-              }
-            }
-          },
-          "selected": {
-            "value": "{theme.action.primary.subtle.hover}",
-            "type": "color",
-            "$extensions": {}
-          }
-        }
-      },
-      "accent": {
-        "normal": {
-          "value": "{base.acapulco.mandy}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.075",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.15",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "selected": {
-          "value": "{theme.action.accent.hover}",
-          "type": "color",
-          "$extensions": {}
-        },
-        "subtle": {
-          "normal": {
-            "value": "{theme.action.accent.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.8",
-                  "space": "lch"
-                }
-              }
-            }
-          },
-          "hover": {
-            "value": "{theme.action.accent.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.675",
-                  "space": "lch"
-                }
-              }
-            }
-          },
-          "active": {
-            "value": "{theme.action.accent.normal}",
-            "type": "color",
-            "$extensions": {
-              "studio.tokens": {
-                "modify": {
-                  "type": "lighten",
-                  "value": "0.575",
-                  "space": "lch"
-                }
-              }
-            }
-          },
-          "selected": {
-            "value": "{theme.action.accent.subtle.hover}",
-            "type": "color",
-            "$extensions": {}
-          }
-        }
-      }
-    },
-    "bg": {
-      "brand": {
-        "value": "{base.acapulco.topaz}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.bg.brand}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.8",
-              "space": "srgb"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{base.acapulco.mandy}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.bg.accent}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.85",
-              "space": "lch"
-            }
-          }
-        }
-      }
-    },
     "presets": {
       "header": {
-        "value": "{base.acapulco.rhino}",
+        "value": "{base.acapulco.brand-2}",
         "type": "color"
       },
       "subheader": {
@@ -223,201 +19,123 @@
         }
       },
       "footer": {
-        "value": "{base.acapulco.dark}",
+        "value": "{base.acapulco.brand-3}",
         "type": "color"
-      }
-    },
-    "interaction": {
-      "default": {
-        "normal": {
-          "value": "{theme.action.success.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.success.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{theme.action.success.active}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{theme.action.success.selected}",
-          "type": "color"
-        },
-        "subtle": {
-          "normal": {
-            "value": "{theme.action.success.subtle.normal}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{theme.action.success.subtle.hover}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{theme.action.success.subtle.active}",
-            "type": "color"
-          },
-          "selected": {
-            "value": "{theme.action.success.subtle.selected}",
-            "type": "color"
-          }
-        }
-      },
-      "border": {
-        "normal": {
-          "value": "{theme.action.primary.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.primary.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{theme.action.primary.active}",
-          "type": "color"
-        },
-        "selected": {
-          "value": "{theme.action.primary.selected}",
-          "type": "color"
-        }
-      }
-    },
-    "content": {
-      "brand": {
-        "value": "{base.acapulco.topaz}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.15",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{base.acapulco.mandy}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.075",
-              "space": "lch"
-            }
-          }
-        }
-      }
-    },
-    "border": {
-      "brand": {
-        "value": "{base.acapulco.topaz}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.border.brand}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.6",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "accent": {
-        "value": "{base.acapulco.mandy}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.border.accent}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.7",
-              "space": "lch"
-            }
-          }
-        }
       }
     }
   },
   "base": {
     "acapulco": {
-      "green-sea": {
+      "brand-1": {
         "value": "#40AEA5",
         "type": "color"
       },
-      "topaz": {
-        "value": "#07BEB8",
-        "type": "color"
-      },
-      "mandy": {
-        "value": "#E05263",
-        "type": "color"
-      },
-      "rhino": {
+      "brand-2": {
         "value": "#2B3864",
         "type": "color"
       },
-      "dark": {
+      "brand-3": {
         "value": "#1A232B",
         "type": "color"
       }
     },
-    "success": {
+    "brand": {
       "50": {
-        "value": "{core.color.turquoise.50}",
+        "value": "{core.color.aquamarine.50}",
         "type": "color"
       },
       "100": {
-        "value": "{core.color.turquoise.100}",
+        "value": "{core.color.aquamarine.100}",
         "type": "color"
       },
       "200": {
-        "value": "{core.color.turquoise.200}",
+        "value": "{core.color.aquamarine.200}",
         "type": "color"
       },
       "300": {
-        "value": "{core.color.turquoise.300}",
+        "value": "{core.color.aquamarine.300}",
         "type": "color"
       },
       "400": {
-        "value": "{core.color.turquoise.400}",
+        "value": "{core.color.aquamarine.400}",
         "type": "color"
       },
       "500": {
-        "value": "{core.color.turquoise.500}",
+        "value": "{core.color.aquamarine.500}",
         "type": "color"
       },
       "600": {
-        "value": "{core.color.turquoise.600}",
+        "value": "{core.color.aquamarine.600}",
         "type": "color"
       },
       "700": {
-        "value": "{core.color.turquoise.700}",
+        "value": "{core.color.aquamarine.700}",
         "type": "color"
       },
       "800": {
-        "value": "{core.color.turquoise.800}",
+        "value": "{core.color.aquamarine.800}",
         "type": "color"
       },
       "900": {
-        "value": "{core.color.turquoise.900}",
+        "value": "{core.color.aquamarine.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{core.color.turquoise.1000}",
+        "value": "{core.color.aquamarine.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{core.color.turquoise.1100}",
+        "value": "{core.color.aquamarine.1100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "50": {
+        "value": "{core.color.mandy.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.mandy.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.mandy.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.mandy.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.mandy.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.mandy.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.mandy.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.mandy.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.mandy.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.mandy.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.mandy.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.mandy.1100}",
         "type": "color"
       }
     }
