@@ -820,12 +820,12 @@
           }
         }
       },
-      "multistep-subheader": {
-        "value": "{theme.bg.brand}",
-        "type": "color"
-      },
       "footer": {
         "value": "{theme.bg.primary-inverse}",
+        "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "{theme.bg.brand}",
         "type": "color"
       }
     },
