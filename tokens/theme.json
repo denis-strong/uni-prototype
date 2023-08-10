@@ -722,15 +722,15 @@
       "bg": {
         "modal": {
           "type": "color",
-          "value": "{theme.bg.brand}"
+          "value": "{theme.bg.primary}"
         },
         "side-panel": {
           "type": "color",
-          "value": "{theme.bg.brand}"
+          "value": "{theme.bg.primary}"
         },
         "modeless": {
           "type": "color",
-          "value": "{theme.bg.brand}"
+          "value": "{theme.bg.primary}"
         },
         "modeless-inverse": {
           "type": "color",
@@ -739,7 +739,7 @@
         "form-field": {
           "default": {
             "type": "color",
-            "value": "{theme.bg.brand}"
+            "value": "{theme.bg.primary}"
           },
           "muted": {
             "type": "color",

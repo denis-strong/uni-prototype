@@ -251,7 +251,7 @@
         "type": "color"
       }
     },
-    "interactive": {
+    "interaction": {
       "default": {
         "normal": {
           "value": "{base.fairfield.raisin-black}",
