@@ -376,19 +376,19 @@
       },
       "primary": {
         "normal": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.800}",
+          "value": "{base.accent.800}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.900}",
+          "value": "{base.accent.900}",
           "type": "color"
         }
       }
@@ -396,19 +396,19 @@
     "interaction": {
       "default": {
         "normal": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.800}",
+          "value": "{base.accent.800}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.900}",
+          "value": "{base.accent.900}",
           "type": "color"
         }
       }

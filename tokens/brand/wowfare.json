@@ -2,51 +2,51 @@
   "base": {
     "success": {
       "50": {
-        "value": "{base.brand.50}",
+        "value": "{base.accent.50}",
         "type": "color"
       },
       "100": {
-        "value": "{base.brand.100}",
+        "value": "{base.accent.100}",
         "type": "color"
       },
       "200": {
-        "value": "{base.brand.200}",
+        "value": "{base.accent.200}",
         "type": "color"
       },
       "300": {
-        "value": "{base.brand.300}",
+        "value": "{base.accent.300}",
         "type": "color"
       },
       "400": {
-        "value": "{base.brand.400}",
+        "value": "{base.accent.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.brand.500}",
+        "value": "{base.accent.500}",
         "type": "color"
       },
       "600": {
-        "value": "{base.brand.600}",
+        "value": "{base.accent.600}",
         "type": "color"
       },
       "700": {
-        "value": "{base.brand.700}",
+        "value": "{base.accent.700}",
         "type": "color"
       },
       "800": {
-        "value": "{base.brand.800}",
+        "value": "{base.accent.800}",
         "type": "color"
       },
       "900": {
-        "value": "{base.brand.900}",
+        "value": "{base.accent.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{base.brand.1000}",
+        "value": "{base.accent.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{base.brand.1100}",
+        "value": "{base.accent.1100}",
         "type": "color"
       }
     },
@@ -148,7 +148,7 @@
         "type": "color"
       },
       "white-to-primary": {
-        "value": "linear-gradient(90deg, rgba({base.brand.600}, 0) 0%, {base.brand.600} 100%)",
+        "value": "linear-gradient(90deg, rgba({base.accent.600}, 0) 0%, {base.accent.600} 100%)",
         "type": "color"
       },
       "marketing": {
@@ -171,7 +171,7 @@
     "presets": {
       "header": {
         "type": "color",
-        "value": "{base.brand.600}"
+        "value": "{base.accent.600}"
       },
       "footer": {
         "type": "color",
@@ -185,19 +185,19 @@
     "interaction": {
       "default": {
         "normal": {
-          "value": "{base.brand.500}",
+          "value": "{base.accent.500}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.600}",
+          "value": "{base.accent.600}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.brand.600}",
+          "value": "{base.accent.600}",
           "type": "color"
         }
       }
@@ -205,64 +205,64 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.brand.500}",
+          "value": "{base.accent.500}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.600}",
+          "value": "{base.accent.600}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.brand.600}",
+          "value": "{base.accent.600}",
           "type": "color"
         }
       },
       "success": {
         "normal": {
-          "value": "{base.brand.500}",
+          "value": "{base.accent.500}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.brand.600}",
+          "value": "{base.accent.600}",
           "type": "color"
         },
         "active": {
-          "value": "{base.brand.700}",
+          "value": "{base.accent.700}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.brand.600}",
+          "value": "{base.accent.600}",
           "type": "color"
         }
       }
     },
     "content": {
       "brand": {
-        "value": "{base.brand.600}",
+        "value": "{base.accent.600}",
         "type": "color"
       }
     },
     "bg": {
       "brand": {
-        "value": "{base.brand.500}",
+        "value": "{base.accent.500}",
         "type": "color"
       },
       "success": {
-        "value": "{base.brand.500}",
+        "value": "{base.accent.500}",
         "type": "color"
       }
     },
     "border": {
       "brand": {
-        "value": "{base.brand.500}",
+        "value": "{base.accent.500}",
         "type": "color"
       },
       "success": {
-        "value": "{base.brand.500}",
+        "value": "{base.accent.500}",
         "type": "color"
       }
     }

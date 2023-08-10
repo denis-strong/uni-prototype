@@ -106,32 +106,6 @@
     },
     "brand": {
       "dark": {
-        "value": "{base.brand.800}",
-        "type": "color"
-      },
-      "tone": {
-        "value": "{base.brand.700}",
-        "type": "color"
-      },
-      "default": {
-        "value": "{base.brand.600}",
-        "type": "color"
-      },
-      "tint": {
-        "value": "{base.brand.500}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{base.brand.300}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{base.brand.100}",
-        "type": "color"
-      }
-    },
-    "accent": {
-      "dark": {
         "value": "{base.accent.800}",
         "type": "color"
       },
@@ -153,6 +127,32 @@
       },
       "subtle": {
         "value": "{base.accent.100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "dark": {
+        "value": "{base.brand.800}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{base.brand.700}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{base.brand.600}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{base.brand.500}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{base.brand.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{base.brand.100}",
         "type": "color"
       }
     }
