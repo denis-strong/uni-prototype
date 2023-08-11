@@ -1,5 +1,105 @@
 {
   "base": {
+    "brand": {
+      "50": {
+        "value": "{core.color.blue.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.blue.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.blue.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.blue.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.blue.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4E98FD",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.allsavingstravel.sky-blue}",
+        "type": "color"
+      },
+      "700": {
+        "value": "#2262F1",
+        "type": "color"
+      },
+      "800": {
+        "value": "#184FD7",
+        "type": "color"
+      },
+      "900": {
+        "value": "#143FB8",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.blue.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.blue.1100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "50": {
+        "value": "{base.success.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{base.success.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{base.success.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{base.success.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{base.success.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{base.success.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{base.success.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{base.success.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{base.success.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{base.success.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{base.success.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{base.success.1100}",
+        "type": "color"
+      }
+    },
     "neutral": {
       "50": {
         "value": "{core.color.dolphin.50}",
@@ -90,292 +190,10 @@
       "footer": {
         "value": "{base.neutral.1000}",
         "type": "color"
-      }
-    },
-    "interactive": {
-      "default": {
-        "normal": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.15",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.25",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "subtle-normal": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.92",
-                "space": "hsl"
-              }
-            }
-          }
-        },
-        "subtle-hover": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.88",
-                "space": "hsl"
-              }
-            }
-          }
-        },
-        "subtle-active": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0.82",
-                "space": "hsl"
-              }
-            }
-          }
-        }
-      }
-    },
-    "action": {
-      "primary": {
-        "normal": {
-          "value": "{base.allsavingstravel.sky-blue}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.15",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{theme.action.accent.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "0.25",
-                "space": "lch"
-              }
-            }
-          }
-        }
       },
-      "accent": {
-        "normal": {
-          "value": "{theme.action.success.normal}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.success.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{theme.action.success.active}",
-          "type": "color"
-        }
-      },
-      "link": {
-        "normal": {
-          "value": "{theme.content.info}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{theme.action.link.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.hover-mod}",
-                "space": "lch"
-              }
-            }
-          }
-        },
-        "active": {
-          "value": "{theme.action.link.normal}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "darken",
-                "value": "{semantic.color.modifiers.button.pressed-mod}",
-                "space": "lch"
-              }
-            }
-          }
-        }
-      }
-    },
-    "bg": {
-      "info": {
-        "value": "{base.allsavingstravel.sky-blue}",
+      "multistep-subheader": {
+        "value": "{base.allsavingstravel.gradient}",
         "type": "color"
-      },
-      "info-highlight": {
-        "value": "{base.allsavingstravel.sky-blue}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.88",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "info-subtle": {
-        "value": "{base.allsavingstravel.sky-blue}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.92",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "brand": {
-        "value": "{theme.bg.info}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.bg.info-subtle}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{theme.bg.success}",
-        "type": "color"
-      },
-      "accent-subtle": {
-        "value": "{theme.bg.success-subtles}",
-        "type": "color"
-      }
-    },
-    "content": {
-      "info": {
-        "value": "{base.allsavingstravel.sky-blue}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "brand": {
-        "value": "{theme.content.info}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{theme.content.success}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "lch"
-            }
-          }
-        }
-      }
-    },
-    "border": {
-      "info": {
-        "value": "{base.allsavingstravel.sky-blue}",
-        "type": "color"
-      },
-      "info-subtle": {
-        "value": "{base.allsavingstravel.sky-blue}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "lighten",
-              "value": "0.72",
-              "space": "hsl"
-            }
-          }
-        }
-      },
-      "brand": {
-        "value": "{theme.border.info}",
-        "type": "color"
-      },
-      "brand-subtle": {
-        "value": "{theme.border.info-subtle}",
-        "type": "color"
-      },
-      "accent": {
-        "value": "{theme.content.success}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "lch"
-            }
-          }
-        }
-      },
-      "accent-subtle": {
-        "value": "{theme.border.success-subtle}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "lch"
-            }
-          }
-        }
       }
     }
   }
