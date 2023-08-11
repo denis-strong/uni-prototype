@@ -1,0 +1,108 @@
+{
+  "base": {
+    "brand": {
+      "50": {
+        "value": "{core.color.cyan-blue.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.cyan-blue.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.cyan-blue.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.cyan-blue.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.cyan-blue.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.cyan-blue.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.cyan-blue.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.cyan-blue.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.cyan-blue.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.cyan-blue.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.cyan-blue.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.cyan-blue.1100}",
+        "type": "color"
+      }
+    },
+    "flightaware": {
+      "brand-dark": {
+        "value": "#262e36",
+        "type": "color"
+      },
+      "pink": {
+        "500": {
+          "value": "#e46fa0",
+          "type": "color"
+        },
+        "600": {
+          "value": "#df568f",
+          "type": "color"
+        },
+        "700": {
+          "value": "#be497a",
+          "type": "color"
+        }
+      },
+      "blue": {
+        "500": {
+          "value": "#4077e5",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1f5fe0",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1a51bf",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "theme": {
+    "presets": {
+      "footer": {
+        "value": "#e5eaef",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "#022241",
+        "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "{theme.presets.subheader}",
+        "type": "color"
+      },
+      "header": {
+        "value": "linear-gradient(180deg, #002f5d 0%, #002f5d 48.44%, #021624 100%)",
+        "type": "color"
+      }
+    }
+  }
+}
