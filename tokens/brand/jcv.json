@@ -1,0 +1,107 @@
+{
+  "base": {
+    "jcv": {
+      "brand-1": {
+        "value": "#0068ab",
+        "type": "color"
+      },
+      "brand-2": {
+        "value": "#002d57",
+        "type": "color"
+      },
+      "brand-3": {
+        "value": "#ff6600",
+        "type": "color"
+      },
+      "brand-4": {
+        "value": "#ff8d0e",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "action": {
+      "primary": {
+        "normal": {
+          "value": "{base.jcv.brand-1}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod} ",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "active": {
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.pressed-mod} ",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "selected": {
+          "value": "{theme.action.primary.normal}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{semantic.color.modifiers.button.hover-mod} ",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "#ff6600",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#f15300",
+          "type": "color"
+        },
+        "active": {
+          "value": "#f15300",
+          "type": "color"
+        }
+      }
+    },
+    "interaction": {
+      "default": {
+        "normal": {
+          "value": "{base.jcv.brand-1}",
+          "type": "color"
+        }
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "linear-gradient(180deg, #002f5d 0%, #002f5d 48.44%, #021624 100%)",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "#022241",
+        "type": "color"
+      },
+      "footer": {
+        "value": "#e5eaef",
+        "type": "color"
+      }
+    }
+  }
+}
