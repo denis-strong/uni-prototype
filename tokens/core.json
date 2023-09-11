@@ -851,6 +851,56 @@
           "type": "color"
         }
       },
+      "skymonde": {
+        "50": {
+          "value": "#F5FAFF",
+          "type": "color"
+        },
+        "100": {
+          "value": "#EDF6FF",
+          "type": "color"
+        },
+        "200": {
+          "value": "#E5F2FF",
+          "type": "color"
+        },
+        "300": {
+          "value": "#D1E7FF",
+          "type": "color"
+        },
+        "400": {
+          "value": "#B3D7FF",
+          "type": "color"
+        },
+        "500": {
+          "value": "#5CA8F9",
+          "type": "color"
+        },
+        "600": {
+          "value": "#1876DC",
+          "type": "color"
+        },
+        "700": {
+          "value": "#1771D4",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1568C1",
+          "type": "color"
+        },
+        "900": {
+          "value": "#115CAC",
+          "type": "color"
+        },
+        "1000": {
+          "value": "#0D4F96",
+          "type": "color"
+        },
+        "1100": {
+          "value": "#09407B",
+          "type": "color"
+        }
+      },
       "indigo": {
         "50": {
           "value": "#F5F6FF",

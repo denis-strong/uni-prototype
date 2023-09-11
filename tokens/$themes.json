@@ -238,7 +238,8 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -732,7 +733,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -1105,7 +1107,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -1713,7 +1716,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -1976,7 +1980,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -2231,7 +2236,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -2827,7 +2833,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -3426,7 +3433,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -3688,7 +3696,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -4288,7 +4297,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -4556,7 +4566,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -5158,7 +5169,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -5769,7 +5781,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -6032,7 +6045,8 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -6642,7 +6656,8 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -7275,7 +7290,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -7874,7 +7890,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -8297,7 +8314,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -8878,7 +8896,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -9342,7 +9361,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -9633,7 +9653,8 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source"
+      "brand/wowfare": "source",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -9658,7 +9679,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "source",
-      "brand/ovago_wp": "enabled"
+      "brand/ovago_wp": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -9683,7 +9705,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/aran-grant": "source",
-      "brand/arangrant_wp": "enabled"
+      "brand/arangrant_wp": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -10244,7 +10267,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/acapulco": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -10802,7 +10826,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/air-and-tour": "enabled"
+      "brand/air-and-tour": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -11362,7 +11387,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/airclass": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -11896,7 +11922,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flygtravel": "enabled"
+      "brand/flygtravel": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -12457,7 +12484,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/studentmiles": "enabled"
+      "brand/studentmiles": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -13016,7 +13044,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/wowgateway": "enabled"
+      "brand/wowgateway": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -13576,7 +13605,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/luxscanner": "enabled"
+      "brand/luxscanner": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -14128,7 +14158,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/plumbenefits": "enabled"
+      "brand/plumbenefits": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -14690,7 +14721,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/ebg": "enabled"
+      "brand/ebg": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -15255,7 +15287,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flightaware": "enabled"
+      "brand/flightaware": "enabled",
+      "brand/skymonde": "disabled"
     }
   },
   {
@@ -15817,7 +15850,566 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/jcv": "enabled"
+      "brand/jcv": "enabled",
+      "brand/skymonde": "disabled"
+    }
+  },
+  {
+    "id": "a21fd23033941c58aa27dc01afa253a3fdcf98f0",
+    "name": "SkyMonde",
+    "$figmaStyleReferences": {
+      "base.brand.50": "S:08ed406474f5e9e50863eb4640d25639c5fb47d2,",
+      "base.brand.100": "S:96f5c74c2f834ed16c67e57cec54ce218859f47f,",
+      "base.brand.200": "S:c5cfc9d314ac69a2ccea8c4fe5f836f9002220b3,",
+      "base.brand.300": "S:70e3e49b47c389d58c104d73065d2f7734bd1e87,",
+      "base.brand.400": "S:34f95f97c1100d3715f31a0c74ef7621dc2d071a,",
+      "base.brand.500": "S:987eb1e373a388c6404f8b50a7c5a46b978850f8,",
+      "base.brand.600": "S:10ff5ca872d480bda9c3311fd64ac357ff533fa6,",
+      "base.brand.700": "S:bb338caf11bffaedc4dc95c31d8b87d1943ed119,",
+      "base.brand.800": "S:3abac84527eff9f3ae57120562b08679afa08ea8,",
+      "base.brand.900": "S:d6a9c49ce15166bb8ab8c97fade62e1154c3f0c5,",
+      "base.brand.1000": "S:6613074d6f43ab68e86e3f841e70b31e17325ded,",
+      "base.brand.1100": "S:48cecc4588da053b14099dc835294bf1a196acb9,",
+      "base.info.50": "S:c9138f4aebeb6b300ff015035dfc301cd4c22676,",
+      "base.info.100": "S:34f0ef7e781a4969483f0dad43b900c606b7f227,",
+      "base.info.200": "S:499b6f7fa056e431629531cc37eec5cc9632590e,",
+      "base.info.300": "S:f05f93fc7b13f78171a867e5be626293f25d4586,",
+      "base.info.400": "S:4f828f593e0f442833418f6edd66ea17f788eab0,",
+      "base.info.500": "S:383005b6dfb4087cd731a4676e50220e2d39dab8,",
+      "base.info.600": "S:5529aaf4e2dec7e733abb2c9bbb5d42d64c3cea4,",
+      "base.info.700": "S:86796a1e622d41d3ecb7e7be076509aa658a00f0,",
+      "base.info.800": "S:84f7c0116a7b7acb5ce6b9b32be8db0e5d5582e0,",
+      "base.info.900": "S:00debea888b046f4acf86feaeb1ff2f8ce93c413,",
+      "base.info.1000": "S:55b6d018b232ca8f2b4f755a07ab7958621a1810,",
+      "base.info.1100": "S:52fb2bce5fce385d58c64af15da9afefbe1a99f4,",
+      "theme.bg.primary": "S:7afe798d134f2aa90fe93ca8e5076603e98f4713,",
+      "theme.bg.secondary": "S:c6b315e534e9df274211b9e21dcaff4d75f394d6,",
+      "theme.bg.tertiary": "S:893aa439fa197fdecb72c8befcb1590c9bea5797,",
+      "theme.bg.disabled": "S:15726c0e0c10bd49ab6f162fec9e74a4825799e8,",
+      "theme.bg.strong": "S:2132537b7e6dcd1d58958cfb6c213752b666b565,",
+      "theme.bg.primary-inverse": "S:8d28cbb35b7bd6b2c789daae42ec21116b359fbc,",
+      "theme.bg.secondary-inverse": "S:247ec961d381c7380819b604c5bb7b4cc6ce8e64,",
+      "theme.bg.tertiary-inverse": "S:6adfe0c3a6934cfccec908ca08dfa72c1419203f,",
+      "theme.bg.scrim": "S:c3623abc8d174a84a1ae7a006d8200a9e1791f42,",
+      "theme.bg.canvas": "S:160777821f126f717d1e5bf164075ccb45c39dee,",
+      "theme.bg.success": "S:008c7b05c716350ddf0a6464460e227744431c1b,",
+      "theme.bg.success-highlight": "S:cd85ce7475dc1fcd32e4c50e64952b05d3a4d6bd,",
+      "theme.bg.success-subtle": "S:345123d1727d1912835e4071c465ec90102a5a1e,",
+      "theme.bg.warning": "S:e38834d0a3c542ca3f5325a59c45f85fcf3ee6cd,",
+      "theme.bg.warning-highlight": "S:ed4222d4492aa6ce8bd1eece153cd19dae6a0934,",
+      "theme.bg.warning-subtle": "S:d00f9a3e042c139a1cac77d8c646661e527acdfc,",
+      "theme.bg.danger": "S:b367e70151530b0a7fc2aaec662e13693e42434f,",
+      "theme.bg.danger-highlight": "S:63378a8cf0c1f7c7a57b4f5cfff59c8351c7a05c,",
+      "theme.bg.danger-subtle": "S:22541b2b19df4e443c97a716e32cf6800d6c3c1c,",
+      "theme.bg.info": "S:4f795686bcd9427943b12551ceffe747bd2779c0,",
+      "theme.bg.info-highlight": "S:67d600e2b3cef4adae66f41e199309a94433d6e8,",
+      "theme.bg.info-subtle": "S:a7b4f314887f2bc8e4deae917d511cf85ffdaea1,",
+      "theme.bg.brand": "S:b694d5be0bfbbdeb05233d60bd8314a5eb72c68a,",
+      "theme.bg.brand-subtle": "S:410d8f439dd404054da93d128bbb0e9f1e4323b4,",
+      "theme.bg.accent": "S:79fe00b9ce4dc0184573d8c0febda4ffa6fc12ee,",
+      "theme.bg.accent-subtle": "S:8a2e5b2ce257a7d858805961b97c0708e4516ab5,",
+      "theme.content.primary": "S:5492a77dc543555f2f8fca484e6bb07f2930fb37,",
+      "theme.content.secondary": "S:efe88e8cef5c6745e799dcf38c50084ecb43b3df,",
+      "theme.content.tertiary": "S:73df96e0585deacaf40a16d4c7c78e2996b77a83,",
+      "theme.content.disabled": "S:7f1e96b844693ba7b9b932e264d36c041bedb1eb,",
+      "theme.content.primary-inverse": "S:5d7f8232544dfdac930ee6e985d61fe9326a0e04,",
+      "theme.content.secondary-inverse": "S:ab6a7a5e4088d62f26c0b20649c795aa05d48d3a,",
+      "theme.content.tertiary-inverse": "S:7fdcb849b31e47b9de1e38e1bd3fb0259baf2c30,",
+      "theme.content.disabled-inverse": "S:a222f2a2906961102fd19d0635487c32e9f14544,",
+      "theme.content.success": "S:177131c3bf17993145c0214476abfffc926d5bfd,",
+      "theme.content.warning": "S:abdecabacad19f892257eb6313ff9f50e37f2be3,",
+      "theme.content.danger": "S:8278090cd02e016782245a64b2403bbc9a50be5d,",
+      "theme.content.info": "S:82e4b451f765b6aa80453133050826e6635d5edf,",
+      "theme.content.brand": "S:ae59fc8c2113c151e79b3c9b49a3f47a64b88008,",
+      "theme.content.accent": "S:c7f0172aff7a224eee730c98efae66932afab741,",
+      "theme.border.light": "S:b91ff8c8e8fa481b785e95f842edfb30381df8fc,",
+      "theme.border.medium": "S:f885fa2c3c36969d9d723cebfb517ad660a2b332,",
+      "theme.border.strong": "S:df5f23c4c493894c0216beecc4e248933f520a1d,",
+      "theme.border.light-alpha": "S:0d70d9d120a7b8935b9b0b7d5813cdae0d82d8a2,",
+      "theme.border.light-inverse": "S:9e739dd85fa4532cbbf6d4e3ff3aed8747ca3459,",
+      "theme.border.medium-inverse": "S:cdb3bd1410a7748cfa39e98d7f3407722feea186,",
+      "theme.border.strong-inverse": "S:ba41f4f11b6429531aca5b52224f30745d9049fe,",
+      "theme.border.success": "S:fabcdbf982344b1fc19ef307a314a925e7602d7c,",
+      "theme.border.success-subtle": "S:24ee0d86c52c6df58f0ce8f59ef209d7e40e74a5,",
+      "theme.border.warning": "S:5bcc5c818572a00258ab37bb3c6ed0b19f9d78ee,",
+      "theme.border.warning-subtle": "S:ee8e83346df83c44e61a0b4a6e541cc729b39b3e,",
+      "theme.border.danger": "S:fdd941cec400d00ebd13e7660f3ffac3f0e438ee,",
+      "theme.border.danger-subtle": "S:ac9de7fb3edcbcf18b8a39353c8b53e25a407ab3,",
+      "theme.border.info": "S:bbe83b8a3bd7f0e4ac177a0fcaf4e5219147e621,",
+      "theme.border.info-subtle": "S:449e4167ef8b1acd2070dbf8a5a8c968d40e70c2,",
+      "theme.border.brand": "S:581b5d5784e568b4c83072c9f75f280a680957f2,",
+      "theme.border.brand-subtle": "S:0c2549a13bd5880db57b02dc37156a67d42bf937,",
+      "theme.border.accent": "S:462b86d9eb3289ba1b17683e433320f1efd34c8c,",
+      "theme.border.accent-subtle": "S:742fcd94e8576d62a5df52a067f2e7d2a1ce3686,",
+      "theme.action.primary.normal": "S:7000d796a55bee19c87560cb6b287fde3bbb6819,",
+      "theme.action.primary.hover": "S:4082bd848bfac18384ac44ba93aca40e92d1b6c1,",
+      "theme.action.primary.active": "S:4a04f131df4051f318df4e554c0accf20f79ecae,",
+      "theme.action.primary.selected": "S:36d546e6a730fa1902d99f078bcddded70d77003,",
+      "theme.action.primary.subtle.normal": "S:bcfe54d694416e1c609ee7037e06996e6b60ec4c,",
+      "theme.action.primary.subtle.hover": "S:efda77030306915efaaeb120ea8f9181f5e713e0,",
+      "theme.action.primary.subtle.active": "S:b88dbefc85d4f126d26fbb933f09dc33a923f6ea,",
+      "theme.action.primary.subtle.selected": "S:ded5579b59b3c0663405367c860b404b9c81b859,",
+      "theme.action.accent.normal": "S:a9a3c0c57293b89d14fcca678e4881420c7f64fe,",
+      "theme.action.accent.hover": "S:079ace4c4934e2f05fbc0296e24689d9386faac1,",
+      "theme.action.accent.active": "S:751aa0a54d51f882b005478719ee0c6d693c1c0f,",
+      "theme.action.accent.selected": "S:863adcea694efa4f7606f4a5fc562a4bf7ed127a,",
+      "theme.action.accent.subtle.normal": "S:c390752da2945c8e8ef471e1b08c9535f7b54e6a,",
+      "theme.action.accent.subtle.hover": "S:3d50c490b2c0c83503968c002e049912fc145af7,",
+      "theme.action.accent.subtle.active": "S:175ea924864268a417d5037098392b05018d93d3,",
+      "theme.action.accent.subtle.selected": "S:a1d4a51d55a031fbce81d360ace62e1510e869a0,",
+      "theme.action.success.normal": "S:05c191f8e74e0bfc9e54d504c73a703afdf0d4d9,",
+      "theme.action.success.hover": "S:70634b5a5e042f11326a0c6d889aa854ebc34616,",
+      "theme.action.success.active": "S:e13169f01ebbb10555f234c67b2c93044d759692,",
+      "theme.action.success.selected": "S:a3be8dbcfa2b99eab9bb75309fd5c33705476e96,",
+      "theme.action.success.subtle.normal": "S:e85c694e1a3d7a125ae5bfb2aa8fe69c842d3f5c,",
+      "theme.action.success.subtle.hover": "S:bcd6da83888449e49707d2b53b9a55ae4e683104,",
+      "theme.action.success.subtle.active": "S:40cf8a6b977e0bb8e1b704354cf4fcb37c376f07,",
+      "theme.action.success.subtle.selected": "S:cc0f6c15ae0f6ff01681e93a8ae81b95417b8e32,",
+      "theme.action.danger.normal": "S:b1964e3b515143a2b4b5363239b0bcf6b6a3e59a,",
+      "theme.action.danger.hover": "S:bb9306a82ebd8348426f4a198df786c4f5289de4,",
+      "theme.action.danger.active": "S:5650a8cb2f712ae145ac2850ab875b62005114a7,",
+      "theme.action.danger.selected": "S:3a0b831b46b122963e41e360c0af3efc309ecebc,",
+      "theme.action.danger.subtle.normal": "S:c7506fc6269cf8aa258a776bf876f54a7ca91325,",
+      "theme.action.danger.subtle.hover": "S:4dd1f77b4e6bff6ebb3438ed0c4735e9b96a642e,",
+      "theme.action.danger.subtle.active": "S:37069809d6673f847a0f0996cf67419157240d1c,",
+      "theme.action.danger.subtle.selected": "S:84e2c489957710babdc6baa9abbca0c401299fcb,",
+      "theme.action.neutral.normal": "S:3d5d4515342d995049acffd79d64e8d678bdc239,",
+      "theme.action.neutral.hover": "S:d563060f08270efa6fe735a7b2f116b440192f3f,",
+      "theme.action.neutral.active": "S:2e890806a0da038cc7c074bacb47fa98d560bdb3,",
+      "theme.action.neutral.selected": "S:26c4e28144a1857d2cbf60e85c944d5ec2f839ae,",
+      "theme.action.neutral.subtle.normal": "S:26166c0b04bd71d1ed80ca40492d36e8b9506856,",
+      "theme.action.neutral.subtle.hover": "S:1d73c174cdf76db1a642490db580292d496ad673,",
+      "theme.action.neutral.subtle.active": "S:16e77b054f825d44ac68fb66106ace72613f59de,",
+      "theme.action.neutral.subtle.selected": "S:9b1a0138ce25c451c65255c5ea04c07405b61422,",
+      "theme.action.ghost.normal": "S:529737460fa8ece29360ecfcd09da01fed32a8bf,",
+      "theme.action.ghost.hover": "S:6a1920931ed212fdb96b32c762002275008d22dc,",
+      "theme.action.ghost.active": "S:140fc0667723091b8297c130dae114269adbdfb8,",
+      "theme.action.ghost.selected": "S:362e492034868b37fff7f2763189f016a83e862a,",
+      "theme.action.ghost.inverted.hover": "S:7ed2767a4fab5dcc65a37861d678e94488a275d2,",
+      "theme.action.ghost.inverted.active": "S:243110aeb971b0852fb4a9257a6b9cd8d5f46223,",
+      "theme.action.ghost.inverted.selected": "S:4143f107afe72b1f67b8ba35eb18bd1fd96b67d2,",
+      "theme.action.inverted.normal": "S:594e7275a6c002be40c6d2229c92bbd27dc6a607,",
+      "theme.action.inverted.hover": "S:8ba9181789b4a66a9b0d548ccb6f52fff1f2bde0,",
+      "theme.action.inverted.active": "S:a874ae79f3e8b0470ccaca2be8310cc6a2cf930a,",
+      "theme.action.outline.normal": "S:bcd3808f710c5ca1cb7f3d534d58669b50fc11cd,",
+      "theme.action.outline.hover": "S:3c3af6759ab429117f26a4d0aad5ee6c8e38cf82,",
+      "theme.action.outline.active": "S:ec0d7ea46064ef5c6249cc004ab16dd4a0a73dea,",
+      "theme.action.link.normal": "S:00768fe53101b36187407646ba58ad56e84e54e6,",
+      "theme.action.link.hover": "S:bf4a29ce33fb4d4a899a84ba3f8c39e9e947bc6f,",
+      "theme.action.link.active": "S:293e03313141c247b1c6bb65d8c08f6b98de16ee,",
+      "theme.interaction.default.normal": "S:39916b434439587ac92cb24a8c25c8b4ab1e62af,",
+      "theme.interaction.default.hover": "S:86dac961c622b055769ab92fa041bb5e441916c2,",
+      "theme.interaction.default.active": "S:5d5db56d8ff0ea8f1754c49c321779dd92d112db,",
+      "theme.interaction.default.selected": "S:2a9b61d8b1e3143a36cae2f112835e0bbaaefb46,",
+      "theme.interaction.default.subtle.normal": "S:45949aeb155a7cc73d70e63fa6f5ef5df3c39b9a,",
+      "theme.interaction.default.subtle.hover": "S:8f48bfa0b99805b2a0658eb047bddb6786295376,",
+      "theme.interaction.default.subtle.active": "S:7bff96ca3abc248aef5eeff05f070162b7e5c3d6,",
+      "theme.interaction.default.subtle.selected": "S:901270ff42436febc0f741dc1f6bd6cec1a9a4c3,",
+      "theme.interaction.neutral.normal": "S:fcc2376d707626a5100e40c021dc7c7e39f2f841,",
+      "theme.interaction.neutral.hover": "S:95ee99f4b6b4c604aea5f62fbd92550d246cd8cb,",
+      "theme.interaction.neutral.active": "S:96b2865cf13e11e25ebe68748b4774429e5aac48,",
+      "theme.interaction.neutral.selected": "S:913432ce91bf0852b8cd89294eab914d4f82ea0d,",
+      "theme.interaction.neutral.subtle.normal": "S:4729f4188eb7218a429c5ae2ef8ba645e13b64bf,",
+      "theme.interaction.neutral.subtle.hover": "S:f863d66f37eabecba13df60c1c712103f2ddbc08,",
+      "theme.interaction.neutral.subtle.active": "S:bcc081ab37f58d4772a8b96f38259eaa999c398e,",
+      "theme.interaction.neutral.subtle.selected": "S:c6bc9fdc4f2c6bfd2eead24cdebda093066cf9ee,",
+      "theme.interaction.ghost.normal": "S:dd2e33333c2a95b8d7c4f24996a3d515a1b6c4a9,",
+      "theme.interaction.ghost.hover": "S:cbf12b1927b7847eeaf1cd2f5522f06b6bccc802,",
+      "theme.interaction.ghost.active": "S:d9689050a6c7b16773413e9d98594c4cf9e7a277,",
+      "theme.interaction.ghost.selected": "S:0a709c2500ad402f2502d5b08127d0bbdd29a18e,",
+      "theme.interaction.ghost.inverted.hover": "S:eaa3559b79042d16a62fc7e2a46e69766cbc2082,",
+      "theme.interaction.ghost.inverted.active": "S:c3b86d58c4fc5077285414bccd1eb1e3132d555e,",
+      "theme.interaction.ghost.inverted.selected": "S:66ed48121d54f9d825b47104d958b50032d4425c,",
+      "theme.interaction.disabled.normal": "S:14f6ee0127a1067724f28fba9ee20d3b57864fd5,",
+      "theme.interaction.disabled.hover": "S:1cbde884c2528f7473548236907ca10dc363c916,",
+      "theme.interaction.disabled.active": "S:8ba786b3f839924fc2dbf2d65b8e4fdc67b6772b,",
+      "theme.interaction.disabled.subtle.normal": "S:c71e40d10d0ddc8ede4c79ad42e476885f4ddfed,",
+      "theme.interaction.disabled.subtle.hover": "S:efb323297191f1f4d5aebe74a79ac51283a55c82,",
+      "theme.interaction.disabled.subtle.active": "S:16f919de01b10f20f671fb2c789e093cc18a6470,",
+      "theme.interaction.inverted.normal": "S:61b7e0c961fa10d3f1b11b6ba536346618b09f2d,",
+      "theme.interaction.inverted.hover": "S:783c66e266788a0a00c8a9195e02a874376bba3b,",
+      "theme.interaction.inverted.active": "S:361a7711dce4540c27002d8f776dd437aa2cd87e,",
+      "theme.interaction.bg.modal": "S:63a57c920aaa5caea90de4913b21ccaf1b38a97b,",
+      "theme.interaction.bg.side-panel": "S:e6328ab3fae5156edd9755cb7955248d7fb8fc61,",
+      "theme.interaction.bg.modeless": "S:0c4e3c3404f31e5f35e5c13c112a11e08e2cb796,",
+      "theme.interaction.bg.modeless-inverse": "S:8d24eff65e156df322adb004782523a265447691,",
+      "theme.interaction.bg.form-field.default": "S:5f90beafb5b701337a8cac2a099c04f983bdbe89,",
+      "theme.interaction.bg.form-field.muted": "S:56126fe3a7f0fc2503750e401c8975bbb3b9c1a0,",
+      "theme.interaction.border.normal": "S:a8aba364c22168e7e1199d270ee6e54e826804a0,",
+      "theme.interaction.border.hover": "S:ca1b14b694c1a44a39c9d010d2eaf5361273ba77,",
+      "theme.interaction.border.active": "S:abac957015b890e3ad889273853f11a6e6d8e969,",
+      "theme.interaction.border.selected": "S:74885bde67266afddee2cf2a25fd1de0dee0f76b,",
+      "theme.interaction.border.error": "S:c1fd993b1c395047eac130dd7c6533edad619210,",
+      "theme.interaction.border.focus": "S:71553148b7ebc198208e8dbed02fb0c798d279a5,",
+      "theme.interaction.border.neutral.normal": "S:7d03467b43ed5070677588ff7c6f1ce403cf29ec,",
+      "theme.interaction.border.neutral.hover": "S:83802260e0c2e8015b0e5c2b2552960bda95aaf4,",
+      "theme.interaction.border.neutral.active": "S:26705c920d7082549a23945480b613e028057ac7,",
+      "theme.interaction.content.default": "S:1b2667c6e527b657e1fab52db80d02c275b5a090,",
+      "theme.interaction.content.placeholder": "S:5e47882e262d19b3b612252a71d41e20999f730b,",
+      "theme.interaction.content.entry": "S:ecc319e0f71cc56d01390107304850e94099e96d,",
+      "theme.presets.header": "S:2707de5cd4c2b2f20f71cca8d814e3e6ca983b7a,",
+      "theme.presets.subheader": "S:9ff027677c97f739fa39b98463968e6fb4573c94,",
+      "theme.presets.footer": "S:9e481edc9c51c2fa960baa220f02b5938377865f,",
+      "theme.presets.multistep-subheader": "S:82c21742b6204b80eda70a30b92c5e0d9b2a8d7f,",
+      "base.generic.white": "S:534884e848370d53b777800ed4019305521afde1,",
+      "base.generic.black": "S:79475c79ec2fc59e7f7b42c58e3c48be2941f4e1,",
+      "base.generic.transparent": "S:a63950ea7e3ce3b768bd42895f3cfe77a44a0396,",
+      "base.white-alpha.100": "S:60bead3d41fa782f89a6137dded7080d48c45e1c,",
+      "base.white-alpha.150": "S:12003366288a6893873fb60bad2c79e1cbdedeea,",
+      "base.white-alpha.200": "S:ab266c88e19bb967d6f2e20e1e99f388c16355d8,",
+      "base.white-alpha.300": "S:c978709a88fe9689b74e51dbb5dbb5db12ae3f3e,",
+      "base.white-alpha.400": "S:8cb088212d556a1ad80b6e1740a961ffd92570bd,",
+      "base.white-alpha.500": "S:1f0eb3e299057f1dd8551a834dcd063a3a6cfbf4,",
+      "base.white-alpha.600": "S:8a46bec2a09d16609cb7e36d8244edb39865c975,",
+      "base.white-alpha.700": "S:92c499b50c4fe2478708a8668c172ac5c1b12a10,",
+      "base.white-alpha.800": "S:122590564faedcdb274744f89913520b8b823a75,",
+      "base.white-alpha.900": "S:37e95672477b267559f19bfca830635106f401a4,",
+      "base.white-alpha.1000": "S:8b8be0097073ee64f6c4beb4ef23fcf3a0a599a2,",
+      "base.black-alpha.100": "S:484ebecb923eae2c4fa09449f5d58ffa12923302,",
+      "base.black-alpha.150": "S:3735c951ee17f96745b6a552d90019d6efd26cce,",
+      "base.black-alpha.200": "S:ac0145c2abc40b495028c04b9ce8ea8cadb5c6f2,",
+      "base.black-alpha.300": "S:bc36e6f0a81de6a8309cedf183466a0689f7d8ff,",
+      "base.black-alpha.400": "S:ef707615f0c604d1d5c615fd1fc2ea89803628dc,",
+      "base.black-alpha.500": "S:d48958f0a071e03298e708db0862aa2b54c9253e,",
+      "base.black-alpha.600": "S:dcc012d38a506953bc57845c71317caa422ce9ed,",
+      "base.black-alpha.700": "S:bae734046343013fdcbfbee2c1d826f7031653ba,",
+      "base.black-alpha.800": "S:5f2a629dfe9400dae08511173d5732f80752ecb5,",
+      "base.black-alpha.900": "S:8b26d75d456588610ab6a7c9ef60bed7682f3bac,",
+      "base.black-alpha.1000": "S:534964f6c9faa77edeb0367ed7edaa5b658b04de,",
+      "base.success.50": "S:228790dbccc74e12e85e142d5ef1e909d6b6efbf,",
+      "base.success.100": "S:0b5d4edf110da7ec7a1648ec6f044614c30ac81b,",
+      "base.success.200": "S:fc9bc98392abc161d717a5d65debe28df7aec8e4,",
+      "base.success.300": "S:bdf6411dcbd6b403071ef901ca186ae19d5b7192,",
+      "base.success.400": "S:4df59c03fa2fa333344bc4074f363820ef57419f,",
+      "base.success.500": "S:b321f1c7ddeed292fb1c2723faa8dfe19cbd3e90,",
+      "base.success.600": "S:d4a2e6bf2f2ba726f2144387e4a3c3ead0af21e5,",
+      "base.success.700": "S:ca61660095ce2655fda7ef3719a5209398f8857a,",
+      "base.success.800": "S:809d003a4771edd88ac609b9a795af2ce77db0c5,",
+      "base.success.900": "S:731d7111928b3277529e471e6b1458e4d9487f38,",
+      "base.success.1000": "S:9506c2f988ab1789fb8ad72e0c80804fdd3bbe20,",
+      "base.success.1100": "S:d5645b5863091a9965f723151cd4e7cf68d1096d,",
+      "base.warning.50": "S:cc9ca1a8b01ec3f9024541b9273b3e907d93ddd0,",
+      "base.warning.100": "S:9ff1deba5039a582b69e1dde70b171ae1da9e6cb,",
+      "base.warning.200": "S:70037f81e0cda6030b86a2947e455383c414d1fa,",
+      "base.warning.300": "S:cf49de751f1702b2e55d0849fe0b454799751514,",
+      "base.warning.400": "S:4fcce791a11e50f1386cf5bdc36005ed6e965d9e,",
+      "base.warning.500": "S:2df2e0012739d0396726122256db39dd80fb8bfb,",
+      "base.warning.600": "S:a9636a5f7a6576fc4a73eedd6d7ad990917372c1,",
+      "base.warning.700": "S:2baa2f508cdfd300fd96f159c9db96c771eeb436,",
+      "base.warning.800": "S:4e6a65f19ef74ad121019fb3caee96731a840d66,",
+      "base.warning.900": "S:7a87b27ab78c21102c5645dd5fb8388b8f2931a7,",
+      "base.warning.1000": "S:05bbc224e6e99bc4ec60070fb40157003d78e2be,",
+      "base.warning.1100": "S:8912fb3117221f07bcf05ab88dcd49b955a277ce,",
+      "base.danger.50": "S:e8dc4f3a5ed3c3dddae4dc6c701ce974b29e3fee,",
+      "base.danger.100": "S:1e5e5ed7b650d8bf103c02d4f345417b2c8c9f54,",
+      "base.danger.200": "S:4a4af2478f397b4287586a9550653496b79c14b0,",
+      "base.danger.300": "S:b3c26b80e939939c114f3d42222d442808ff2446,",
+      "base.danger.400": "S:41910061fd38b8697ebb4ce638d1ec58c8aa7c86,",
+      "base.danger.500": "S:f8b59f453a51c234673390765872b0a360263b05,",
+      "base.danger.600": "S:e742cca8f7a4ae7611922ae7c6e1ec715371434c,",
+      "base.danger.700": "S:ab8f0be14001d67ef612040cdd397332ba3c5d0e,",
+      "base.danger.800": "S:2ae3c11dd240678469ff19b77b8148950b69165e,",
+      "base.danger.900": "S:ac54adf2f7ae1a74ee6acfcbe8298b2c535c9469,",
+      "base.danger.1000": "S:586d96c0aa808fbf89c4675a6f21862ea95bf168,",
+      "base.danger.1100": "S:f12e4d13980ffeb1b3dc3f8fe912311eb28bdd25,",
+      "base.accent.50": "S:fe46b7d34771e7425dc17685f18f5db34aa326eb,",
+      "base.accent.100": "S:bf2acbeab9f11e514863d7c0369c3b2919f68fe4,",
+      "base.accent.200": "S:1feb6d5ef3153cec7fd86ef47ba2084dea9794d1,",
+      "base.accent.300": "S:34d9bb3b5a5f0ff63f2b80069b963982999f9beb,",
+      "base.accent.400": "S:9c2078af665a65f132abd4d1032208b86eb1db6a,",
+      "base.accent.500": "S:66f9da42f4f03c2eb14b114234fdcb761fe606af,",
+      "base.accent.600": "S:7c38b26f2d334f852845339a53b7b6118a1a0ea7,",
+      "base.accent.700": "S:9d3d565024e71ac7b1f653df5a004d609c29aa91,",
+      "base.accent.800": "S:36c005733dac83b1091cdaa8864b0b6cdd89a799,",
+      "base.accent.900": "S:f96d5fc54a30c694fe0ff1d68b61622b16bbf636,",
+      "base.accent.1000": "S:e9df74a0ac889194d36d99726feb1a0cc8630457,",
+      "base.accent.1100": "S:e35f8f23049201fdf51bf5e6fb292af9d34e7be8,",
+      "base.neutral.50": "S:70a0be200d0866420fd19cf2dc2a88e4cb18cdcf,",
+      "base.neutral.100": "S:1a85c57522a95b48dd2ecc0857ed5692f68a90af,",
+      "base.neutral.200": "S:84778ded7a19c785920a19c2dfc184ea6bcee3dc,",
+      "base.neutral.300": "S:e794addd92405d128fad4c000752fc6ca0b99d39,",
+      "base.neutral.400": "S:8fdc440989ee69914575678a9c6b8930f0587018,",
+      "base.neutral.500": "S:8ce506fe216daa83f1a005dd92ee2d0f5bbc5a41,",
+      "base.neutral.600": "S:c7b7f5c8b7b3cc1b7d8f1efb5063753bac9fcdb5,",
+      "base.neutral.700": "S:6164dc0382747d5cb1ae1967bdc128cf5b2d69be,",
+      "base.neutral.800": "S:13d7bd59aabb92ea7eb556a31cf2dec078da7313,",
+      "base.neutral.900": "S:97a6b504bfd010ca2f437ba7549bae125d171479,",
+      "base.neutral.1000": "S:f93900e6ffb38825ce04f7f95930c8c11654f22a,",
+      "base.neutral.1100": "S:90c23b92c8cacd65480b3883435f5a438e5d66c2,",
+      "base.neutral-alpha.100": "S:93140ff39b19354623f6034cc0ab380f6945c57d,",
+      "base.neutral-alpha.200": "S:3bafa08f88a3a4a784f24a34f8e67b6c7e358ce3,",
+      "base.neutral-alpha.300": "S:5eb111c0a40778f74285b19ce3c8038cc35f03d3,",
+      "base.neutral-alpha.400": "S:4b0ce21ebd0f58386aeae57bbca4f8fb8e43fb7a,",
+      "base.neutral-alpha.500": "S:6d4c7b4840333bea20c33d9e1ea8a0dcaf931ab9,",
+      "typography.component.ifta.label": "S:d9fb9a3b63f089c34a2a34e422994c9c8e1f3c5f,",
+      "typography.component.ifta.entry": "S:40d6f8a300e4d6f6146ff1c513c2230febaafd75,",
+      "typography.component.ifta.placeholder": "S:42891cc2bead914d66b06894a76100ddae46fdae,",
+      "typography.component.input.label": "S:78f49410ea9a6aca0f90b08db199bf8e1856bf82,",
+      "typography.component.input.entry": "S:e683bc4fbd337af453d65d0543e2e7018993ddfe,",
+      "typography.component.input.error": "S:1858390c7e46651a6cc7112b852488cb194ef33a,",
+      "typography.component.input.helper": "S:ca2556ab5cec5b8aa744317336df1983fea7c3dc,",
+      "typography.component.badge.small": "S:92afc8587e57a041cf205f6def54a421171d6b3a,",
+      "typography.component.badge.medium": "S:a64a7d8f79fee40cb2d5ea21de5534127c945a95,",
+      "typography.component.button.small": "S:3b145a3346726e0c739118fbc5668b589c22d4b9,",
+      "typography.component.button.medium": "S:d5aa9a1cd614809fb55c2f73092edcca8ccf5c62,",
+      "typography.component.button.large": "S:ececad9e26fdde53d0083a174076a61ee47c361d,",
+      "typography.component.button.x-large": "S:8ea99153454dbc25b5e85f094cec0fcb982a7e18,",
+      "base.Display.XL.Normal.Default": "S:d7b975608ada976faafb665beb344664eb377778,",
+      "base.Display.XL.Normal.Upper": "S:5d12ee7021913a2beac76bac19d007f9a93041a7,",
+      "base.Display.XL.Medium.Default": "S:65e4e2fe9be74a943e91323b690300e5436ba027,",
+      "base.Display.XL.Medium.Upper": "S:484d0200f5516b1c9ecc8dab2ce1cb5088eaea80,",
+      "base.Display.XL.Strong.Default": "S:b3bcd6819230f2d106b801e441cfe1ca01655e65,",
+      "base.Display.XL.Strong.Upper": "S:9b07544aad00249de2895d76d62618822369ba18,",
+      "base.Display.XL.Heavy.Default": "S:6185f8821d4827e0744b03a3968d088ac964559c,",
+      "base.Display.XL.Heavy.Upper": "S:5ebb844e5c92ed9357f81fb727db640fb23c47b1,",
+      "base.Display.LG.Normal.Default": "S:331f91abeabdc5bf1f67b1e15a4882097c9ff4b2,",
+      "base.Display.LG.Normal.Upper": "S:a3e82a796f2dbae4cb5deec3b72b21e4adc9810c,",
+      "base.Display.LG.Medium.Default": "S:098ed20a95b5881a3ccb4a2c7307c44f83a0ecf4,",
+      "base.Display.LG.Medium.Upper": "S:cc982385970039065c4c6b64bdca3d9401d9172f,",
+      "base.Display.LG.Strong.Default": "S:13459ca6c8401bf950d83cba56a45064340f2714,",
+      "base.Display.LG.Strong.Upper": "S:417b19a9e1a913952f2888c51315c72e4ecd2328,",
+      "base.Display.LG.Heavy.Default": "S:2b195ead4ec5db3a6c45b2eff248dfd69a72b41e,",
+      "base.Display.LG.Heavy.Upper": "S:faa49cb92b8a2f0f351d5bc8818322643e0fdcac,",
+      "base.Display.MD.Normal.Default": "S:47d88bc2cda58fb6dcd6ea7f99d9d43ef68cb927,",
+      "base.Display.MD.Normal.Upper": "S:2ed788e4d21cb70eea6470d93d25e7aa49cf8beb,",
+      "base.Display.MD.Medium.Default": "S:66c6c6c7d6e1a25606ed77f749ec82c91fbaadb1,",
+      "base.Display.MD.Medium.Upper": "S:4053a23bb285e643b70e14a0bd19a953a1bd1fcc,",
+      "base.Display.MD.Strong.Default": "S:b6b15452359449406a67d391290fac0ef187221a,",
+      "base.Display.MD.Strong.Upper": "S:84c154038ef46aef4e4c7efdf1137a554aee54d0,",
+      "base.Display.MD.Heavy.Default": "S:56069268aeab75c52a86daede9fc64a52dbff4d4,",
+      "base.Display.MD.Heavy.Upper": "S:c67a69e57b3d8839b04c7c91901bc20d44d08c3b,",
+      "base.Display.SM.Normal.Default": "S:c66830e3875a1d86a4490f3783dde0080a53b81b,",
+      "base.Display.SM.Normal.Upper": "S:7b5802032abad9af2cf12011bf9fe6327270f093,",
+      "base.Display.SM.Medium.Default": "S:1da6e185efcc5163e25cede5c1231e974f4f3be6,",
+      "base.Display.SM.Medium.Upper": "S:018e2825d298a8343f7d17130a4375cca5cb2a32,",
+      "base.Display.SM.Strong.Default": "S:30a5dac5908d0711b1906c8c863eef3d30a90659,",
+      "base.Display.SM.Strong.Upper": "S:64df895ab00a461476f39b79144bde7a25e534da,",
+      "base.Display.SM.Heavy.Default": "S:26a83f94d38153172b7461bd0c26821dea69cdc3,",
+      "base.Display.SM.Heavy.Upper": "S:1675ede5ae686dc720f088de34087077fdab8a3d,",
+      "base.Display.XS.Normal.Default": "S:7086afcb2ef450fdc06e203731dbef0219488f1d,",
+      "base.Display.XS.Normal.Upper": "S:70080769d461ceb78d750354c20487a33243dad8,",
+      "base.Display.XS.Medium.Default": "S:546f0d54048dda78c79025ff066a5b6a5142d2b7,",
+      "base.Display.XS.Medium.Upper": "S:04a822575125f08c2c49b58007d8119b7262525d,",
+      "base.Display.XS.Strong.Default": "S:c3e195b3d2155f06a8fdbe7b67943b3f34aa87ab,",
+      "base.Display.XS.Strong.Upper": "S:fdd717d7d549f72d99fdba69a8c40d26cf334e6d,",
+      "base.Display.XS.Heavy.Default": "S:bc22dba02d6066232a62f78ae871c92b4cf19f07,",
+      "base.Display.XS.Heavy.Upper": "S:4680057b5782fe651da544461ef65fcb366a900a,",
+      "base.Title.XL.Normal.Default": "S:4521c57342566b0d13d4c3d1a3567a68a860cc5f,",
+      "base.Title.XL.Normal.Upper": "S:399da54f2ec6555a4da5ce98129c1c30ed5e55fc,",
+      "base.Title.XL.Medium.Default": "S:1dab3fc3b0bc749a1f93f69513099a8b75703137,",
+      "base.Title.XL.Medium.Upper": "S:375275b907670d50601b1a4de299f322753682b7,",
+      "base.Title.XL.Strong.Default": "S:844feeae03c79c71701bcf0c31aee25423b7f079,",
+      "base.Title.XL.Strong.Upper": "S:37c040e1af6bbecaaafd08ef7a6e324c185dccac,",
+      "base.Title.XL.Heavy.Default": "S:1e53223feab2dab85139704cee87e24a55c382c4,",
+      "base.Title.XL.Heavy.Upper": "S:0b728d40ef77070a2a2fe5f1c09e1c81d466d12f,",
+      "base.Title.LG.Normal.Default": "S:3a0526b441c77cb5fe600f4637beb4e1e0feb7f0,",
+      "base.Title.LG.Normal.Upper": "S:4ff0a85dbb7368713baf034d6a190cf58c6bd64a,",
+      "base.Title.LG.Medium.Default": "S:c66103d2214ea86f76347fa7ea68e73bb1df9e73,",
+      "base.Title.LG.Medium.Upper": "S:68193253256a14cbab1f97ce457464b0728b803d,",
+      "base.Title.LG.Strong.Default": "S:960e3a7c8f869a0cdad384e99699ac332a72b448,",
+      "base.Title.LG.Strong.Upper": "S:bc7a7277a6ae050302e1ae303a36a5929833823f,",
+      "base.Title.LG.Heavy.Default": "S:49d14e393b347d37d9b24790afae15596b1c7b85,",
+      "base.Title.LG.Heavy.Upper": "S:ae25d89a1106792bcde6d8e7c42f4055e8f25f19,",
+      "base.Title.MD.Normal.Default": "S:d9dcfebdc844b2dca86cc555133baa4a7c4b4c4a,",
+      "base.Title.MD.Normal.Upper": "S:3106fb2c240194a9f6d66ee92759097029f2826f,",
+      "base.Title.MD.Medium.Default": "S:1709a9ce2fa5f23c1ef38556a662484686888815,",
+      "base.Title.MD.Medium.Upper": "S:55f390ddf40d3a2ba05f2aab87cb1699401291c0,",
+      "base.Title.MD.Strong.Default": "S:9725f145034bb2d6c77fc388c42cee95a664de66,",
+      "base.Title.MD.Strong.Upper": "S:48068a95f107cd9132ddb5f87fc901637e4f250f,",
+      "base.Title.MD.Heavy.Default": "S:39310303fd2f750f29a85d654886d8cc7424432f,",
+      "base.Title.MD.Heavy.Upper": "S:4cc84a5ecc9f73ba4218b05c6cfa1a3b0a792502,",
+      "base.Title.SM.Normal.Default": "S:e49916433bcd90b10dd07891a705d7dc14633f49,",
+      "base.Title.SM.Normal.Upper": "S:e6a65d290c4a928f4ebc966e7096127e13c7730a,",
+      "base.Title.SM.Medium.Default": "S:b8d10b6c638a3c704c5a613dc62e34445acde38b,",
+      "base.Title.SM.Medium.Upper": "S:b491623702b104a10a1544db9c5f1a4223fc9d7e,",
+      "base.Title.SM.Strong.Default": "S:cf35c089e75a15940feef655a521fad41fad9dad,",
+      "base.Title.SM.Strong.Upper": "S:be984eda2f63903e0f34bfa82cffb8ff46cebe5e,",
+      "base.Title.SM.Heavy.Default": "S:a00e86fe53888605ba3acd28233077c0b4c73639,",
+      "base.Title.SM.Heavy.Upper": "S:9409fdaefae1823fe8fa528d71d42432b4b2d0e8,",
+      "base.Title.XS.Normal.Default": "S:6bd88c106517947b9aa580abe36dee63e1560388,",
+      "base.Title.XS.Normal.Upper": "S:cc3ef0c2f9f13ce45a4c6089b4f1c662e3eed4f6,",
+      "base.Title.XS.Normal.Paragraph": "S:99828005ab0865a3465bfe1ea40342c25de7f855,",
+      "base.Title.XS.Medium.Default": "S:9be5a606cb5aebe392ef2c47654d1e8fbae58be6,",
+      "base.Title.XS.Medium.Upper": "S:81b4034518114ecb085472e40c54b8c0e87fe9f0,",
+      "base.Title.XS.Medium.Paragraph": "S:944cd4c39ffd0c6a1e22059afafc906e6ebe9a67,",
+      "base.Title.XS.Strong.Default": "S:855696eace1ffa664e8c5344830789f5b0446d61,",
+      "base.Title.XS.Strong.Upper": "S:0f8155f6d8cfd4b1aa325db97e632dd90bd997b0,",
+      "base.Title.XS.Strong.Paragraph": "S:e12debe3308605b4a5beebd1b76f54e3ee0b1993,",
+      "base.Title.XS.Heavy.Default": "S:e5ee8f69558b46b4d57aaf63426d4a111f45a628,",
+      "base.Title.XS.Heavy.Upper": "S:fe3e2f07c41e4b8dbdb2b9c02f4702199194d5f7,",
+      "base.Title.XS.Heavy.Paragraph": "S:75827c91a0fc4ece46a7ccacfbc17b7ffc456c7e,",
+      "base.Body.LG.Normal.Default": "S:49d62654a6d5aee775c1315a55216463421a43dc,",
+      "base.Body.LG.Normal.Link": "S:3b027d71d74a5eaa8b928dffbc91f363c130a6c2,",
+      "base.Body.LG.Normal.Upper": "S:76fb7ba28573dbd649eb7fba38d9085778f3529d,",
+      "base.Body.LG.Normal.Strike": "S:3452c2a27a100b59140ecc5f88bc5293d56af36d,",
+      "base.Body.LG.Normal.Paragraph": "S:414a02fbd3c581ade6d462e78cd60aae126f55c7,",
+      "base.Body.LG.Normal.Paragraph-link": "S:cc62fae3e59d5064a4e249b411af39f6b0273c16,",
+      "base.Body.LG.Normal.Paragraph-upper": "S:f124d4a32cf796a05e7831209c45a2714bd757bc,",
+      "base.Body.LG.Medium.Default": "S:625c4815695412e2cf5aab4dfe3ae77ad34a08e3,",
+      "base.Body.LG.Medium.Link": "S:1b8cd164990e898082a757b5e8700b7430de3074,",
+      "base.Body.LG.Medium.Upper": "S:d33fdc1666563bd383364a8cbf7be0814a495446,",
+      "base.Body.LG.Medium.Strike": "S:778c8d29fd7d716b332679d41a98e986e4ff2252,",
+      "base.Body.LG.Medium.Paragraph": "S:6fb7dc0dcc4aa18922f755cc9096a688c7237bbc,",
+      "base.Body.LG.Medium.Paragraph-link": "S:9a9d475994affa7b56746fa865262bb1cefa024b,",
+      "base.Body.LG.Medium.Paragraph-upper": "S:0bb4e41d6d8dfb80ec5b33283d01bb0335eaadbf,",
+      "base.Body.LG.Strong.Default": "S:0e1093b664856dd216525a919db864101d53cf68,",
+      "base.Body.LG.Strong.Link": "S:eed94bbed99551518f55c68d87498cdbc8a3919d,",
+      "base.Body.LG.Strong.Upper": "S:299f5e1363730530bef93aa86016bc5ae5fe9044,",
+      "base.Body.LG.Strong.Strike": "S:6b11e9efac0c31d1596d82179b1979db59a7ab22,",
+      "base.Body.LG.Strong.Paragraph": "S:8d631344d717330d220ad6046ed65722f3184395,",
+      "base.Body.LG.Strong.Paragraph-link": "S:31b475cbd358f10d81b036164d05a7f964efde71,",
+      "base.Body.LG.Strong.Paragraph-upper": "S:ebee186c5812e83eef6ef5298ff821132632b82a,",
+      "base.Body.LG.Heavy.Default": "S:9d4607209a575f065ead6c9ee2a13b52cd34cce1,",
+      "base.Body.LG.Heavy.Link": "S:d6f95c54d406d1b207662e3a98af8759c13a699c,",
+      "base.Body.LG.Heavy.Upper": "S:2d263d167cc8c5197dbad83f7bf0bbc793fc8ebb,",
+      "base.Body.LG.Heavy.Strike": "S:23692962a39bba5b7d866a4dd6e56942642752b5,",
+      "base.Body.LG.Heavy.Paragraph": "S:18be9058bbe4898c996606d99c6bcc14b199f75b,",
+      "base.Body.LG.Heavy.Paragraph-link": "S:0cb77e32096125b7e63475a7d64a4a9c05b199a7,",
+      "base.Body.LG.Heavy.Paragraph-upper": "S:aa5816ae31c26ab9a33fb2fd5a21a7c1595ce0fd,",
+      "base.Body.MD.Normal.Default": "S:14d5a4202ecc909c9a92470bc15227545ccb93c9,",
+      "base.Body.MD.Normal.Link": "S:8eca63996e5294023858ab76e36d420286eaa10f,",
+      "base.Body.MD.Normal.Upper": "S:57574e5fb99d1fcaa80682f959656edcaca4c5ac,",
+      "base.Body.MD.Normal.Strike": "S:0666cd6f3ba363a2fe4602306b042b9674dcf86c,",
+      "base.Body.MD.Normal.Paragraph": "S:df68e63ba818c0e1ac21607f58d004b8e04b216f,",
+      "base.Body.MD.Normal.Paragraph-link": "S:4736ef8b61f87388094eb53c9787bb44398aa3d8,",
+      "base.Body.MD.Normal.Paragraph-upper": "S:ba6383a55588bfaf96b8cb3ff8a1979dfbf2bbd4,",
+      "base.Body.MD.Medium.Default": "S:b11d5b776f480b8ced954da9975d20b255504b6e,",
+      "base.Body.MD.Medium.Link": "S:d18b76a83a97bbdb5fb0aa83d1d8cda46a3a4a1f,",
+      "base.Body.MD.Medium.Upper": "S:1055c643f070fef3eec989791fc5fbbe0943d056,",
+      "base.Body.MD.Medium.Strike": "S:1a9d3f59e591a6b39a9991b98be97ccc1c3dc9fb,",
+      "base.Body.MD.Medium.Paragraph": "S:117e008a376e1362e580cf10c30013ec0deb83f4,",
+      "base.Body.MD.Medium.Paragraph-link": "S:4e12166a57f2e07d2f24db6f698209bf13341440,",
+      "base.Body.MD.Medium.Paragraph-upper": "S:2ec54c52bb73a7545ef935a2c9c4a0549f5feb20,",
+      "base.Body.MD.Strong.Default": "S:43724674fb31c8bd0cde068cd641cf6e51f0dc89,",
+      "base.Body.MD.Strong.Link": "S:47722b5c794664aff2c01c637ae30e1cb0892f95,",
+      "base.Body.MD.Strong.Upper": "S:a7821f3ddb457b2e87fcb0763d8a70c70bf7bf26,",
+      "base.Body.MD.Strong.Strike": "S:65032c8459edcee5a851e3c16d1ff6eba44e880d,",
+      "base.Body.MD.Strong.Paragraph": "S:7ed0e79a715773b589e49e95cd6f3e8a7ca61a0c,",
+      "base.Body.MD.Strong.Paragraph-link": "S:1cb008660c50577211f7067e7887f89c8323582c,",
+      "base.Body.MD.Strong.Paragraph-upper": "S:d11e4d2118246ffb981f094e29f4b5bfb159e716,",
+      "base.Body.MD.Heavy.Default": "S:53d29fdabb334bbc57599b53686e3100d62366c1,",
+      "base.Body.MD.Heavy.Link": "S:c411f62b03863454e323974d24deb0aadd1c6f21,",
+      "base.Body.MD.Heavy.Upper": "S:5173bb40c60331f8bd013ab21a9ee8ef68296eab,",
+      "base.Body.MD.Heavy.Strike": "S:0bd2cefeeaf8dfdfd596523d24113d9616f61890,",
+      "base.Body.MD.Heavy.Paragraph": "S:0f97b618931c841a5a844ab94e3256f844a9c739,",
+      "base.Body.MD.Heavy.Paragraph-link": "S:105b8f258b06aa52cd6ff91afac4886644ad508e,",
+      "base.Body.MD.Heavy.Paragraph-upper": "S:e1a2610cf0d1f13821c1a519fa21432e47bdf6ec,",
+      "base.Body.SM.Normal.Default": "S:803836096cd6e9e5de00fe8b8a69f73713b4792c,",
+      "base.Body.SM.Normal.Link": "S:72747f8c487c276a6c95c4cbc2322fca7740000d,",
+      "base.Body.SM.Normal.Upper": "S:3410c9838a1206b0fa5cefa9433ef2f248bfd528,",
+      "base.Body.SM.Normal.Strike": "S:35efa37fe27202e232863a3255cd72c1a5e733dc,",
+      "base.Body.SM.Normal.Paragraph": "S:578ceb8974517a30f4319efa406fe9c0e3c1f2cc,",
+      "base.Body.SM.Normal.Paragraph-link": "S:5bd0d007e97dac37cc6a40482a1b94077b0cd690,",
+      "base.Body.SM.Normal.Paragraph-upper": "S:5fc3c16ccb2103a39a1a47c4cb14ce5058e84659,",
+      "base.Body.SM.Medium.Default": "S:0b6287ec6634313b01c3dcaeb7b9d1fd269d55af,",
+      "base.Body.SM.Medium.Link": "S:ff248d3520b1f6cead1d20f3f816b2be502191b2,",
+      "base.Body.SM.Medium.Upper": "S:54efe3e0c9a64e59d8ce601b408293dffdb9efe3,",
+      "base.Body.SM.Medium.Strike": "S:ed0c855c7efa37b375778d8c5cfa822e5a2cf4b0,",
+      "base.Body.SM.Medium.Paragraph": "S:9677ccef1ec87a1345f90cb5439c772fa0f5a943,",
+      "base.Body.SM.Medium.Paragraph-link": "S:be5b788b5e5bfba9b7cf576c95fecb8706ffbeb9,",
+      "base.Body.SM.Medium.Paragraph-upper": "S:5c496774e7ac33cdf9ead3a5be1facaefa712e22,",
+      "base.Body.SM.Strong.Default": "S:bbbfca855e973b022269de3c9b73202d89aa7628,",
+      "base.Body.SM.Strong.Link": "S:175dacd4c2c9feae92ec581f782fa00dcdd09cb8,",
+      "base.Body.SM.Strong.Upper": "S:f568eb70cd8a98f91fd4fa52228de0f863cb7e63,",
+      "base.Body.SM.Strong.Strike": "S:0f1f169024406b4be4b0b325a3466e24811015eb,",
+      "base.Body.SM.Strong.Paragraph": "S:726025aaa0249f8ac5fac9b6a5c90498d23921c4,",
+      "base.Body.SM.Strong.Paragraph-link": "S:4ab875b8d37d68d3cecbcaf3a214e74cbdde591a,",
+      "base.Body.SM.Strong.Paragraph-upper": "S:343f00ebcf805fbe9beb665c7e00b01dd96127ca,",
+      "base.Body.SM.Heavy.Default": "S:3b60347c22d3235e3c5ebe10bb58bae6c3cbe76d,",
+      "base.Body.SM.Heavy.Link": "S:3dfd2677fd8115b91b4c41be37d0aa263b1ae216,",
+      "base.Body.SM.Heavy.Upper": "S:1de3261ac1a2944c15a2b34efc22466426b19df9,",
+      "base.Body.SM.Heavy.Strike": "S:97fbafeb03351f4a62028d7f8c26a825fa671189,",
+      "base.Body.SM.Heavy.Paragraph": "S:d583b2c70461ba6a29be0a68fc7051ee2c7815e4,",
+      "base.Body.SM.Heavy.Paragraph-link": "S:02effd5472fc6a190d51e5195c089399079a99d1,",
+      "base.Body.SM.Heavy.Paragraph-upper": "S:d9af06abf1629c352d9512eff23fcebcf2ece265,",
+      "base.Body.XS.Normal.Default": "S:a3c206a78c63a9cb9396e4e5fd51c44825cb3531,",
+      "base.Body.XS.Normal.Link": "S:b81d8b7e23b81fd39406569e2cdde0d5c14c4c10,",
+      "base.Body.XS.Normal.Upper": "S:2893db510c4229e338377e47266161cc7c21f05c,",
+      "base.Body.XS.Normal.Strike": "S:17dd0e44f9b7dc6257091f85bb245daa726b9b5f,",
+      "base.Body.XS.Normal.Paragraph": "S:2969ee1805bfd31cd7cf82ebef5bb4dd6d026026,",
+      "base.Body.XS.Normal.Paragraph-link": "S:730b5332a90cdd660f64d2d19e85d88af92c745b,",
+      "base.Body.XS.Normal.Paragraph-upper": "S:ae501a3dc244489398e6892c2004390659f947a2,",
+      "base.Body.XS.Medium.Default": "S:606ab0eee4a631908537ba74c20ec5758ff3fda5,",
+      "base.Body.XS.Medium.Link": "S:862db2d7ed3cfbd553a80f4eb091d0775ce4be4a,",
+      "base.Body.XS.Medium.Upper": "S:bb32883c1e8443b3f826d7afcd0c15df3ad07faa,",
+      "base.Body.XS.Medium.Strike": "S:f4d2f8d1d7413de05f0f431b94049d198d7b753e,",
+      "base.Body.XS.Medium.Paragraph": "S:5e9cecb50447c8e0d65ef46301da533980081774,",
+      "base.Body.XS.Medium.Paragraph-link": "S:7bbc70e0e2eb8b66fba806b7d6198a3dba8ad05f,",
+      "base.Body.XS.Medium.Paragraph-upper": "S:37d5b161bf9906411ae8284f5f95a3ad3a9c24b8,",
+      "base.Body.XS.Strong.Default": "S:ca3b0288bac188aa9c30e20c86d223ac8d0bda9c,",
+      "base.Body.XS.Strong.Link": "S:8348998713e61c4ad612e77c5b4e5c3cbc507fc0,",
+      "base.Body.XS.Strong.Upper": "S:c8a245a44426ad04eb662e21e4455d8b34a65019,",
+      "base.Body.XS.Strong.Strike": "S:ed9baacd2dd9a5bf5291531b4cb654f8db418990,",
+      "base.Body.XS.Strong.Paragraph": "S:4cafd618603d7ab0b81f3978c3dfc8789f6c0959,",
+      "base.Body.XS.Strong.Paragraph-link": "S:5a5fc63e3771970f1dde49b4e09e5d64d262b5cd,",
+      "base.Body.XS.Strong.Paragraph-upper": "S:d2a9f1bba2ec45707b9704e21e282fb8b1df8cf6,",
+      "base.Body.XS.Heavy.Default": "S:9f7e17bb0f1414ddcad8448612f4d2c9e6f5df09,",
+      "base.Body.XS.Heavy.Link": "S:33ed6058cf66fd5c2144cb36c77c192a5c44f19a,",
+      "base.Body.XS.Heavy.Upper": "S:5da72fb50cccfd085a7c29af82afb36823341a84,",
+      "base.Body.XS.Heavy.Strike": "S:e60b9f4774ad27feffc12ba9c130ebd070f91900,",
+      "base.Body.XS.Heavy.Paragraph": "S:2997dfbe59e9cc42dea924d9e5bc99144b120b4d,",
+      "base.Body.XS.Heavy.Paragraph-link": "S:957e8154c61095b1cb1959d1d71f15912cd331ef,",
+      "base.Body.XS.Heavy.Paragraph-upper": "S:2e6d1da99464da2b9dba7144cff5bcaf3df4c3af,",
+      "base.Body.XXS.Normal.Default": "S:d54a18ec5715b4b25ecbc47777fd200919ffcc20,",
+      "base.Body.XXS.Normal.Link": "S:5efc5eb5e23f719f66308ceb8c80439274f5a6f3,",
+      "base.Body.XXS.Normal.Upper": "S:651358f5e934c83df146d21b565a086b156fb7c1,",
+      "base.Body.XXS.Normal.Strike": "S:3981572f8d4f77b9996a8f80b23bbe95f3712900,",
+      "base.Body.XXS.Normal.Paragraph": "S:ef5d719642c36433948500861f33fcda5396b5a6,",
+      "base.Body.XXS.Normal.Paragraph-link": "S:5f9c8c2c9a8310ddd44aa445ab7de92bc3579845,",
+      "base.Body.XXS.Normal.Paragraph-upper": "S:5f059d78c235cbe799723f0e1d21230e7d0a10e8,",
+      "base.Body.XXS.Medium.Default": "S:24ea64ca5dd2e464107e17cda19f5a05e460243d,",
+      "base.Body.XXS.Medium.Link": "S:cc145d746768cb8d66fb47f5813fc11d2d01607b,",
+      "base.Body.XXS.Medium.Upper": "S:a737171ff509b5059ae8f664b500716bc8f1d133,",
+      "base.Body.XXS.Medium.Strike": "S:81cb7388a030aea23066a4691c2d5f5f428dfa13,",
+      "base.Body.XXS.Medium.Paragraph": "S:21c5f393abe07d59fbae330800fde8c12bcf5d6c,",
+      "base.Body.XXS.Medium.Paragraph-link": "S:e81255c420b0d8ded05e11b6c0e2750e0b724072,",
+      "base.Body.XXS.Medium.Paragraph-upper": "S:c0fee2329192d64cbfe99492a24201c77779d3ea,",
+      "base.Body.XXS.Strong.Default": "S:0b774ed4246e69aacbcb3acfaf087cfe965c5786,",
+      "base.Body.XXS.Strong.Link": "S:70fbfe9c7308cb311803533c5e50315d7147ca8f,",
+      "base.Body.XXS.Strong.Upper": "S:c83df9f389f5b63c0ab0c5521cd6682d1c5f001a,",
+      "base.Body.XXS.Strong.Strike": "S:c2e6233fb0b00270768bb858e6ce7d735b8b932f,",
+      "base.Body.XXS.Strong.Paragraph": "S:004d824cbe20903d90aa739148701001ebf3626f,",
+      "base.Body.XXS.Strong.Paragraph-link": "S:c309a206ee125fd33a775b0df5ce1ef9c1016270,",
+      "base.Body.XXS.Strong.Paragraph-upper": "S:34dc2367f18f3a5997133864de0eab1fc98b04af,",
+      "theme.shadow.light.card": "S:f06ad7d74ae04665df08dca2f7aedd63ecb5849d,",
+      "theme.shadow.light.overlay-top": "S:7eb292414d199f350018070af3f2763a35131cfa,",
+      "theme.shadow.light.overlay-bottom": "S:c33cb5306985d22b99a670c7f29dbdee5a7449e1,",
+      "theme.shadow.light.modal": "S:404df1ac65716ed49d418b7f81a6e0008230f155,",
+      "theme.shadow.light.bottom-sheet": "S:6b306afff6bf8ffbf890a3b5282b6f275fa091eb,",
+      "theme.shadow.strong.card": "S:2cbc104dbd113d4d9cda5e19dacc0e5e3b5cd223,",
+      "theme.shadow.strong.overlay-top": "S:e7ec7e88868f8adfea7b23cf3198b999e23ead93,",
+      "theme.shadow.strong.overlay-bottom": "S:dfa386291b904e603ff4fa701af4aa07b28b80f2,",
+      "theme.shadow.strong.modal": "S:acd285bfd63339be3ed4988184bef5cb2bf63140,",
+      "theme.shadow.strong.bottom-sheet": "S:91c34c3133ff8ec14c79ffb95a1cdfa213655062,",
+      "theme.shadow.component.action.primary": "S:47424d6e8550f117dc3db59474b8d6215f495ff6,",
+      "theme.shadow.component.action.accent": "S:7fd8eeba9b1589f1ce754ec2ec57994e68b28975,",
+      "theme.shadow.component.action.success": "S:69464e1a28ba59c5edd282abcaa1e9fe5593649a,",
+      "theme.shadow.component.action.danger": "S:d2a276d4baff29684f0e5532f4db44b0d511bfc0,",
+      "theme.shadow.component.default.brand": "S:c22fa6e75f5e44de3d8df459c26fd92f33502831,",
+      "theme.shadow.component.default.accent": "S:c62a6e990c5f67ee374797bffabe655230874fdb,",
+      "theme.shadow.component.default.success": "S:3c2df902272db5993a9cef2bd15763b096e3c66c,",
+      "theme.shadow.component.default.danger": "S:99efa6de31b0ca96aafe11f099de374bdebfcba8,",
+      "theme.focus.default": "S:94a8672f89dd960958b952e6cff7ff27707ca6d7,",
+      "theme.focus.offset": "S:a6ac3941c0e3bfc529f8d7608dbf8ce5824f80b5,"
+    },
+    "selectedTokenSets": {
+      "core": "source",
+      "base/neutral-colors": "enabled",
+      "base/brand-colors": "enabled",
+      "base/system-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "theme": "enabled",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/skymonde": "enabled"
     }
   }
 ]
