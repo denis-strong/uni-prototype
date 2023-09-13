@@ -127,7 +127,7 @@
     "button": {
       "medium": {
         "vert-padding": {
-          "value": "12",
+          "value": "{semantic.spacing.medium}",
           "type": "spacing"
         }
       }
