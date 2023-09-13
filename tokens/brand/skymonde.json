@@ -122,5 +122,15 @@
         "type": "color"
       }
     }
+  },
+  "comp": {
+    "button": {
+      "medium": {
+        "vert-padding": {
+          "value": "12",
+          "type": "spacing"
+        }
+      }
+    }
   }
 }
