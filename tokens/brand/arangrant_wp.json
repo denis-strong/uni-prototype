@@ -392,19 +392,19 @@
       },
       "accent": {
         "normal": {
-          "value": "{base.accent.tint}",
+          "value": "{base.accent.default}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.accent.default}",
-          "type": "color"
-        },
-        "active": {
           "value": "{base.accent.tone}",
           "type": "color"
         },
+        "active": {
+          "value": "{base.accent.dark}",
+          "type": "color"
+        },
         "selected": {
-          "value": "{base.accent.default}",
+          "value": "{base.accent.tone}",
           "type": "color"
         },
         "subtle": {
