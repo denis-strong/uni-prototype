@@ -830,203 +830,102 @@
       }
     },
     "shadow": {
-      "light": {
-        "card": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "1",
-              "blur": "3",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "overlay-top": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "4",
-              "blur": "8",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "overlay-bottom": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "-4",
-              "blur": "8",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "modal": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "8",
-              "blur": "16",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "bottom-sheet": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "-16",
-              "blur": "24",
-              "spread": "-8"
-            }
-          ],
-          "type": "boxShadow"
-        }
+      "card": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       },
-      "strong": {
-        "card": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.100})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "1",
-              "blur": "3",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "overlay-top": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.100})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "4",
-              "blur": "8",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "overlay-bottom": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.100})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "-4",
-              "blur": "8",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "modal": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.100})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "0",
-              "blur": "2",
-              "spread": "0"
-            },
-            {
-              "x": "0",
-              "y": "8",
-              "blur": "16",
-              "spread": "0",
-              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "bottom-sheet": {
-          "value": [
-            {
-              "color": "rgba({base.neutral.1100}, {core.opacity.300})",
-              "type": "dropShadow",
-              "x": "0",
-              "y": "-16",
-              "blur": "24",
-              "spread": "-8"
-            }
-          ],
-          "type": "boxShadow"
-        }
+      "overlay-top": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "overlay-bottom": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "-4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "modal": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "bottom-sheet": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "-16",
+            "blur": "24",
+            "spread": "-8"
+          }
+        ],
+        "type": "boxShadow"
       },
       "component": {
         "action": {
