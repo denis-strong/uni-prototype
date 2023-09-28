@@ -296,13 +296,11 @@
         },
         "hover": {
           "value": "{base.accent.700}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "active": {
           "value": "{base.accent.800}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         }
       }
     },

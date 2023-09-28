@@ -16,8 +16,7 @@
       },
       "subheader": {
         "value": "{base.flygtravel.bluewood}",
-        "type": "color",
-        "$extensions": {}
+        "type": "color"
       },
       "footer": {
         "value": "{theme.presets.header}",
