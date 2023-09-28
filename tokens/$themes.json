@@ -238,7 +238,9 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -732,7 +734,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -752,16 +756,6 @@
       "comp.ifta.label": "S:75ec8575aaa297234bb736197921a50bab24dbff,",
       "comp.ifta.entry": "S:f1a90905cdf1ccac050ba132bdcf84496d9dac48,",
       "comp.ifta.placeholder": "S:19ec8a901d265809eb5da998ce92bb4534f181a1,",
-      "theme.shadow.light.card": "S:38a9cebde968097c59a37e70d08ab142c5d9d9cd,",
-      "theme.shadow.light.overlay-top": "S:9d0b2d38b1b84574450675e3f56d0cdf32e046a5,",
-      "theme.shadow.light.overlay-bottom": "S:e025442b6682410c68ebec780f3c4a65eeef931b,",
-      "theme.shadow.light.modal": "S:22366c7c3676927aa9ccca7949d421eb24e30994,",
-      "theme.shadow.light.bottom-sheet": "S:1d61d3b43f3462af02ab21315d8a236c5a3db3d1,",
-      "theme.shadow.strong.card": "S:3809b78ee3bb81f1d600c9546678afe6330fd502,",
-      "theme.shadow.strong.overlay-top": "S:6b5181417533a8ea49a9dd67304c657629e9af0c,",
-      "theme.shadow.strong.overlay-bottom": "S:d7901cd06ab8cff38df9a13260884af399a2ea84,",
-      "theme.shadow.strong.modal": "S:bd99cff3a9e013b1f2a269db0b05326f77e1d9fc,",
-      "theme.shadow.strong.bottom-sheet": "S:c0bf0c9908eeb0a771f2c6c082a093dc033b8b4d,",
       "theme.focus.primary": "S:4a82efea1feab9954ebb3658053b8cf316d2a41d,",
       "theme.focus.success": "S:51249578a086f0c2ce6168fc2c1cff2256bc43a8,",
       "theme.focus.warning": "S:d4636ac2360cb1f2708843e83a20632cb55438c2,",
@@ -795,6 +789,7 @@
       "theme.shadow.component.large.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,",
       "theme.shadow.component.large.success": "S:801a0138329a567ba4a0827d03659d8df84a063c,",
       "theme.shadow.component.large.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,",
+      "theme.focus1.default": "S:a80da51b33a39425d56cbdf03d87727457e21dfe,",
       "base.brand.50": "S:9e19afb16b0cedcceb8db98254614b4fce8cdc6e,",
       "base.brand.100": "S:f582c5d91fe5fe746aba8a9d88d7540900f8971f,",
       "base.brand.200": "S:0c45bde8e950461df48dd916e6691ccfedf50983,",
@@ -864,6 +859,7 @@
       "theme.action.primary.subtle.hover": "S:997ea381d7b9bc920cf2409979317be8bd42c05f,",
       "theme.action.primary.subtle.active": "S:c21623676ff0b0038f13b858c0c6bc00a9c05fbf,",
       "theme.action.primary.subtle.selected": "S:4ff4580358258789ac63908cda1786805066f180,",
+      "theme.bg.primary": "S:36fb3011eee8f2e6dbcedf15750e349736aef81c,",
       "theme.bg.secondary": "S:b101815b85d7d963b8fff45c24138a5a19452bde,",
       "theme.bg.tertiary": "S:02609c49d68466a377a9210150fc35d876e117fb,",
       "theme.bg.disabled": "S:2f882f113facd972b179f9da90ab6f2bd8190128,",
@@ -885,7 +881,7 @@
       "theme.bg.info": "S:655e0607683aa3a6e10333668be4feae0edf50b2,",
       "theme.bg.info-highlight": "S:a530a9f7a5eaffb8a7ce3f4c57ae2f991e8ecf23,",
       "theme.bg.info-subtle": "S:d4c36339a76b671f277a6c727a4403d1a6cde13d,",
-      "theme.bg.brand": "S:36fb3011eee8f2e6dbcedf15750e349736aef81c,",
+      "theme.bg.brand": "S:af9612811b35286eaf9958550007382dbc2fc5d2,",
       "theme.bg.brand-subtle": "S:06794eaedd16a05f79d03b002e1f0bf37e357690,",
       "theme.bg.accent": "S:8dc73118fd331f7c5a5f0214c75011d329e490d1,",
       "theme.bg.accent-subtle": "S:83d456daf364f3fd2630421453f621cd003d1252,",
@@ -1008,11 +1004,6 @@
       "theme.interaction.content.default": "S:eeb7d9a52371cc1c82fccbeac1d16a9ccb217416,",
       "theme.interaction.content.placeholder": "S:143791d2f50f9af3deace1a4c4a8fe57580df72e,",
       "theme.interaction.content.entry": "S:6cc4a9f12b075655e66789216aa60009fa1ffcc6,",
-      "base.neutral-alpha.100": "S:dc6c99fc586920ee783cbe5ac47bd889bc3f3d88,",
-      "base.neutral-alpha.200": "S:cffff23b3ab1f27ec2a5996790de78884ea2f828,",
-      "base.neutral-alpha.300": "S:7dd225cf059a0e7846cfe382e237eb6d54c2658b,",
-      "base.neutral-alpha.400": "S:b1ad7caa0f107ea36eae52334e507f51c65e8bd5,",
-      "base.neutral-alpha.500": "S:6471ebf5197a11a46b15ede062d5a16f885ec43f,",
       "base.generic.white": "S:d506354d85a7d3ea940c6b10b1b415c4ccd1fb8a,",
       "base.generic.black": "S:4d3263ee16d97d12c0a15dc8c6f977050e0e6ab9,",
       "base.generic.transparent": "S:e664e27794d429309fde07a2f7559f02c35ee403,",
@@ -1068,6 +1059,7 @@
       "base.warning.300": "S:04cf40e01bd8c4d1a0dccedae2e3b61fcd452a0f,",
       "base.warning.400": "S:c0e46342f95a20ddcdb788b85b9604ef22ee3c62,",
       "base.warning.500": "S:071e97c9b2fefcaeb4dfbcd8078faaec82b2fae5,",
+      "base.warning.600": "S:608e5e048be31f582fd1f8d54feec74f087b2041,",
       "base.warning.700": "S:e4c0fd1fa55fd15f65facbd9866c96bf89f20cea,",
       "base.warning.800": "S:ce7d1b8450deba7dc74eef6cb1f5bb0933b09bde,",
       "base.warning.900": "S:f41a58c758a0c26a728361182588e0be4bb75cfb,",
@@ -1085,7 +1077,31 @@
       "base.danger.900": "S:daa22cae90a2e5211454a4e285af40b86f279d30,",
       "base.danger.1000": "S:a942cbf08a6f82e4acc30481229f61a1b9385cfc,",
       "base.danger.1100": "S:df31483c434d8b16e5d0caab8ccacdf7dcebda78,",
-      "theme.focus1.default": "S:a80da51b33a39425d56cbdf03d87727457e21dfe,"
+      "base.neutral-alpha.100": "S:dc6c99fc586920ee783cbe5ac47bd889bc3f3d88,",
+      "base.neutral-alpha.200": "S:cffff23b3ab1f27ec2a5996790de78884ea2f828,",
+      "base.neutral-alpha.300": "S:7dd225cf059a0e7846cfe382e237eb6d54c2658b,",
+      "base.neutral-alpha.400": "S:b1ad7caa0f107ea36eae52334e507f51c65e8bd5,",
+      "base.neutral-alpha.500": "S:6471ebf5197a11a46b15ede062d5a16f885ec43f,",
+      "theme.shadow.light.card": "S:38a9cebde968097c59a37e70d08ab142c5d9d9cd,",
+      "theme.shadow.light.overlay-top": "S:9d0b2d38b1b84574450675e3f56d0cdf32e046a5,",
+      "theme.shadow.light.overlay-bottom": "S:e025442b6682410c68ebec780f3c4a65eeef931b,",
+      "theme.shadow.light.modal": "S:22366c7c3676927aa9ccca7949d421eb24e30994,",
+      "theme.shadow.light.bottom-sheet": "S:1d61d3b43f3462af02ab21315d8a236c5a3db3d1,",
+      "theme.shadow.strong.card": "S:3809b78ee3bb81f1d600c9546678afe6330fd502,",
+      "theme.shadow.strong.overlay-top": "S:6b5181417533a8ea49a9dd67304c657629e9af0c,",
+      "theme.shadow.strong.overlay-bottom": "S:d7901cd06ab8cff38df9a13260884af399a2ea84,",
+      "theme.shadow.strong.modal": "S:bd99cff3a9e013b1f2a269db0b05326f77e1d9fc,",
+      "theme.shadow.strong.bottom-sheet": "S:c0bf0c9908eeb0a771f2c6c082a093dc033b8b4d,",
+      "theme.shadow.component.action.primary": "S:b2e30423ec4ff0effd2de1b796e404fd9b3297a2,",
+      "theme.shadow.component.action.accent": "S:aafc224bf2bc74bdad17b0c9d56915d0212ac501,",
+      "theme.shadow.component.action.success": "S:801a0138329a567ba4a0827d03659d8df84a063c,",
+      "theme.shadow.component.action.danger": "S:b0f4aa091ba11eb5ef5ea2c6a9b56cd420eff84a,",
+      "theme.shadow.component.default.brand": "S:9aa4a3a8cb8f8c6701070f61e4137838ad646048,",
+      "theme.shadow.component.default.accent": "S:c5e102a15b2ca08b1dcb35354aacb5202dba8387,",
+      "theme.shadow.component.default.success": "S:2b702ed377120c57b37b4432e314ea169b18c575,",
+      "theme.shadow.component.default.danger": "S:bb5393317b2e3a5c490205967b7a0b0edfe3e7f7,",
+      "theme.focus.default": "S:a80da51b33a39425d56cbdf03d87727457e21dfe,",
+      "theme.focus.offset": "S:e07f5856b8192e6cdb30f8518ea0f47e2d000f4d,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -1712,7 +1728,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -1975,7 +1993,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -2230,7 +2250,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -2826,7 +2848,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -3425,7 +3449,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -3687,7 +3713,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -4287,7 +4315,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -4555,7 +4585,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -5157,7 +5189,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -5768,7 +5802,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -6031,7 +6067,9 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -6641,7 +6679,9 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -7274,7 +7314,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -7873,7 +7915,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -8296,7 +8340,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -8877,7 +8923,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -9341,7 +9389,9 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -9632,7 +9682,9 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source"
+      "brand/wowfare": "source",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -9657,7 +9709,9 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "source",
-      "brand/ovago_wp": "enabled"
+      "brand/ovago_wp": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -9666,10 +9720,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "core": "source",
-      "base/neutral-colors": "enabled",
-      "base/brand-colors": "enabled",
-      "base/system-colors": "enabled",
-      "base/generic-colors": "enabled",
+      "base/neutral-colors": "source",
+      "base/brand-colors": "source",
+      "base/system-colors": "source",
+      "base/generic-colors": "source",
       "base/typography": "source",
       "theme": "enabled",
       "component/button": "enabled",
@@ -9682,7 +9736,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/aran-grant": "source",
-      "brand/arangrant_wp": "enabled"
+      "brand/arangrant_wp/theme": "enabled",
+      "brand/arangrant_wp/base": "source"
     }
   },
   {
@@ -10243,7 +10298,9 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/acapulco": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -10801,7 +10858,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/air-and-tour": "enabled"
+      "brand/air-and-tour": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -11361,7 +11420,9 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/airclass": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -11895,7 +11956,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flygtravel": "enabled"
+      "brand/flygtravel": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -12456,7 +12519,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/studentmiles": "enabled"
+      "brand/studentmiles": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -13015,7 +13080,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/wowgateway": "enabled"
+      "brand/wowgateway": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -13575,7 +13642,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/luxscanner": "enabled"
+      "brand/luxscanner": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -14127,7 +14196,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/plumbenefits": "enabled"
+      "brand/plumbenefits": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -14689,7 +14760,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/ebg": "enabled"
+      "brand/ebg": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -15254,7 +15327,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flightaware": "enabled"
+      "brand/flightaware": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -15816,7 +15891,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/jcv": "enabled"
+      "brand/jcv": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   },
   {
@@ -16374,7 +16451,9 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/skymonde": "enabled"
+      "brand/skymonde": "enabled",
+      "brand/arangrant_wp/theme": "disabled",
+      "brand/arangrant_wp/base": "disabled"
     }
   }
 ]

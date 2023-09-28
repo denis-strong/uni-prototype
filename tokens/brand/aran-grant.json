@@ -26,7 +26,7 @@
         "type": "color"
       },
       "600": {
-        "value": "{base.arangrant.apricot}",
+        "value": "{base.warning.600}",
         "type": "color"
       },
       "700": {
@@ -199,7 +199,7 @@
         "type": "color"
       },
       "white-to-apricot": {
-        "value": "linear-gradient(90deg, rgba({base.info.600}, 0) 0%, {base.info.600} 100%)",
+        "value": "linear-gradient(90deg, rgba({core.color.orange.600}, 0) 0%, {core.color.orange.600} 100%)",
         "type": "color"
       },
       "gradient-apricot": {

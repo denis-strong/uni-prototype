@@ -555,6 +555,10 @@
       "accent": {
         "value": "{base.accent.default}",
         "type": "color"
+      },
+      "accent-inverse": {
+        "value": "{base.warning.400}",
+        "type": "color"
       }
     },
     "bg": {
