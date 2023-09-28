@@ -1036,7 +1036,7 @@
               "y": "12",
               "blur": "8",
               "spread": "-8",
-              "color": "rgba({theme.action.accent.normal}, {core.opacity.300})",
+              "color": "rgba({theme.action.primary.normal}, {core.opacity.300})",
               "type": "dropShadow"
             },
             "type": "boxShadow"
