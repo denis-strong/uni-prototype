@@ -238,9 +238,7 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -734,9 +732,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -827,14 +823,11 @@
       "base.neutral.1000": "S:650a6e2ebf492e8457ad7c62afd98507586db083,",
       "base.neutral.1100": "S:a9b5f4e9dd35558d6844e8b455d05d63f6a116a8,",
       "base.arangrant.apricot": "S:9303f2115a2fa6605985656c3d6832e0b5f75e7a,",
-      "base.arangrant.gradient-neutral": "S:a1de28cf73baa59fc3177f4b22b9d7ddc3fd651f,",
       "base.arangrant.sand": "S:2ad53dee113f276ab130f910b589a1e789d19db3,",
       "base.arangrant.transparent-80": "S:88b6d23c05fde03f0a26f4fcd4044aade5209826,",
-      "base.arangrant.retro": "S:37e00b8cd37f306bc8cb2037774a96837fba4875,",
       "base.arangrant.bottom-to-top-40": "S:74516daec0b637426773191c2e3129120e0b6f32,",
       "base.arangrant.bottom-to-top-80": "S:0b82dbd6eae4aa37817788009a34b97333927397,",
       "base.arangrant.white-to-apricot": "S:098be3fca57e74d53caea2967ab23114d441d829,",
-      "base.arangrant.gradient-apricot": "S:c17a2406ddbde8de5467ad5ea11c1508098c24b9,",
       "theme.presets.header": "S:e62173e02f43417b60f92dfbe506a6a1de3d5a6f,",
       "theme.presets.subheader": "S:0fe92d9d21fa2e81ee1873304ed1c831833af914,",
       "theme.presets.footer": "S:4e94432d3dc8257ecb49f38d039232442f608d79,",
@@ -1101,7 +1094,10 @@
       "theme.shadow.component.default.success": "S:2b702ed377120c57b37b4432e314ea169b18c575,",
       "theme.shadow.component.default.danger": "S:bb5393317b2e3a5c490205967b7a0b0edfe3e7f7,",
       "theme.focus.default": "S:a80da51b33a39425d56cbdf03d87727457e21dfe,",
-      "theme.focus.offset": "S:e07f5856b8192e6cdb30f8518ea0f47e2d000f4d,"
+      "theme.focus.offset": "S:e07f5856b8192e6cdb30f8518ea0f47e2d000f4d,",
+      "theme.arangrant.gradient-apricot": "S:c17a2406ddbde8de5467ad5ea11c1508098c24b9,",
+      "theme.arangrant.retro": "S:37e00b8cd37f306bc8cb2037774a96837fba4875,",
+      "theme.arangrant.gradient-neutral": "S:a1de28cf73baa59fc3177f4b22b9d7ddc3fd651f,"
     },
     "selectedTokenSets": {
       "component/button": "enabled",
@@ -1120,8 +1116,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "source",
       "base/system-colors": "enabled",
-      "brand/aran-grant/light": "enabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/aran-grant/light": "enabled"
     }
   },
   {
@@ -1729,9 +1724,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -1994,9 +1987,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2251,9 +2242,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -2849,9 +2838,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3450,9 +3437,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -3714,9 +3699,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -4316,9 +4299,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -4586,9 +4567,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -5190,9 +5169,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -5802,9 +5779,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -6067,9 +6042,7 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "core": "enabled"
     }
   },
   {
@@ -6679,9 +6652,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "enabled",
-      "base/brand-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/brand-colors": "enabled"
     }
   },
   {
@@ -7315,8 +7286,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/presets": "enabled"
     }
   },
   {
@@ -7915,9 +7885,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -8340,9 +8308,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -8923,9 +8889,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "source"
     }
   },
   {
@@ -9389,9 +9353,7 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/system-colors": "enabled"
     }
   },
   {
@@ -9682,9 +9644,7 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/wowfare": "source"
     }
   },
   {
@@ -9709,9 +9669,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "source",
-      "brand/ovago_wp": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/ovago_wp": "enabled"
     }
   },
   {
@@ -10132,7 +10090,99 @@
       "base.Body.XXS.Strong.Strike": "S:128e07fc9031938fc53780557bf295993bc00a84,",
       "base.Body.XXS.Strong.Paragraph": "S:063cb66d74388675dcb86522f38cecd0bf17a110,",
       "base.Body.XXS.Strong.Paragraph-link": "S:438b5dd37856b17610954481495a93fd8971cc99,",
-      "base.Body.XXS.Strong.Paragraph-upper": "S:90e561375205a9a881502f1144d6c1abb9a01929,"
+      "base.Body.XXS.Strong.Paragraph-upper": "S:90e561375205a9a881502f1144d6c1abb9a01929,",
+      "base.Display-Oswald.XL.Normal.Default": "S:db1e7d6aa0d1b4ba44021618788bae91f8951471,",
+      "base.Display-Oswald.XL.Normal.Upper": "S:277a1ae363a0aadea0b6fbd91726c5d64facfbab,",
+      "base.Display-Oswald.XL.Medium.Default": "S:45e1663d0a10167284b5845c04444d32b650ad20,",
+      "base.Display-Oswald.XL.Medium.Upper": "S:e3c5d44bef30aef792768858cc1d5a675431c1c2,",
+      "base.Display-Oswald.XL.Strong.Default": "S:6b79338b3820a32708971f21b8b15a6afb64cdd0,",
+      "base.Display-Oswald.XL.Strong.Upper": "S:c1fa9c1870df456d5bc3ee9f5f244c26b35f6c1b,",
+      "base.Display-Oswald.XL.Heavy.Default": "S:708dffc4b43b21b88d20c802043657e8a61109b4,",
+      "base.Display-Oswald.XL.Heavy.Upper": "S:4768b66e2dea9291397a66e4c066d6186af6a317,",
+      "base.Display-Oswald.LG.Normal.Default": "S:47ea6d331b299fe63c0500985733101044ba08f3,",
+      "base.Display-Oswald.LG.Normal.Upper": "S:3d87190f46463d1dd77b546f3dc5b856672aaf99,",
+      "base.Display-Oswald.LG.Medium.Default": "S:78d11d2224c219bf34127cd5bce95cb97e27f031,",
+      "base.Display-Oswald.LG.Medium.Upper": "S:64cc34f0cb1794e320689b05654f9b9669e81b41,",
+      "base.Display-Oswald.LG.Strong.Default": "S:d66b3870ea08c12d8b92c0bd56b537801f87bd4d,",
+      "base.Display-Oswald.LG.Strong.Upper": "S:304cb766bbc592b2b3a38ce7a31c01e8f727ae7d,",
+      "base.Display-Oswald.LG.Heavy.Default": "S:94f38c67acb86953432581bad81a040718056250,",
+      "base.Display-Oswald.LG.Heavy.Upper": "S:11b26cb0b4175975797a84a24fee4bb626c9c5bd,",
+      "base.Display-Oswald.MD.Normal.Default": "S:6844c909af106d09a352e98ef105048b9ef7684f,",
+      "base.Display-Oswald.MD.Normal.Upper": "S:8a90df17c78585b291639bc118d12305712eb35f,",
+      "base.Display-Oswald.MD.Medium.Default": "S:9ab05e3484da41103565d95f17d9cc485776f2f0,",
+      "base.Display-Oswald.MD.Medium.Upper": "S:0e4a4c23de2727fcc9234225e7f5c8efe89e241b,",
+      "base.Display-Oswald.MD.Strong.Default": "S:55be94274ccac81ec6dc4853d55b372c16e39a64,",
+      "base.Display-Oswald.MD.Strong.Upper": "S:578a2aed01f7236cf3d6b7105f333bc0df828050,",
+      "base.Display-Oswald.MD.Heavy.Default": "S:c01abf95f36093591c9da3333b16311e52cddb25,",
+      "base.Display-Oswald.MD.Heavy.Upper": "S:8d944fe7866406ce2a0791a94e307a0ae73475d5,",
+      "base.Display-Oswald.SM.Normal.Default": "S:c02da35f0ce0d2194f4562887ddfbadcb780050b,",
+      "base.Display-Oswald.SM.Normal.Upper": "S:c5922870964aa76bf8c4d152836c0ef2719781b0,",
+      "base.Display-Oswald.SM.Medium.Default": "S:8cf5211cfbfc7dd98a7c6a2cfa70b5a3d4c40a07,",
+      "base.Display-Oswald.SM.Medium.Upper": "S:f8f52774505a0a25757137fc77fc9803f33c0b27,",
+      "base.Display-Oswald.SM.Strong.Default": "S:10b88811602fae26db91b0dcc3211e526bdf14ee,",
+      "base.Display-Oswald.SM.Strong.Upper": "S:4a9950b42c49534e71b794b0252bc8249645aaf6,",
+      "base.Display-Oswald.SM.Heavy.Default": "S:d9cd87df20698a9c432bc01de47042f2aeea81e9,",
+      "base.Display-Oswald.SM.Heavy.Upper": "S:80506bfee5c3a686719a17995dd35276413b5c7b,",
+      "base.Display-Oswald.XS.Normal.Default": "S:a255503282af0c082e6813e89bab9761143c7f6e,",
+      "base.Display-Oswald.XS.Normal.Upper": "S:1a113d9124e8a9e31cce6b1cdd7401083a8476d5,",
+      "base.Display-Oswald.XS.Medium.Default": "S:b3825c981ff84bccb5f3591e18307b6f31eed14a,",
+      "base.Display-Oswald.XS.Medium.Upper": "S:3b383eb2d188fffa78d724894885c21e653f061a,",
+      "base.Display-Oswald.XS.Strong.Default": "S:f9017fe910e9e23e2c48894f4fda1d9b708a898f,",
+      "base.Display-Oswald.XS.Strong.Upper": "S:192c592d9c24064a8bbf1acceaada58ba6a5e87a,",
+      "base.Display-Oswald.XS.Heavy.Default": "S:ce9dd70c1ece0fc21f28b48cdea5c7b772f872bc,",
+      "base.Display-Oswald.XS.Heavy.Upper": "S:a888dfdcc73b571880149423f8efb335bcebe2c1,",
+      "base.Title-Oswald.XL.Normal.Default": "S:4a2d431627801231f9ec2d43ee5bec230a65d9b0,",
+      "base.Title-Oswald.XL.Normal.Upper": "S:1b19ac1523c78f039d3411acd65e2ca9af579dac,",
+      "base.Title-Oswald.XL.Medium.Default": "S:3c5828e7c4affb925bd7b49d38d80fba416c0b44,",
+      "base.Title-Oswald.XL.Medium.Upper": "S:bd36ac14468cf53c478eec210484f4c123d0cbc9,",
+      "base.Title-Oswald.XL.Strong.Default": "S:99ace02caad21f835cfec4bdccf1ea3b203b2f3b,",
+      "base.Title-Oswald.XL.Strong.Upper": "S:0375b8c252998777a7660ff878611d3f2c18547d,",
+      "base.Title-Oswald.XL.Heavy.Default": "S:cf342b96d9167f810be13e7efc9390111d29f4fc,",
+      "base.Title-Oswald.XL.Heavy.Upper": "S:0dc54ccfb1004dc367d0ebd89673416f56ca6289,",
+      "base.Title-Oswald.LG.Normal.Default": "S:217443cff0eae94f7971b95c5cd13c08caacd6fe,",
+      "base.Title-Oswald.LG.Normal.Upper": "S:7dbab60390af8f92fac78bb3920c9cf44e958681,",
+      "base.Title-Oswald.LG.Medium.Default": "S:336d84f4a994fedbf38993022d1ad693ee9b7fed,",
+      "base.Title-Oswald.LG.Medium.Upper": "S:7c2ed9d17fcc977e60acbe86c192533653de7608,",
+      "base.Title-Oswald.LG.Strong.Default": "S:46a41cc63f9f0c19d558a3e50dc607b28a2c9079,",
+      "base.Title-Oswald.LG.Strong.Upper": "S:da4656ce4b319c9ac5940129438abeefd114d6b0,",
+      "base.Title-Oswald.LG.Heavy.Default": "S:60d77a3a1065eb2def48580b40238e2045f38198,",
+      "base.Title-Oswald.LG.Heavy.Upper": "S:6b1e1bcb0339d93f4fc5ff41b580113ab2f3037d,",
+      "base.Title-Oswald.MD.Normal.Default": "S:0b9244ba8c8bc179be5f49922e06a672b86e6804,",
+      "base.Title-Oswald.MD.Normal.Upper": "S:c00deb39be64f86de74441830853eb1a0ca74e58,",
+      "base.Title-Oswald.MD.Medium.Default": "S:52b842cf9a7c7238b0ed8c0fca932486efdf3693,",
+      "base.Title-Oswald.MD.Medium.Upper": "S:bb9096e86454712e466cf03210d5f7dba44aae07,",
+      "base.Title-Oswald.MD.Strong.Default": "S:37fdcbebfbbbfa7d15a4d300b47ab111f2f89324,",
+      "base.Title-Oswald.MD.Strong.Upper": "S:404d945ecc0b878e5a2fc0d01a3152d27a5c2ff3,",
+      "base.Title-Oswald.MD.Heavy.Default": "S:e6225a4b89260ce32725bd31e1a091b355d4e6b0,",
+      "base.Title-Oswald.MD.Heavy.Upper": "S:905f1d1994a614ad4645cff3298e6f9cbdc9da64,",
+      "base.Title-Oswald.SM.Normal.Default": "S:ff6b3f9df797e5c2fcc5fd8d9aecdc69b0d89ad2,",
+      "base.Title-Oswald.SM.Normal.Upper": "S:31f8bceb9bfa6ad36881046f4b18e35fd1163a42,",
+      "base.Title-Oswald.SM.Medium.Default": "S:2217cee537382ae60adb67baee1a7f08af739e3c,",
+      "base.Title-Oswald.SM.Medium.Upper": "S:4dd1bdff201df94a48fff212cbd69160c8da15c7,",
+      "base.Title-Oswald.SM.Strong.Default": "S:70ed49beac410a35d35df81729521f3bf99327c2,",
+      "base.Title-Oswald.SM.Strong.Upper": "S:05ffb886d8abc0f45b79e787578fcfd6a7bdc398,",
+      "base.Title-Oswald.SM.Heavy.Default": "S:4deacadc793d5b1a92d8923ff43a7401459b4c87,",
+      "base.Title-Oswald.SM.Heavy.Upper": "S:ba64432175283d6589a66ea3133ad5c2d6cf4ae0,",
+      "base.Title-Oswald.XS.Normal.Default": "S:16278d0de816252fb57d4c4799abe31c21f1bd6c,",
+      "base.Title-Oswald.XS.Normal.Upper": "S:f66189cf95abc3b0d172cb4d3a6b216b82ca9d19,",
+      "base.Title-Oswald.XS.Normal.Paragraph": "S:ee41d109459c34979c10bc64db8afbf26145d890,",
+      "base.Title-Oswald.XS.Medium.Default": "S:a61d83cfe01f188e63091c183cfcad85fcf5ab1d,",
+      "base.Title-Oswald.XS.Medium.Upper": "S:46055ae1664b5f28d041550f9762b6fb5cda5ca5,",
+      "base.Title-Oswald.XS.Medium.Paragraph": "S:d571e124d5944be5681b0973e9c59a05e3abbb4c,",
+      "base.Title-Oswald.XS.Strong.Default": "S:54ec007b97ebb696a74f4383d633c727ec8450e3,",
+      "base.Title-Oswald.XS.Strong.Upper": "S:00de02273edcd5cee29534842a36aafef42e3e5a,",
+      "base.Title-Oswald.XS.Strong.Paragraph": "S:47d4aa4926900dad3ee735e4f6044e30a462e83f,",
+      "base.Title-Oswald.XS.Heavy.Default": "S:303596754d53e48bf000c3eb6225707c0567ed97,",
+      "base.Title-Oswald.XS.Heavy.Upper": "S:f5661ad0e7fe01f74435ff437b01e6b26fc962f8,",
+      "base.Title-Oswald.XS.Heavy.Paragraph": "S:9a9b98bae054477c175d1cfbb3f31a866b92ee0a,",
+      "theme.arangrant.sand": "S:40378256425381f8cab8980d48924a60e317f903,",
+      "theme.arangrant.gradient-neutral": "S:4e4fe792c46eeab5dc1aa6ce244d9291ea8a1f45,",
+      "theme.arangrant.retro": "S:821267bf6bcdc26618557ba853ac470420b04aac,",
+      "theme.arangrant.gradient-apricot": "S:2978c2903a3c4ce463369370567a8e80415b3bd8,",
+      "base.presets.header": "S:166d8fa7e06e0d3a681fa3ffcf64fc62f1a6bc7c,",
+      "base.presets.subheader": "S:4f21cafb1dfbcc2b0bfa9c039df468855b732e19,",
+      "base.presets.footer": "S:ba30d61344af4aa6541ba047ac2f0b6864da329f,",
+      "base.presets.multistep-subheader": "S:a3ee7cdb001e342055753aa20a52f9ce1ef5c994,"
     },
     "selectedTokenSets": {
       "core": "source",
@@ -10154,7 +10204,8 @@
       "brand/arangrant_wp/base": "source",
       "brand/arangrant_wp/light": "enabled",
       "brand/aran-grant/light": "source",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/arangrant_wp/typography": "enabled",
+      "base/presets": "source"
     }
   },
   {
@@ -10715,9 +10766,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/acapulco": "enabled",
-      "base/brand-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/brand-colors": "enabled"
     }
   },
   {
@@ -11275,9 +11324,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/air-and-tour": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/air-and-tour": "enabled"
     }
   },
   {
@@ -11837,9 +11884,7 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/airclass": "enabled",
-      "base/brand-colors": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "base/brand-colors": "enabled"
     }
   },
   {
@@ -12373,9 +12418,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flygtravel": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/flygtravel": "enabled"
     }
   },
   {
@@ -12936,9 +12979,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/studentmiles": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/studentmiles": "enabled"
     }
   },
   {
@@ -13497,9 +13538,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/wowgateway": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/wowgateway": "enabled"
     }
   },
   {
@@ -14059,9 +14098,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/luxscanner": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/luxscanner": "enabled"
     }
   },
   {
@@ -14613,9 +14650,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/plumbenefits": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/plumbenefits": "enabled"
     }
   },
   {
@@ -15177,9 +15212,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/ebg": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/ebg": "enabled"
     }
   },
   {
@@ -15744,9 +15777,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flightaware": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/flightaware": "enabled"
     }
   },
   {
@@ -16308,9 +16339,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/jcv": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/jcv": "enabled"
     }
   },
   {
@@ -16868,9 +16897,7 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/skymonde": "enabled",
-      "brand/aran-grant/light": "disabled",
-      "brand/aran-grant/tokens": "disabled"
+      "brand/skymonde": "enabled"
     }
   }
 ]

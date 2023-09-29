@@ -218,7 +218,7 @@
         "type": "color"
       },
       "multistep-subheader": {
-        "value": "{theme.presets.subheader}",
+        "value": "{base.presets.subheader}",
         "type": "color"
       },
       "footer": {

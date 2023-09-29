@@ -808,7 +808,7 @@
         "type": "color"
       },
       "subheader": {
-        "value": "{theme.presets.header}",
+        "value": "{base.presets.header}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

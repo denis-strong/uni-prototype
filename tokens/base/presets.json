@@ -1,0 +1,31 @@
+{
+  "base": {
+    "presets": {
+      "header": {
+        "value": "{theme.bg.brand}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{base.presets.header}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{semantic.color.modifiers.mix-delta}",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "footer": {
+        "value": "{theme.bg.primary-inverse}",
+        "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "{theme.bg.brand}",
+        "type": "color"
+      }
+    }
+  }
+}

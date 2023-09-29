@@ -653,21 +653,23 @@
         ],
         "type": "boxShadow"
       }
-    }
-  },
-  "semantic": {
-    "font-family": {
-      "secondary": {
-        "value": "Oswald",
-        "type": "fontFamilies"
+    },
+    "arangrant": {
+      "sand": {
+        "value": "{core.color.sand.100}",
+        "type": "color"
       },
-      "display": {
-        "value": "{semantic.font-family.primary}",
-        "type": "fontFamilies"
+      "gradient-neutral": {
+        "value": "linear-gradient(220deg, {base.neutral.1000} 0%, {base.neutral.900} 100%)",
+        "type": "color"
       },
-      "title": {
-        "value": "{semantic.font-family.primary}",
-        "type": "fontFamilies"
+      "retro": {
+        "value": "linear-gradient(220deg, #ffffff 0%, #eeecec 100%)",
+        "type": "color"
+      },
+      "gradient-apricot": {
+        "value": "linear-gradient(180deg, #f19c3d 0%, #dd7400 100%)",
+        "type": "color"
       }
     }
   }
