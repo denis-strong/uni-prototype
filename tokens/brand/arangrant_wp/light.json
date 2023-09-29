@@ -654,5 +654,21 @@
         "type": "boxShadow"
       }
     }
+  },
+  "semantic": {
+    "font-family": {
+      "secondary": {
+        "value": "Oswald",
+        "type": "fontFamilies"
+      },
+      "display": {
+        "value": "{semantic.font-family.primary}",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "{semantic.font-family.primary}",
+        "type": "fontFamilies"
+      }
+    }
   }
 }
