@@ -3,15 +3,15 @@
     "luxmiles": {
       "gradient": {
         "cover": {
-          "value": "linear-gradient(180deg, rgba({base.luxmiles.other.flint}, 0.88) 0%,  rgba({base.neutral.1100}, 0.9) 70%, rgba({base.neutral.1100}, 0.97) 82%, {base.neutral.1100} 100%)",
+          "value": "linear-gradient(180deg, rgba({base.luxmiles.other.flint}, 0.88) 0%,  rgba({base._neutral.1100}, 0.9) 70%, rgba({base._neutral.1100}, 0.97) 82%, {base._neutral.1100} 100%)",
           "type": "color"
         },
         "135-100": {
-          "value": "linear-gradient(135deg, {base.neutral.1100} 0%, rgba({base.neutral.1100}, 0.4) 50%, rgba({base.neutral.1100}, 0.4) 100%)",
+          "value": "linear-gradient(135deg, {base._neutral.1100} 0%, rgba({base._neutral.1100}, 0.4) 50%, rgba({base._neutral.1100}, 0.4) 100%)",
           "type": "color"
         },
         "135-50": {
-          "value": "linear-gradient(135deg, rgba({base.neutral.900}, 0.7) 0%, rgba({base.neutral.900}, 0.3) 48%, rgba({base.neutral.900}, 0.3) 100%)",
+          "value": "linear-gradient(135deg, rgba({base._neutral.900}, 0.7) 0%, rgba({base._neutral.900}, 0.3) 48%, rgba({base._neutral.900}, 0.3) 100%)",
           "type": "color"
         }
       },
@@ -252,7 +252,7 @@
     },
     "bg": {
       "accent": {
-        "value": "{base.neutral.1000}",
+        "value": "{base._neutral.1000}",
         "type": "color"
       },
       "accent-subtle": {
@@ -262,32 +262,32 @@
     },
     "content": {
       "accent": {
-        "value": "{base.neutral.1000}",
+        "value": "{base._neutral.1000}",
         "type": "color"
       }
     },
     "border": {
       "accent": {
-        "value": "{base.neutral.1000}",
+        "value": "{base._neutral.1000}",
         "type": "color"
       },
       "accent-subtle": {
-        "value": "{base.neutral.400}",
+        "value": "{base._neutral.400}",
         "type": "color"
       }
     },
     "action": {
       "accent": {
         "normal": {
-          "value": "{base.neutral.1000}",
+          "value": "{base._neutral.1000}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.neutral.800}",
+          "value": "{base._neutral.800}",
           "type": "color"
         },
         "active": {
-          "value": "{base.neutral.800}",
+          "value": "{base._neutral.800}",
           "type": "color"
         }
       },

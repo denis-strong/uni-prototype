@@ -26,19 +26,19 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base.neutral.1100}",
+          "value": "{base._neutral.1100}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.neutral.900}",
+          "value": "{base._neutral.900}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.neutral.900}",
+          "value": "{base._neutral.900}",
           "type": "color"
         },
         "active": {
-          "value": "{base.neutral.1000}",
+          "value": "{base._neutral.1000}",
           "type": "color"
         }
       }
@@ -46,38 +46,38 @@
     "interaction": {
       "default": {
         "normal": {
-          "value": "{base.neutral.900}",
+          "value": "{base._neutral.900}",
           "type": "color"
         },
         "hover": {
-          "value": "{base.neutral.1000}",
+          "value": "{base._neutral.1000}",
           "type": "color"
         },
         "selected": {
-          "value": "{base.neutral.1100}",
+          "value": "{base._neutral.1100}",
           "type": "color"
         },
         "active": {
-          "value": "{base.neutral.1000}",
+          "value": "{base._neutral.1000}",
           "type": "color"
         }
       }
     },
     "bg": {
       "brand": {
-        "value": "{base.neutral.900}",
+        "value": "{base._neutral.900}",
         "type": "color"
       }
     },
     "content": {
       "brand": {
-        "value": "{base.neutral.1000}",
+        "value": "{base._neutral.1000}",
         "type": "color"
       }
     },
     "border": {
       "brand": {
-        "value": "{base.neutral.900}",
+        "value": "{base._neutral.900}",
         "type": "color"
       }
     }
@@ -145,51 +145,51 @@
     },
     "brand": {
       "50": {
-        "value": "{base.neutral.50}",
+        "value": "{base._neutral.50}",
         "type": "color"
       },
       "100": {
-        "value": "{base.neutral.100}",
+        "value": "{base._neutral.100}",
         "type": "color"
       },
       "200": {
-        "value": "{base.neutral.200}",
+        "value": "{base._neutral.200}",
         "type": "color"
       },
       "300": {
-        "value": "{base.neutral.300}",
+        "value": "{base._neutral.300}",
         "type": "color"
       },
       "400": {
-        "value": "{base.neutral.400}",
+        "value": "{base._neutral.400}",
         "type": "color"
       },
       "500": {
-        "value": "{base.neutral.500}",
+        "value": "{base._neutral.500}",
         "type": "color"
       },
       "600": {
-        "value": "{base.neutral.600}",
+        "value": "{base._neutral.600}",
         "type": "color"
       },
       "700": {
-        "value": "{base.neutral.700}",
+        "value": "{base._neutral.700}",
         "type": "color"
       },
       "800": {
-        "value": "{base.neutral.800}",
+        "value": "{base._neutral.800}",
         "type": "color"
       },
       "900": {
-        "value": "{base.neutral.900}",
+        "value": "{base._neutral.900}",
         "type": "color"
       },
       "1000": {
-        "value": "{base.neutral.1000}",
+        "value": "{base._neutral.1000}",
         "type": "color"
       },
       "1100": {
-        "value": "{base.neutral.1100}",
+        "value": "{base._neutral.1100}",
         "type": "color"
       }
     },

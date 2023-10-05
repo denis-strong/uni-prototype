@@ -1,6 +1,6 @@
 {
   "base": {
-    "neutral": {
+    "_neutral": {
       "50": {
         "value": "{core.color.warm-gray.50}",
         "type": "color"
