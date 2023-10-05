@@ -7,34 +7,34 @@
       },
       "secondary": {
         "type": "color",
-        "value": "{base._neutral.50}"
+        "value": "{base.neutral.50}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{base._neutral.100}"
+        "value": "{base.neutral.100}"
       },
       "disabled": {
-        "value": "{base._neutral.200}",
+        "value": "{base.neutral.200}",
         "type": "color"
       },
       "strong": {
-        "value": "{base._neutral.400}",
+        "value": "{base.neutral.400}",
         "type": "color"
       },
       "primary-inverse": {
         "type": "color",
-        "value": "{base._neutral.1100}"
+        "value": "{base.neutral.1100}"
       },
       "secondary-inverse": {
         "type": "color",
-        "value": "{base._neutral.1000}"
+        "value": "{base.neutral.1000}"
       },
       "tertiary-inverse": {
         "type": "color",
-        "value": "{base._neutral.900}"
+        "value": "{base.neutral.900}"
       },
       "scrim": {
-        "value": "{base._neutral.900}",
+        "value": "{base.neutral.900}",
         "type": "color",
         "description": "Scrim, Backdrop, Modal background",
         "$extensions": {
@@ -119,18 +119,18 @@
     "content": {
       "primary": {
         "type": "color",
-        "value": "{base._neutral.1100}"
+        "value": "{base.neutral.1100}"
       },
       "secondary": {
         "type": "color",
-        "value": "{base._neutral.900}"
+        "value": "{base.neutral.900}"
       },
       "tertiary": {
         "type": "color",
-        "value": "{base._neutral.700}"
+        "value": "{base.neutral.700}"
       },
       "disabled": {
-        "value": "{base._neutral.500}",
+        "value": "{base.neutral.500}",
         "type": "color",
         "description": "place holder/ disabled text"
       },
@@ -204,15 +204,15 @@
     },
     "border": {
       "light": {
-        "value": "{base._neutral.200}",
+        "value": "{base.neutral.200}",
         "type": "color"
       },
       "medium": {
-        "value": "{base._neutral.300}",
+        "value": "{base.neutral.300}",
         "type": "color"
       },
       "strong": {
-        "value": "{base._neutral.600}",
+        "value": "{base.neutral.600}",
         "type": "color"
       },
       "light-alpha": {
@@ -463,19 +463,19 @@
       },
       "neutral": {
         "normal": {
-          "value": "{base._neutral.900}",
+          "value": "{base.neutral.900}",
           "type": "color"
         },
         "hover": {
-          "value": "{base._neutral.1000}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
         "active": {
-          "value": "{base._neutral.1100}",
+          "value": "{base.neutral.1100}",
           "type": "color"
         },
         "selected": {
-          "value": "{base._neutral.1000}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
         "subtle": {
@@ -545,15 +545,15 @@
       },
       "outline": {
         "normal": {
-          "value": "{base._neutral.300}",
+          "value": "{base.neutral.300}",
           "type": "color"
         },
         "hover": {
-          "value": "{base._neutral.400}",
+          "value": "{base.neutral.400}",
           "type": "color"
         },
         "active": {
-          "value": "{base._neutral.500}",
+          "value": "{base.neutral.500}",
           "type": "color"
         }
       },
@@ -611,19 +611,19 @@
       },
       "neutral": {
         "normal": {
-          "value": "{base._neutral.900}",
+          "value": "{base.neutral.900}",
           "type": "color"
         },
         "hover": {
-          "value": "{base._neutral.1000}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
         "active": {
-          "value": "{base._neutral.1100}",
+          "value": "{base.neutral.1100}",
           "type": "color"
         },
         "selected": {
-          "value": "{base._neutral.1000}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
         "subtle": {
@@ -680,28 +680,28 @@
       "disabled": {
         "normal": {
           "type": "color",
-          "value": "{base._neutral.400}"
+          "value": "{base.neutral.400}"
         },
         "hover": {
           "type": "color",
-          "value": "{base._neutral.500}"
+          "value": "{base.neutral.500}"
         },
         "active": {
           "type": "color",
-          "value": "{base._neutral.600}"
+          "value": "{base.neutral.600}"
         },
         "subtle": {
           "normal": {
             "type": "color",
-            "value": "{base._neutral.200}"
+            "value": "{base.neutral.200}"
           },
           "hover": {
             "type": "color",
-            "value": "{base._neutral.300}"
+            "value": "{base.neutral.300}"
           },
           "active": {
             "type": "color",
-            "value": "{base._neutral.400}"
+            "value": "{base.neutral.400}"
           }
         }
       },
@@ -774,15 +774,15 @@
         },
         "neutral": {
           "normal": {
-            "value": "{base._neutral.300}",
+            "value": "{base.neutral.300}",
             "type": "color"
           },
           "hover": {
-            "value": "{base._neutral.400}",
+            "value": "{base.neutral.400}",
             "type": "color"
           },
           "active": {
-            "value": "{base._neutral.500}",
+            "value": "{base.neutral.500}",
             "type": "color"
           }
         }
@@ -833,7 +833,7 @@
       "card": {
         "value": [
           {
-            "color": "rgba({base._neutral.1100}, {core.opacity.50})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -845,7 +845,7 @@
             "y": "1",
             "blur": "3",
             "spread": "0",
-            "color": "rgba({base._neutral.1100}, {core.opacity.150})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
             "type": "dropShadow"
           }
         ],
@@ -854,7 +854,7 @@
       "overlay-top": {
         "value": [
           {
-            "color": "rgba({base._neutral.1100}, {core.opacity.50})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -866,7 +866,7 @@
             "y": "4",
             "blur": "8",
             "spread": "0",
-            "color": "rgba({base._neutral.1100}, {core.opacity.150})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
             "type": "dropShadow"
           }
         ],
@@ -875,7 +875,7 @@
       "overlay-bottom": {
         "value": [
           {
-            "color": "rgba({base._neutral.1100}, {core.opacity.50})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -887,7 +887,7 @@
             "y": "-4",
             "blur": "8",
             "spread": "0",
-            "color": "rgba({base._neutral.1100}, {core.opacity.150})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
             "type": "dropShadow"
           }
         ],
@@ -896,7 +896,7 @@
       "modal": {
         "value": [
           {
-            "color": "rgba({base._neutral.1100}, {core.opacity.50})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
             "type": "dropShadow",
             "x": "0",
             "y": "0",
@@ -908,7 +908,7 @@
             "y": "8",
             "blur": "16",
             "spread": "0",
-            "color": "rgba({base._neutral.1100}, {core.opacity.150})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
             "type": "dropShadow"
           }
         ],
@@ -917,7 +917,7 @@
       "bottom-sheet": {
         "value": [
           {
-            "color": "rgba({base._neutral.1100}, {core.opacity.150})",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
             "type": "dropShadow",
             "x": "0",
             "y": "-16",

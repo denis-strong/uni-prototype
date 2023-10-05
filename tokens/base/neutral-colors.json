@@ -52,7 +52,7 @@
     },
     "neutral-alpha": {
       "100": {
-        "value": "{base._neutral.1100}",
+        "value": "{base.neutral.1100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -65,7 +65,7 @@
         }
       },
       "200": {
-        "value": "{base._neutral.1100}",
+        "value": "{base.neutral.1100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -78,7 +78,7 @@
         }
       },
       "300": {
-        "value": "{base._neutral.1100}",
+        "value": "{base.neutral.1100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -91,7 +91,7 @@
         }
       },
       "400": {
-        "value": "{base._neutral.1100}",
+        "value": "{base.neutral.1100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -104,7 +104,7 @@
         }
       },
       "500": {
-        "value": "{base._neutral.1100}",
+        "value": "{base.neutral.1100}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {

@@ -184,11 +184,11 @@
         "type": "color"
       },
       "subheader": {
-        "value": "{base._neutral.200}",
+        "value": "{base.neutral.200}",
         "type": "color"
       },
       "footer": {
-        "value": "{base._neutral.1000}",
+        "value": "{base.neutral.1000}",
         "type": "color"
       },
       "multistep-subheader": {

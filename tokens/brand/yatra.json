@@ -9,7 +9,7 @@
       "type": "color"
     },
     "footer": {
-      "value": "{base._neutral.900}",
+      "value": "{base.neutral.900}",
       "type": "color"
     }
   },

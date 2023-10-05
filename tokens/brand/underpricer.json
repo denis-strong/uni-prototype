@@ -2,11 +2,11 @@
   "theme": {
     "bg": {
       "brand": {
-        "value": "{base._neutral.1000}",
+        "value": "{base.neutral.1000}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{base._neutral.100}",
+        "value": "{base.neutral.100}",
         "type": "color"
       },
       "accent": {
@@ -29,7 +29,7 @@
     },
     "content": {
       "brand": {
-        "value": "{base._neutral.1000}",
+        "value": "{base.neutral.1000}",
         "type": "color"
       },
       "accent": {
@@ -48,11 +48,11 @@
     },
     "border": {
       "brand": {
-        "value": "{base._neutral.1000}",
+        "value": "{base.neutral.1000}",
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{base._neutral.300}",
+        "value": "{base.neutral.300}",
         "type": "color"
       },
       "accent": {
@@ -85,15 +85,15 @@
     "action": {
       "primary": {
         "normal": {
-          "value": "{base._neutral.1000}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
         "hover": {
-          "value": "{base._neutral.800}",
+          "value": "{base.neutral.800}",
           "type": "color"
         },
         "active": {
-          "value": "{base._neutral.800}",
+          "value": "{base.neutral.800}",
           "type": "color"
         }
       },
@@ -146,34 +146,34 @@
     "interactive": {
       "default": {
         "normal": {
-          "value": "{base._neutral.1000}",
+          "value": "{base.neutral.1000}",
           "type": "color"
         },
         "hover": {
-          "value": "{base._neutral.800}",
+          "value": "{base.neutral.800}",
           "type": "color"
         },
         "active": {
-          "value": "{base._neutral.800}",
+          "value": "{base.neutral.800}",
           "type": "color"
         },
         "subtle-normal": {
-          "value": "{base._neutral.100}",
+          "value": "{base.neutral.100}",
           "type": "color"
         },
         "subtle-hover": {
-          "value": "{base._neutral.200}",
+          "value": "{base.neutral.200}",
           "type": "color"
         },
         "subtle-active": {
-          "value": "{base._neutral.300}",
+          "value": "{base.neutral.300}",
           "type": "color"
         }
       },
       "form": {
         "border": {
           "active": {
-            "value": "{base._neutral.1000}",
+            "value": "{base.neutral.1000}",
             "type": "color"
           }
         }
