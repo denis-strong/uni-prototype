@@ -238,7 +238,8 @@
       "base/neutral-colors": "source",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -732,7 +733,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -1116,7 +1118,8 @@
       "base/generic-colors": "enabled",
       "base/typography": "source",
       "base/system-colors": "enabled",
-      "brand/aran-grant/light": "enabled"
+      "brand/aran-grant/light": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -1724,7 +1727,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -1987,7 +1991,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -2242,7 +2247,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -2838,7 +2844,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -3437,7 +3444,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -3699,7 +3707,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -4299,7 +4308,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -4567,7 +4577,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "source",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -5169,7 +5180,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -5779,7 +5791,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -6042,7 +6055,8 @@
       "core.color.warm-gray.1100": "S:e135d7860aac360ea117e35e781b7d3ddd98c674,"
     },
     "selectedTokenSets": {
-      "core": "enabled"
+      "core": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -6652,7 +6666,8 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -7286,7 +7301,8 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "enabled",
-      "base/presets": "enabled"
+      "base/presets": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -7885,7 +7901,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -8308,7 +8325,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -8889,7 +8907,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "source"
+      "base/system-colors": "source",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -9353,7 +9372,8 @@
       "base/neutral-colors": "enabled",
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
-      "base/system-colors": "enabled"
+      "base/system-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -9644,7 +9664,8 @@
       "base/generic-colors": "enabled",
       "base/typography": "enabled",
       "base/system-colors": "source",
-      "brand/wowfare": "source"
+      "brand/wowfare": "source",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -9669,7 +9690,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/ovago": "source",
-      "brand/ovago_wp": "enabled"
+      "brand/ovago_wp": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -10205,7 +10227,8 @@
       "brand/arangrant_wp/light": "enabled",
       "brand/aran-grant/light": "source",
       "brand/arangrant_wp/typography": "enabled",
-      "base/presets": "source"
+      "base/presets": "source",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -10766,7 +10789,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/acapulco": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -11324,7 +11348,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/air-and-tour": "enabled"
+      "brand/air-and-tour": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -11884,7 +11909,8 @@
       "component/radio": "source",
       "component/alert": "source",
       "brand/airclass": "enabled",
-      "base/brand-colors": "enabled"
+      "base/brand-colors": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -12418,7 +12444,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flygtravel": "enabled"
+      "brand/flygtravel": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -12979,7 +13006,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/studentmiles": "enabled"
+      "brand/studentmiles": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -13538,7 +13566,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/wowgateway": "enabled"
+      "brand/wowgateway": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -14098,7 +14127,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/luxscanner": "enabled"
+      "brand/luxscanner": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -14650,7 +14680,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/plumbenefits": "enabled"
+      "brand/plumbenefits": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -15212,7 +15243,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/ebg": "enabled"
+      "brand/ebg": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -15777,7 +15809,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/flightaware": "enabled"
+      "brand/flightaware": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -16339,7 +16372,8 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/jcv": "enabled"
+      "brand/jcv": "enabled",
+      "brand/papaya": "disabled"
     }
   },
   {
@@ -16897,7 +16931,33 @@
       "component/checkbox": "source",
       "component/radio": "source",
       "component/alert": "source",
-      "brand/skymonde": "enabled"
+      "brand/skymonde": "enabled",
+      "brand/papaya": "disabled"
+    }
+  },
+  {
+    "id": "15142fdb96d2e095a0821cbd56db6a0e93f73e54",
+    "name": "Papaya",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "base/neutral-colors": "enabled",
+      "base/brand-colors": "source",
+      "base/system-colors": "enabled",
+      "base/generic-colors": "enabled",
+      "base/typography": "enabled",
+      "base/presets": "enabled",
+      "theme": "enabled",
+      "component/button": "enabled",
+      "component/badge": "enabled",
+      "component/text-input": "enabled",
+      "component/ifta": "enabled",
+      "component/icon-button": "source",
+      "component/switch": "source",
+      "component/checkbox": "source",
+      "component/radio": "source",
+      "component/alert": "source",
+      "brand/papaya": "enabled"
     }
   }
 ]

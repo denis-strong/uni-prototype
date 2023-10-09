@@ -1,0 +1,286 @@
+{
+  "base": {
+    "neutral": {
+      "50": {
+        "value": "{core.color.dolphin.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.dolphin.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.dolphin.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.dolphin.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.dolphin.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.dolphin.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.dolphin.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.dolphin.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.dolphin.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.dolphin.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.dolphin.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.dolphin.1100}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "50": {
+        "value": "{core.color.papaya.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.papaya.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.papaya.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.papaya.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.papaya.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.papaya.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.papaya.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.papaya.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.papaya.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.papaya.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.papaya.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.papaya.1100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "50": {
+        "value": "{core.color.papaya.50}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{core.color.papaya.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{core.color.papaya.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{core.color.papaya.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{core.color.papaya.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{core.color.papaya.500}",
+        "type": "color"
+      },
+      "600": {
+        "value": "{core.color.papaya.600}",
+        "type": "color"
+      },
+      "700": {
+        "value": "{core.color.papaya.700}",
+        "type": "color"
+      },
+      "800": {
+        "value": "{core.color.papaya.800}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{core.color.papaya.900}",
+        "type": "color"
+      },
+      "1000": {
+        "value": "{core.color.papaya.1000}",
+        "type": "color"
+      },
+      "1100": {
+        "value": "{core.color.papaya.1100}",
+        "type": "color"
+      }
+    },
+    "papaya": {
+      "brand-1": {
+        "value": "#282840",
+        "type": "color"
+      },
+      "brand-2": {
+        "value": "#F36E27",
+        "type": "color"
+      },
+      "brand-3": {
+        "value": "#F9BE1F",
+        "type": "color"
+      },
+      "brand-4": {
+        "value": "#0E9C33",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{theme.bg.brand}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{base.presets.header}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.15",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "footer": {
+        "value": "{theme.bg.primary-inverse}",
+        "type": "color"
+      },
+      "multistep-subheader": {
+        "value": "{theme.bg.brand}",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "action": {
+      "primary": {
+        "normal": {
+          "value": "{base.neutral.900}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{base.neutral.1000}",
+          "type": "color",
+          "$extensions": {}
+        },
+        "active": {
+          "value": "{base.neutral.1100}",
+          "type": "color",
+          "$extensions": {}
+        },
+        "selected": {
+          "value": "{base.neutral.1000}",
+          "type": "color",
+          "$extensions": {}
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.neutral-alpha.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.neutral-alpha.200}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.neutral-alpha.300}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.neutral-alpha.200}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "bg": {
+      "brand": {
+        "value": "{base.papaya.brand-1}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.papaya.brand-1}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.92",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    },
+    "content": {
+      "brand": {
+        "value": "{base.papaya.brand-1}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "brand": {
+        "value": "{base.papaya.brand-1}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{base.papaya.brand-1}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "lighten",
+              "value": "0.74",
+              "space": "lch"
+            }
+          }
+        }
+      }
+    }
+  }
+}
