@@ -205,18 +205,15 @@
         },
         "hover": {
           "value": "{base.neutral.1000}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "active": {
           "value": "{base.neutral.1100}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "selected": {
           "value": "{base.neutral.1000}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         },
         "subtle": {
           "normal": {
