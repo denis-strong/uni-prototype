@@ -2317,7 +2317,7 @@
             "value": {
               "fontFamily": "{semantic.font-family.body}",
               "fontWeight": "{semantic.font-weight.body.medium}",
-              "lineHeight": "{semantic.line-height.body.xs.default}",
+              "lineHeight": "{semantic.line-height.body.xxs.default}",
               "fontSize": "{semantic.font-size.body.xxs}"
             },
             "type": "typography",
@@ -2338,7 +2338,7 @@
             "value": {
               "fontFamily": "{semantic.font-family.body}",
               "fontWeight": "{semantic.font-weight.body.medium}",
-              "lineHeight": "{semantic.line-height.body.xs.default}",
+              "lineHeight": "{semantic.line-height.body.xxs.default}",
               "fontSize": "{semantic.font-size.body.xxs}",
               "textCase": "{base.text-case.upper}"
             },
@@ -2349,7 +2349,7 @@
             "value": {
               "fontFamily": "{semantic.font-family.body}",
               "fontWeight": "{semantic.font-weight.body.medium}",
-              "lineHeight": "{semantic.line-height.body.xs.default}",
+              "lineHeight": "{semantic.line-height.body.xxs.default}",
               "fontSize": "{semantic.font-size.body.xxs}",
               "textDecoration": "{semantic.text-decoration.strike}"
             },
