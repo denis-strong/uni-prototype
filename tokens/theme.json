@@ -717,6 +717,24 @@
         "active": {
           "value": "{base.white-alpha.800}",
           "type": "color"
+        },
+        "subtle": {
+          "normal": {
+            "value": "{base.white-alpha.300}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{base.white-alpha.400}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{base.white-alpha.400}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{base.white-alpha.400}",
+            "type": "color"
+          }
         }
       },
       "bg": {

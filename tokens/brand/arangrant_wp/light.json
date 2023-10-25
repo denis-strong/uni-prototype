@@ -394,6 +394,10 @@
         "value": "{base.danger.default}",
         "type": "color"
       },
+      "danger-inverse": {
+        "value": "{base.danger.400}",
+        "type": "color"
+      },
       "info": {
         "value": "{base.info.default}",
         "type": "color"

@@ -9676,10 +9676,10 @@
     "id": "152a8f6163014ce106a0f021bdf70e0f790ef2b8",
     "name": "AranGrant-WP",
     "$figmaStyleReferences": {
-      "theme.presets.header": "S:166d8fa7e06e0d3a681fa3ffcf64fc62f1a6bc7c,",
-      "theme.presets.subheader": "S:4f21cafb1dfbcc2b0bfa9c039df468855b732e19,",
-      "theme.presets.footer": "S:ba30d61344af4aa6541ba047ac2f0b6864da329f,",
-      "theme.presets.multistep-subheader": "S:a3ee7cdb001e342055753aa20a52f9ce1ef5c994,",
+      "theme.presets.header": "S:8c682f853904bbe7ff8a18ce5e63517db41cdb68,",
+      "theme.presets.subheader": "S:d2eb688f4a663ccbe1d52335c0d15dbdedfe044d,",
+      "theme.presets.footer": "S:714b6f6e4fbf5d6f3bd3414a27139278853175d3,",
+      "theme.presets.multistep-subheader": "S:45a355c99feea99faa63659985d3ae2e1e6bedaf,",
       "theme.interaction.default.normal": "S:df411cd1c3a492c1174c35e632fcb3f17249b284,",
       "theme.interaction.default.hover": "S:d87d62688ebad10f0b1ca01ec00290f9c4709ead,",
       "theme.interaction.default.active": "S:3a65cf10928a457570eb07a36afdff4fdc3c8b10,",
@@ -10182,7 +10182,16 @@
       "base.presets.header": "S:166d8fa7e06e0d3a681fa3ffcf64fc62f1a6bc7c,",
       "base.presets.subheader": "S:4f21cafb1dfbcc2b0bfa9c039df468855b732e19,",
       "base.presets.footer": "S:ba30d61344af4aa6541ba047ac2f0b6864da329f,",
-      "base.presets.multistep-subheader": "S:a3ee7cdb001e342055753aa20a52f9ce1ef5c994,"
+      "base.presets.multistep-subheader": "S:a3ee7cdb001e342055753aa20a52f9ce1ef5c994,",
+      "theme.presets.sand": "S:40378256425381f8cab8980d48924a60e317f903,",
+      "theme.presets.retro": "S:a612e8112503dbfe7763e6292377c7ff927d44dd,",
+      "theme.gradient.neutral": "S:4e4fe792c46eeab5dc1aa6ce244d9291ea8a1f45,",
+      "theme.gradient.apricot": "S:2978c2903a3c4ce463369370567a8e80415b3bd8,",
+      "theme.interaction.inverted.subtle.normal": "S:8ba31127d640d71b79ea75671701ebd9ba24112f,",
+      "theme.interaction.inverted.subtle.hover": "S:6cbaf59cae395bd5328b3882726228df8c555471,",
+      "theme.interaction.inverted.subtle.active": "S:d6da01a928b036919868567d42143b1990a21248,",
+      "theme.interaction.inverted.subtle.selected": "S:87279aa7c7354d1e921e476a7f89e123259c5abd,",
+      "theme.content.danger-inverse": "S:8bdb42ac4bdd41c3a63329796e19375a340d3936,"
     },
     "selectedTokenSets": {
       "core": "source",
