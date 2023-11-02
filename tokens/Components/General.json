@@ -3,15 +3,15 @@
     "search": {
       "header": {
         "bg-color": {
-          "value": "{theme.bg.primary}",
+          "value": "{semantic.bg.primary}",
           "type": "color"
         },
         "text-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         },
         "separator-color": {
-          "value": "{theme.border.light}",
+          "value": "{semantic.border.light}",
           "type": "color"
         }
       },
@@ -21,11 +21,11 @@
           "type": "color"
         },
         "form-bg": {
-          "value": "{theme.bg.primary}",
+          "value": "{semantic.bg.primary}",
           "type": "color"
         },
         "form-border-color": {
-          "value": "{theme.border.medium}",
+          "value": "{semantic.border.medium}",
           "type": "color"
         },
         "cta-bg-color": {
@@ -41,11 +41,11 @@
           "type": "color"
         },
         "primary-text-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         },
         "secondary-text-color": {
-          "value": "{theme.content.secondary}",
+          "value": "{semantic.content.secondary}",
           "type": "color"
         },
         "option-bg-color": {
@@ -74,7 +74,7 @@
             "type": "spacing"
           },
           "size": {
-            "value": "{size.450}",
+            "value": "{core.dimension.500}",
             "type": "sizing"
           }
         }
@@ -215,7 +215,7 @@
           "type": "color"
         },
         "input-bg-color": {
-          "value": "{theme.bg.primary}",
+          "value": "{semantic.bg.primary}",
           "type": "color"
         },
         "input-border-color": {
@@ -223,7 +223,7 @@
           "type": "color"
         },
         "input-text-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         },
         "cta": {
@@ -244,19 +244,19 @@
       "dropdown": {
         "default": {
           "bg-color": {
-            "value": "{theme.bg.primary}",
+            "value": "{semantic.bg.primary}",
             "type": "color"
           },
           "text-color": {
-            "value": "{theme.content.primary}",
+            "value": "{semantic.content.primary}",
             "type": "color"
           },
           "secondary-text-color": {
-            "value": "{theme.content.tertiary}",
+            "value": "{semantic.content.tertiary}",
             "type": "color"
           },
           "icon-color": {
-            "value": "{theme.content.secondary}",
+            "value": "{semantic.content.secondary}",
             "type": "color"
           },
           "label-bg-color": {
@@ -264,21 +264,21 @@
             "type": "color"
           },
           "label-text-color": {
-            "value": "{theme.content.secondary}",
+            "value": "{semantic.content.secondary}",
             "type": "color"
           }
         },
         "hover": {
           "bg-color": {
-            "value": "{theme.bg.secondary}",
+            "value": "{semantic.bg.secondary}",
             "type": "color"
           },
           "text-color": {
-            "value": "{theme.content.primary}",
+            "value": "{semantic.content.primary}",
             "type": "color"
           },
           "secondary-text-color": {
-            "value": "{theme.content.secondary}",
+            "value": "{semantic.content.secondary}",
             "type": "color"
           },
           "icon-color": {
@@ -426,7 +426,7 @@
       "value": {
         "borderRadius": "{semantic.border-radius.global}",
         "boxShadow": "{shadow.light.100}",
-        "fill": "{theme.bg.primary}"
+        "fill": "{semantic.bg.primary}"
       },
       "type": "composition"
     }

@@ -19,7 +19,12 @@
       "Components/Button": "enabled",
       "Components/General": "enabled",
       "Theme": "enabled",
-      "Core": "enabled"
+      "Core": "enabled",
+      "Base/Neutral-colors": "enabled",
+      "Base/Brand-colors": "enabled",
+      "Base/System-colors": "enabled",
+      "Base/Generic-colors": "enabled",
+      "Base/Typography": "enabled"
     },
     "$figmaStyleReferences": {
       "button.primary.default.bg-color": "S:0143b26243433f1f9bb68901ee1458a09043c87b,",

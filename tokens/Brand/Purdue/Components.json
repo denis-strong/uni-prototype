@@ -3,7 +3,7 @@
     "primary": {
       "default": {
         "text-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         },
         "border-color": {
@@ -184,7 +184,7 @@
       "dropdown": {
         "hover": {
           "label-text-color": {
-            "value": "{theme.content.primary}",
+            "value": "{semantic.content.primary}",
             "type": "color"
           },
           "icon-color": {
@@ -192,7 +192,7 @@
             "type": "color"
           },
           "bg-color": {
-            "value": "{theme.bg.tertiary}",
+            "value": "{semantic.bg.tertiary}",
             "type": "color"
           }
         }
@@ -225,7 +225,7 @@
     "search": {
       "subheader": {
         "cta-text-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         },
         "cta-border-color": {
@@ -281,20 +281,20 @@
       },
       "passengers": {
         "icon-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         }
       }
     },
     "controls": {
       "color": {
-        "value": "{theme.content.primary}",
+        "value": "{semantic.content.primary}",
         "type": "color"
       }
     },
     "link": {
       "color": {
-        "value": "{theme.content.primary}",
+        "value": "{semantic.content.primary}",
         "type": "color"
       }
     },

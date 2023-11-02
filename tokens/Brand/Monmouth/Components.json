@@ -67,19 +67,19 @@
       },
       "subscription": {
         "bg-color": {
-          "value": "{theme.bg.secondary}",
+          "value": "{semantic.bg.secondary}",
           "type": "color"
         },
         "input-border-color": {
-          "value": "{theme.border.medium}",
+          "value": "{semantic.border.medium}",
           "type": "color"
         },
         "text-color": {
-          "value": "{theme.content.secondary}",
+          "value": "{semantic.content.secondary}",
           "type": "color"
         },
         "title-color": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         },
         "cta": {

@@ -1,5 +1,5 @@
 {
-  "theme": {
+  "semantic": {
     "bg": {
       "primary": {
         "type": "color",
@@ -49,7 +49,7 @@
       },
       "canvas": {
         "type": "color",
-        "value": "{theme.bg.tertiary}"
+        "value": "{semantic.bg.tertiary}"
       },
       "success": {
         "value": "{base.success.600}",
@@ -216,7 +216,7 @@
         "type": "color"
       },
       "light-alpha": {
-        "value": "{theme.border.strong}",
+        "value": "{semantic.border.strong}",
         "type": "color",
         "$extensions": {
           "studio.tokens": {
@@ -722,28 +722,28 @@
       "bg": {
         "modal": {
           "type": "color",
-          "value": "{theme.bg.primary}"
+          "value": "{semantic.bg.primary}"
         },
         "side-panel": {
           "type": "color",
-          "value": "{theme.bg.primary}"
+          "value": "{semantic.bg.primary}"
         },
         "modeless": {
           "type": "color",
-          "value": "{theme.bg.primary}"
+          "value": "{semantic.bg.primary}"
         },
         "modeless-inverse": {
           "type": "color",
-          "value": "{theme.bg.primary-inverse}"
+          "value": "{semantic.bg.primary-inverse}"
         },
         "form-field": {
           "default": {
             "type": "color",
-            "value": "{theme.bg.primary}"
+            "value": "{semantic.bg.primary}"
           },
           "muted": {
             "type": "color",
-            "value": "{theme.bg.secondary}"
+            "value": "{semantic.bg.secondary}"
           }
         }
       },
@@ -765,7 +765,7 @@
           "type": "color"
         },
         "error": {
-          "value": "{theme.border.danger}",
+          "value": "{semantic.border.danger}",
           "type": "color"
         },
         "focus": {
@@ -789,250 +789,19 @@
       },
       "content": {
         "default": {
-          "value": "{theme.content.secondary}",
+          "value": "{semantic.content.secondary}",
           "type": "color"
         },
         "placeholder": {
-          "value": "{theme.content.disabled}",
+          "value": "{semantic.content.disabled}",
           "type": "color"
         },
         "entry": {
-          "value": "{theme.content.primary}",
+          "value": "{semantic.content.primary}",
           "type": "color"
         }
       }
     },
-    "shadow": {
-      "card": {
-        "value": [
-          {
-            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "2",
-            "spread": "0"
-          },
-          {
-            "x": "0",
-            "y": "1",
-            "blur": "3",
-            "spread": "0",
-            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "overlay-top": {
-        "value": [
-          {
-            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "2",
-            "spread": "0"
-          },
-          {
-            "x": "0",
-            "y": "4",
-            "blur": "8",
-            "spread": "0",
-            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "overlay-bottom": {
-        "value": [
-          {
-            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "2",
-            "spread": "0"
-          },
-          {
-            "x": "0",
-            "y": "-4",
-            "blur": "8",
-            "spread": "0",
-            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "modal": {
-        "value": [
-          {
-            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "2",
-            "spread": "0"
-          },
-          {
-            "x": "0",
-            "y": "8",
-            "blur": "16",
-            "spread": "0",
-            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "bottom-sheet": {
-        "value": [
-          {
-            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
-            "type": "dropShadow",
-            "x": "0",
-            "y": "-16",
-            "blur": "24",
-            "spread": "-8"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "component": {
-        "action": {
-          "primary": {
-            "value": {
-              "x": "0",
-              "y": "12",
-              "blur": "8",
-              "spread": "-8",
-              "color": "rgba({theme.action.primary.normal}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          },
-          "accent": {
-            "value": {
-              "x": "0",
-              "y": "12",
-              "blur": "8",
-              "spread": "-8",
-              "color": "rgba({theme.action.accent.normal}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          },
-          "success": {
-            "value": {
-              "x": "0",
-              "y": "12",
-              "blur": "8",
-              "spread": "-8",
-              "color": "rgba({theme.action.success.normal}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          },
-          "danger": {
-            "value": {
-              "x": "0",
-              "y": "12",
-              "blur": "8",
-              "spread": "-8",
-              "color": "rgba({theme.action.danger.normal}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          }
-        },
-        "default": {
-          "brand": {
-            "value": {
-              "x": "0",
-              "y": "6",
-              "blur": "4",
-              "spread": "-4",
-              "color": "rgba( {theme.bg.brand}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          },
-          "accent": {
-            "value": {
-              "x": "0",
-              "y": "6",
-              "blur": "4",
-              "spread": "-4",
-              "color": "rgba( {theme.bg.accent}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          },
-          "success": {
-            "value": {
-              "x": "0",
-              "y": "6",
-              "blur": "4",
-              "spread": "-4",
-              "color": "rgba( {theme.bg.success} , {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          },
-          "danger": {
-            "value": {
-              "x": "0",
-              "y": "6",
-              "blur": "4",
-              "spread": "-4",
-              "color": "rgba( {theme.bg.danger}, {core.opacity.300})",
-              "type": "dropShadow"
-            },
-            "type": "boxShadow"
-          }
-        }
-      }
-    },
-    "focus": {
-      "default": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "2",
-            "color": "{theme.interaction.border.focus}",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      },
-      "offset": {
-        "value": [
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "1",
-            "color": "{theme.bg.primary}",
-            "type": "dropShadow"
-          },
-          {
-            "x": "0",
-            "y": "0",
-            "blur": "0",
-            "spread": "3",
-            "color": "{theme.interaction.border.focus}",
-            "type": "dropShadow"
-          }
-        ],
-        "type": "boxShadow"
-      }
-    }
-  },
-  "semantic": {
     "border-radius": {
       "container": {
         "none": {
@@ -1193,6 +962,237 @@
             "type": "other"
           }
         }
+      }
+    }
+  },
+  "theme": {
+    "shadow": {
+      "card": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "overlay-top": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "overlay-bottom": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "-4",
+            "blur": "8",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "modal": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.50})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "0",
+            "blur": "2",
+            "spread": "0"
+          },
+          {
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0",
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "bottom-sheet": {
+        "value": [
+          {
+            "color": "rgba({base.neutral.1100}, {core.opacity.150})",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "-16",
+            "blur": "24",
+            "spread": "-8"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "component": {
+        "action": {
+          "primary": {
+            "value": {
+              "x": "0",
+              "y": "12",
+              "blur": "8",
+              "spread": "-8",
+              "color": "rgba({semantic.action.primary.normal}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "accent": {
+            "value": {
+              "x": "0",
+              "y": "12",
+              "blur": "8",
+              "spread": "-8",
+              "color": "rgba({semantic.action.accent.normal}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "success": {
+            "value": {
+              "x": "0",
+              "y": "12",
+              "blur": "8",
+              "spread": "-8",
+              "color": "rgba({semantic.action.success.normal}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "danger": {
+            "value": {
+              "x": "0",
+              "y": "12",
+              "blur": "8",
+              "spread": "-8",
+              "color": "rgba({semantic.action.danger.normal}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "default": {
+          "brand": {
+            "value": {
+              "x": "0",
+              "y": "6",
+              "blur": "4",
+              "spread": "-4",
+              "color": "rgba( {semantic.bg.brand}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "accent": {
+            "value": {
+              "x": "0",
+              "y": "6",
+              "blur": "4",
+              "spread": "-4",
+              "color": "rgba( {semantic.bg.accent}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "success": {
+            "value": {
+              "x": "0",
+              "y": "6",
+              "blur": "4",
+              "spread": "-4",
+              "color": "rgba( {semantic.bg.success} , {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "danger": {
+            "value": {
+              "x": "0",
+              "y": "6",
+              "blur": "4",
+              "spread": "-4",
+              "color": "rgba( {semantic.bg.danger}, {core.opacity.300})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      }
+    },
+    "focus": {
+      "default": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "2",
+            "color": "{semantic.interaction.border.focus}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
+      },
+      "offset": {
+        "value": [
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "1",
+            "color": "{semantic.bg.primary}",
+            "type": "dropShadow"
+          },
+          {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "3",
+            "color": "{semantic.interaction.border.focus}",
+            "type": "dropShadow"
+          }
+        ],
+        "type": "boxShadow"
       }
     }
   }

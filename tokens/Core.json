@@ -1426,88 +1426,6 @@
         "type": "opacity"
       }
     },
-    "space": {
-      "0": {
-        "value": "0",
-        "type": "spacing"
-      },
-      "1": {
-        "value": "1",
-        "type": "spacing"
-      },
-      "25": {
-        "value": "{core.space.base} * 25",
-        "type": "spacing"
-      },
-      "50": {
-        "value": "{core.space.base} * 50",
-        "type": "spacing"
-      },
-      "75": {
-        "value": "{core.space.base} * 75",
-        "type": "spacing"
-      },
-      "100": {
-        "value": "{core.space.base} * 100",
-        "type": "spacing"
-      },
-      "125": {
-        "value": "{core.space.base} * 125",
-        "type": "spacing"
-      },
-      "150": {
-        "value": "{core.space.base} * 150",
-        "type": "spacing"
-      },
-      "175": {
-        "value": "{core.space.base} * 175",
-        "type": "spacing"
-      },
-      "200": {
-        "value": "{core.space.base} * 200",
-        "type": "spacing"
-      },
-      "250": {
-        "value": "{core.space.base} * 250",
-        "type": "spacing"
-      },
-      "300": {
-        "value": "{core.space.base} * 300",
-        "type": "spacing"
-      },
-      "400": {
-        "value": "{core.space.base} * 400",
-        "type": "spacing"
-      },
-      "500": {
-        "value": "{core.space.base} * 500",
-        "type": "spacing"
-      },
-      "600": {
-        "value": "{core.space.base} * 600",
-        "type": "spacing"
-      },
-      "700": {
-        "value": "{core.space.base} * 700",
-        "type": "spacing"
-      },
-      "800": {
-        "value": "{core.space.base} * 800",
-        "type": "spacing"
-      },
-      "900": {
-        "value": "{core.space.base} * 900",
-        "type": "spacing"
-      },
-      "1000": {
-        "value": "{core.space.base} * 1000",
-        "type": "spacing"
-      },
-      "base": {
-        "value": "{core.size.scale} / 100",
-        "type": "spacing"
-      }
-    },
     "border-radius": {
       "0": {
         "value": "0",
@@ -1566,7 +1484,7 @@
         "type": "borderRadius"
       },
       "base": {
-        "value": "{core.size.scale} / 100",
+        "value": "{core.size.SCALE} / 100",
         "type": "borderRadius"
       }
     },
@@ -1710,12 +1628,12 @@
         "type": "dimension"
       },
       "base": {
-        "value": "{core.size.scale} / 100",
+        "value": "{core.size.SCALE} / 100",
         "type": "dimension"
       }
     },
     "size": {
-      "scale": {
+      "SCALE": {
         "value": "8",
         "type": "sizing",
         "description": "base-scale of all size-related tokens (size, space, dimension)."
